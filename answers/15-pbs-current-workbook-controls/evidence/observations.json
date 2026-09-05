@@ -1,0 +1,57 @@
+{
+  "bounty": 15,
+  "status": "partial; keep open",
+  "workbook": "PBS-dashboard-AgeGroup-Monthly-date-20241128",
+  "sheet": "PBSdashboard",
+  "navigation_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?:showVizHome=no&State/Territory=Victoria&LGA=Wodonga&ATC%20Level%201=Dermatologicals",
+  "observed_final_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+  "historical_csv_request_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard.csv?:showVizHome=no&State/Territory=Victoria&LGA=Wodonga&ATC%20Level%201=Dermatologicals",
+  "requested_query_values": {
+    "State/Territory": "Victoria",
+    "LGA": "Wodonga",
+    "ATC Level 1": "Dermatologicals"
+  },
+  "workbook_name_date_is_publication_or_data_period": false,
+  "current_observation_times": {
+    "initial_observed_at_utc": "2026-09-05T19:07:50.752Z",
+    "final_observed_at_utc": "2026-09-05T19:09:50.497Z"
+  },
+  "initial_visible_controls": {
+    "state_label": "Select State/Territory:",
+    "state": "Australia",
+    "lga_label": "Select an LGA:",
+    "lga": "All",
+    "years": "All years",
+    "measure": "Monthly data",
+    "atc1_medicine": "(All PBS prescriptions)"
+  },
+  "initial_export_visible_controls": {
+    "state": "Australia",
+    "lga": "All",
+    "years": "All years",
+    "measure": "Monthly data",
+    "atc1_medicine": "None",
+    "atc2_medicine": "Agents acting on the renin-angiotensin system"
+  },
+  "manual_selection_observation": {
+    "state": "Victoria",
+    "lga_label": "Select a Victoria LGA:",
+    "lga": "Wodonga",
+    "atc1_open_menu": "No Items.",
+    "atc1_selected_label": "(All PBS prescriptions)",
+    "lga_options_observed": [
+      "Ballarat",
+      "Wodonga"
+    ]
+  },
+  "visible_chart_status": "Data is suppressed for this measure/geography combination",
+  "legacy_url_filters_visibly_honored": false,
+  "filter_processing_mechanism_known": false,
+  "dermatologicals_selected_or_exported": false,
+  "data_period_recovered": false,
+  "numeric_response_recovered": false,
+  "historical_response_bytes_recovered": false,
+  "cross_version_field_equivalence_proven": false,
+  "independent_historical_publication_recovered": false,
+  "interpretation_scope": "Visual and accessibility observations of this current rendered state; not proof that a server ignored every parameter, that the underlying data are absent, or that a current named workbook preserves a historical version."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "files": {
+    "evidence/acquisitions.json": {
+      "bytes": 4835,
+      "sha256": "00c854ddd23ed31d27c62b78fb0884ba434d7c7ddc1ffcc256b54e6988150996"
+    },
+    "evidence/initial-query.ax.txt": {
+      "bytes": 8823,
+      "sha256": "e587f2b65bfd8a8919bea1c4d9b7151ee59bb57422613f86e0914662db4f0623"
+    },
+    "evidence/initial-query.jpg": {
+      "bytes": 54230,
+      "sha256": "ddb9ce146e10becb6c5216716d0183ff483145be9024a229caa000ed0b000f07"
+    },
+    "evidence/manual-victoria-wodonga-empty-medicine.ax.txt": {
+      "bytes": 8831,
+      "sha256": "f1784ffd40e27d6eb495e81441f94b829821c0a6cf109b2abd99133b94056ede"
+    },
+    "evidence/manual-victoria-wodonga-empty-medicine.jpg": {
+      "bytes": 55415,
+      "sha256": "d9eeec15a7caefbb8d650cd7b91e44ea64c0a099691d0199a85c84f27aadccd7"
+    },
+    "evidence/observations.json": {
+      "bytes": 2681,
+      "sha256": "b19f211f6e4fcdd8b28ff0e0a12317c0b42083ba0f20ee473e0092b667f7d69f"
+    },
+    "evidence/outcomes.json": {
+      "bytes": 1196,
+      "sha256": "f03bb3170810edce8481fd17678b7c8c7e915df87395a05d044cc6fd1dff1881"
+    },
+    "evidence/pbs-default-export.png": {
+      "bytes": 98272,
+      "sha256": "df10488dd47b56217f41afdab375dcda011bf24f3ecf018312e301c62078a680"
+    },
+    "evidence/victoria-lga-menu.ax.txt": {
+      "bytes": 12119,
+      "sha256": "5098318285a78e8c9848b0f768e6c23fc4cd3aac0d82c158f85e2e269e185d5a"
+    }
+  }
+}

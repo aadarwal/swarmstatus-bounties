@@ -1,0 +1,26 @@
+{
+  "scope": "One exact first-party Tableau navigation, one ordinary Image export, bounded visible controls; one two-query official-domain search. No endpoint permutations, proxy replay, manually replayed POST requests or archive sweep.",
+  "outcomes": [
+    {
+      "attempt": "exact old-workbook view",
+      "result": "loaded after automatic browser security verification; no CAPTCHA solved or protection bypassed"
+    },
+    {
+      "attempt": "official AIHW-domain exact identifier search",
+      "result": "no search results; not evidence of global absence"
+    },
+    {
+      "attempt": "Tableau Download > Image",
+      "result": "success; late-arriving download retained after initial filesystem check had not found it"
+    },
+    {
+      "attempt": "manual state/LGA controls",
+      "result": "Victoria and Wodonga visibly selected; Ballarat also present in state-specific options"
+    },
+    {
+      "attempt": "ATC1 medicine selector",
+      "result": "No Items.; Dermatologicals selection not possible in the observed state"
+    }
+  ],
+  "remaining_gap": "Independent historical publication, readable filtered data/time coverage and demonstrated mapping to both later workbooks."
+}

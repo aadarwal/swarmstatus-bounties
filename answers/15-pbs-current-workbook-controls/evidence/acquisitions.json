@@ -1,0 +1,87 @@
+[
+  {
+    "artifact": "evidence/initial-query.ax.txt",
+    "bytes": 8823,
+    "sha256": "e587f2b65bfd8a8919bea1c4d9b7151ee59bb57422613f86e0914662db4f0623",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": "2026-09-05T19:07:50.752Z",
+    "clock_basis": "researcher capture clock",
+    "method": "Chrome first-party Tableau UI accessibility text"
+  },
+  {
+    "artifact": "evidence/initial-query.jpg",
+    "bytes": 54230,
+    "sha256": "ddb9ce146e10becb6c5216716d0183ff483145be9024a229caa000ed0b000f07",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": "2026-09-05T19:07:50.752Z",
+    "clock_basis": "researcher capture clock",
+    "method": "Chrome viewport screenshot",
+    "mime_type": "image/jpeg",
+    "image_dimensions": [
+      1200,
+      909
+    ]
+  },
+  {
+    "artifact": "evidence/victoria-lga-menu.ax.txt",
+    "bytes": 12119,
+    "sha256": "5098318285a78e8c9848b0f768e6c23fc4cd3aac0d82c158f85e2e269e185d5a",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": null,
+    "acquisition_interval_utc": [
+      "2026-09-05T19:07:50.752Z",
+      "2026-09-05T19:09:50.497Z"
+    ],
+    "clock_basis": "Exact menu snapshot timestamp not separately recorded; bounded by initial/final capture clocks.",
+    "method": "Chrome accessibility text with state-specific LGA menu expanded"
+  },
+  {
+    "artifact": "evidence/manual-victoria-wodonga-empty-medicine.ax.txt",
+    "bytes": 8831,
+    "sha256": "f1784ffd40e27d6eb495e81441f94b829821c0a6cf109b2abd99133b94056ede",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": "2026-09-05T19:09:50.497Z",
+    "clock_basis": "researcher capture clock",
+    "method": "Chrome first-party Tableau UI accessibility text"
+  },
+  {
+    "artifact": "evidence/manual-victoria-wodonga-empty-medicine.jpg",
+    "bytes": 55415,
+    "sha256": "d9eeec15a7caefbb8d650cd7b91e44ea64c0a099691d0199a85c84f27aadccd7",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": "2026-09-05T19:09:50.497Z",
+    "clock_basis": "researcher capture clock",
+    "method": "Chrome viewport screenshot",
+    "mime_type": "image/jpeg",
+    "image_dimensions": [
+      1200,
+      909
+    ]
+  },
+  {
+    "artifact": "evidence/pbs-default-export.png",
+    "bytes": 98272,
+    "sha256": "df10488dd47b56217f41afdab375dcda011bf24f3ecf018312e301c62078a680",
+    "source_view_url": "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria",
+    "response_http_status": null,
+    "http_status_caveat": "No network response status or export download endpoint was captured from the UI.",
+    "acquired_at_utc": "2026-09-05T19:08:33.355180+00:00",
+    "clock_basis": "Browser download file modification time, not workbook publication time",
+    "method": "Tableau Download > Image; unmodified downloaded PNG",
+    "png_dimensions": [
+      800,
+      1830
+    ],
+    "mime_type": "image/png"
+  }
+]
