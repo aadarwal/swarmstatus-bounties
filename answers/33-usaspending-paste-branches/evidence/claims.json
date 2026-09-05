@@ -1,0 +1,42 @@
+{
+  "bounty": 33,
+  "status": "partial; keep open",
+  "capture_date_utc": "2026-09-05",
+  "expected_body_pairs": [
+    [
+      "7d012d32",
+      "b0924d89"
+    ],
+    [
+      "d379207f",
+      "59c84c78"
+    ]
+  ],
+  "expected_parents": {
+    "7d012d32": "34cb12da",
+    "d379207f": "34cb12da",
+    "b0924d89": "89a3961d",
+    "59c84c78": "89a3961d",
+    "a43cd523": "89a3961d"
+  },
+  "filler_controls": {
+    "34cb12da": "x",
+    "89a3961d": "SHIFT8"
+  },
+  "historical_creation_times_recovered": 0,
+  "independently_dated_template_recovered": false,
+  "scope": "Current provider-stored structural relations and exact source text equality. Not a semantic conversation, actor identity, task execution or copying direction.",
+  "corpus_comparison": {
+    "full_scope": "frozen full round-3 acquisition database before these parent captures",
+    "focused_scope": "frozen focused round-3 snapshot before these parent captures",
+    "method": "Exact source URL lookup restricted to paste_body; existing retained bodies compared to one-entity-decoded current textarea.",
+    "full_missing_ids": [
+      "34cb12da"
+    ],
+    "focused_missing_ids": [
+      "34cb12da",
+      "89a3961d"
+    ],
+    "limitation": "Original database is omitted. This package verifies retained declarations and source excerpts, not full-corpus completeness or absence."
+  }
+}
