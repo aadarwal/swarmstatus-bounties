@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "package_id": "iowa18-native-parent-content-ack-partial-v1",
+  "refs": [
+    18
+  ],
+  "publication_status": "draft",
+  "files": {
+    "answer18.md": {
+      "bytes": 8196,
+      "sha256": "f767641a1eba9221c1e7ad4dbd4120ca35ce8fd2b04b13e1e717db44696ebf19"
+    },
+    "body-clock-provenance.csv": {
+      "bytes": 2278,
+      "sha256": "8b16e10bd7eb46a609e3876ecb226d66651dfc3fb8434fec64cdea08406e7b39"
+    },
+    "evidence/api/7a45b400.json": {
+      "bytes": 1274,
+      "sha256": "dac704aaa0f079ccf471e57ae8d9a633a1fdd0238b580149c8b43be13e3bf6fa"
+    },
+    "evidence/api/8246f250.json": {
+      "bytes": 1033,
+      "sha256": "8701d2f2638a7c2d23f6e85e16b7dce39c000c05ec632b51f425fd0a5ca6b71f"
+    },
+    "evidence/api/d509c771.json": {
+      "bytes": 930,
+      "sha256": "c199b0df812b465a7498f86714a12d74a8401cfbe1b4a11d4a3bf5759c47cfea"
+    },
+    "evidence/api/e53f96e2.json": {
+      "bytes": 607,
+      "sha256": "b07bcc35a0d9be178f437420ceaa5f67939e59126c66f795ac0b1f2f68b7983b"
+    },
+    "evidence/bodies/7a45b400.txt": {
+      "bytes": 296,
+      "sha256": "63d7bb7afc61559aa8be22ae37b1f96f25740405795a80a97f68bf79e6c22a17"
+    },
+    "evidence/bodies/8246f250.txt": {
+      "bytes": 211,
+      "sha256": "36b40a8e6ca558daefdf5759d3781bff4e8985a9178cd114ab9e799269921751"
+    },
+    "evidence/bodies/d509c771.txt": {
+      "bytes": 159,
+      "sha256": "25e51486a72ccc9cc1e2a988c15ad166a95b047ad30c648dc1a1d2f3a4abd75c"
+    },
+    "evidence/bodies/e53f96e2.txt": {
+      "bytes": 20,
+      "sha256": "0fc6fa377148e931ec4c73e01ddec4993b753c9c5bcc8933c90dcdca86c6e6e2"
+    },
+    "evidence/claims.json": {
+      "bytes": 2082,
+      "sha256": "bd082d1c7c21436ad82b5ab47943f0b9a4e90a82d6004fbb8f569e35079b9cb4"
+    },
+    "evidence/observations.json": {
+      "bytes": 6284,
+      "sha256": "11f84e6be0243d40f992f651fd7a95a01a152de62cae0f91c414c3546ef6b1a8"
+    },
+    "evidence/provenance.json": {
+      "bytes": 4569,
+      "sha256": "af6ce34773c3d850f69a72c12009d6e97ce9266c48b5b1f26578c0794cece2bf"
+    },
+    "updates-event-draft.json": {
+      "bytes": 1295,
+      "sha256": "2b8b81e93e856c7ebc422e64f6e2a24dcbce94fc210efed653baed41b5f5b79b"
+    },
+    "verify.py": {
+      "bytes": 10280,
+      "sha256": "23dffe09e550f349c2c13e5428c5e93a54cd5db9f8084dfc3dd68c37710355b1"
+    }
+  }
+}
