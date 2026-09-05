@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "manifest_files": 9,
+  "publisher_png_bytes": 98272,
+  "publisher_png_dimensions": [
+    800,
+    1830
+  ],
+  "exact_workbook": "PBS-dashboard-AgeGroup-Monthly-date-20241128",
+  "selected_legacy_filters_verified": false,
+  "historical_values_or_period_recovered": false,
+  "issue_15": "keep open",
+  "scope": "Verifies packaged integrity, literal AX text, preserved query constraints and explicit observation limits. Visual PNG/control interpretation is an observer transcription, not OCR or independent historical authentication.",
+  "negative_controls": {
+    "rejected": 5,
+    "cases": [
+      "tampered same-length image",
+      "wrong workbook version",
+      "wrong requested LGA",
+      "unsupported filter success",
+      "unsupported historical data period"
+    ]
+  }
+}

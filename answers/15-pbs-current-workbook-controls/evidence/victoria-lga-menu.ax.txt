@@ -1,0 +1,294 @@
+Browser tab: 1286022454, Title: "Workbook: PBS-dashboard-AgeGroup-Monthly-date-20241128", URL: "https://viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria".
+0 AXWebArea Workbook: PBS-dashboard-AgeGroup-Monthly-date-20241128, URL: viz.aihw.gov.au/t/Public/views/PBS-dashboard-AgeGroup-Monthly-date-20241128/PBSdashboard?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&ATC%20Level%201=Dermatologicals&LGA=Wodonga&State%2FTerritory=Victoria
+	1 container
+		2 container viz-client-container
+			3 container main-content
+				4 container tab-dashboard-region
+					5 text Pharmaceutical Benefits Scheme (PBS) prescriptions
+					6 container tableau_base_widget_ParameterControl_0
+						7 heading Select State/Territory:, Value: 3
+							128 text Select State/Territory:
+						9 pop up button (collapsed) Description: Select State/Territory: Victoria, Secondary Actions: Expand
+					129 container tableau_base_widget_ParameterControl_3
+						130 heading Select a Victoria LGA:, Value: 3
+							131 text Select a Victoria LGA:
+						132 pop up button (expanded) Description: Select a Victoria LGA: All, Secondary Actions: Collapse
+					14 container
+						15 heading 2
+						16 container Data Visualisation. Multipolygon chart of Longitude (generated) Latitude (generated), Colour applied to State, Detail applied to Lga Name, Detail applied to LGA, applied to Geometry (generated) Detail applied to Lga Name, Detail applied to LGA Detail applied to State, Detail applied to Lga Name, Detail applied to LGA, applied to Geometry (generated). No data to visualise with current filters. To create a visualisation and access the View Data Window, expand filters.
+					17 container
+						18 heading 2
+						19 container Data Visualisation. Multipolygon chart of Longitude (generated) Latitude (generated), Detail applied to State, Detail applied to Lga Name, Detail applied to LGA, applied to Geometry (generated). No data to visualise with current filters. To create a visualisation and access the View Data Window, expand filters.
+					20 container tableau_base_widget_ParameterControl_10
+						21 heading Select years, Value: 3
+							22 text Select years
+						23 Select years
+							24 radio button Last 5 years, Value: 0, ID: [Parameters].[Parameter 2]_0
+								25 container
+									26 radio button (settable, integer) 0
+									27 text Last 5 years
+							28 radio button Last 10 years, Value: 0, ID: [Parameters].[Parameter 2]_1
+								29 container
+									30 radio button (settable, integer) 0
+									31 text Last 10 years
+							32 radio button All years, Value: 1, ID: [Parameters].[Parameter 2]_2
+								33 container
+									34 radio button (settable, integer) 1
+									35 text All years
+					36 container tableau_base_widget_ParameterControl_9
+						37 heading Select measures, Value: 3
+							38 text Select measures
+						39 Select measures
+							40 radio button Monthly data, Value: 1, ID: [Parameters].[Parameter 3]_0
+								41 container
+									42 radio button (settable, integer) 1
+									43 text Monthly data
+							44 radio button Rolling 3 months average, Value: 0, ID: [Parameters].[Parameter 3]_1
+								45 container
+									46 radio button (settable, integer) 0
+									47 text Rolling 3 months average
+							48 radio button Rolling 12 months average, Value: 0, ID: [Parameters].[Parameter 3]_2
+								49 container
+									50 radio button (settable, integer) 0
+									51 text Rolling 12 months average
+					52 button Compare by age group
+					53 button Compare by Location
+					54 image Image
+					55 text Anatomical Therapeutic Chemical (ATC) Classification Level 1       
+					56 container
+						57 heading 2
+						58 container view12904539836509994782_18304699055077816470
+						59 container Data Visualisation. Square chart, Tooltip applied to 1. Press Enter to navigate the data visualisation. Press tab to navigate to the next object.
+					60 container
+						61 heading 2
+						62 container view12904539836509994782_98530137043593310
+						63 container Data Visualisation. Shape chart, Tooltip applied to ATC1Description. Press Enter to navigate the data visualisation. Press tab to navigate to the next object.
+					64 container tableau_base_widget_LegacyCategoricalQuickFilter_0
+						65 heading Filter Select medicine group Inclusive, Help: Select medicine group, Value: 3, ID: tab-ui-id-1788635224940
+							66 text Filter
+							67 text Select medicine group
+							68 text Inclusive
+						69 combo box (collapsed) Secondary Actions: Expand
+					70 container tableau_base_legend_color_q_ATC1
+						71 checkbox Description: Highlight mode to select items in color legend for is Off., Help: Highlight Selected Items, Value: 0
+						72 heading 3
+						73 list color legend for . Press Enter to turn Highlight mode on or off. Use arrow keys to navigate the list of values. Then press Space to toggle the Highlight on or off for a value
+					74 container
+						75 heading 2
+						76 container Data Visualisation. Line chart of Month of Spply Month Select measures | Benefits Select measures | Avg_scripts, Colour applied to Series (1), Label applied to Series (label) (1), Detail applied to Type, Detail applied to LGA NSW, Tooltip applied to rolling 12 months average text, Tooltip applied to rolling 3 months average text, Tooltip applied to Typeofscript Colour applied to Series (1), Label applied to Series (label) (1), Detail applied to Type, Tooltip applied to rolling 12 months average text, Tooltip applied to rolling 3 months average text, Tooltip applied to Typeofscript. No data to visualise with current filters. To create a visualisation and access the View Data Window, expand filters.
+					77 text Data is suppressed for this measure/geography combination
+					78 image Image
+					79 text Anatomical Therapeutic Chemical (ATC) Classification Level 2
+					80 container
+						81 heading 2
+						82 container view12904539836509994782_7512238920586139791
+						83 container Data Visualisation. Shape chart, Tooltip applied to Description. Press Enter to navigate the data visualisation. Press tab to navigate to the next object.
+					84 container tableau_base_widget_LegacyCategoricalQuickFilter_1
+						85 heading Filter Select medicine group Inclusive, Help: Select medicine group, Value: 3, ID: tab-ui-id-1788635224943
+							86 text Filter
+							87 text Select medicine group
+							88 text Inclusive
+						89 combo box (collapsed) Secondary Actions: Expand
+					90 container tableau_base_legend_color_q_ATC2%20-%20Location
+						91 checkbox Description: Highlight mode to select items in color legend for is Off., Help: Highlight Selected Items, Value: 0
+						92 heading 3
+						93 list color legend for . Press Enter to turn Highlight mode on or off. Use arrow keys to navigate the list of values. Then press Space to toggle the Highlight on or off for a value
+					94 container
+						95 heading 2
+						96 container Data Visualisation. Line chart of Month of Spply Month Select measures | Benefits Select measures | Avg_scripts, Colour applied to Series (1), Label applied to Series (label) (1), Detail applied to Type, Tooltip applied to rolling 12 months average text, Tooltip applied to rolling 3 months average text, Tooltip applied to Typeofscript. No data to visualise with current filters. To create a visualisation and access the View Data Window, expand filters.
+					97 text Data is suppressed for this measure/geography combination
+			98 toolbar Description: Visualisation controls, ID: viz-viewer-toolbar
+				99 button Undo, ID: undo
+					100 image
+					101 text Undo
+				102 button (disabled) Redo, ID: redo
+					103 image
+					104 text Redo
+				105 button Revert, ID: revert
+					106 image
+					107 text Revert
+				108 button Refresh, ID: refresh
+					109 image
+					110 text Refresh
+				111 button Pause, ID: updates
+					112 image
+					113 text Pause
+				114 container
+					115 button (disabled) Replay Animation, ID: replay
+						116 image
+						117 text Replay Animation
+					118 checkbox (disabled, collapsed) Replay Speed Options, Value: 0, ID: replay-secondary, Secondary Actions: Expand
+				119 checkbox (collapsed) Download, Value: 0, ID: download, Secondary Actions: Expand
+					120 image
+					121 text Download
+				122 button Full Screen, ID: fullscreen
+					123 image
+					124 text Full Screen
+				125 button Share, ID: share
+					126 image
+					127 text Share
+		133 menu Description: Select a Victoria LGA:, ID: tab-ui-id-1788635224934
+			134 All, ID: tab-menuItem15
+				135 text All
+			136 Alpine
+				137 text Alpine
+			138 Ararat
+				139 text Ararat
+			140 Ballarat
+				141 text Ballarat
+			142 Banyule
+				143 text Banyule
+			144 Bass Coast
+				145 text Bass Coast
+			146 Baw Baw
+				147 text Baw Baw
+			148 Bayside (C)
+				149 text Bayside (C)
+			150 Benalla
+				151 text Benalla
+			152 Boroondara
+				153 text Boroondara
+			154 Brimbank
+				155 text Brimbank
+			156 Buloke
+				157 text Buloke
+			158 Campaspe
+				159 text Campaspe
+			160 Cardinia
+				161 text Cardinia
+			162 Casey
+				163 text Casey
+			164 Central Goldfields
+				165 text Central Goldfields
+			166 Colac-Otway
+				167 text Colac-Otway
+			168 Corangamite
+				169 text Corangamite
+			170 Darebin
+				171 text Darebin
+			172 East Gippsland
+				173 text East Gippsland
+			174 Frankston
+				175 text Frankston
+			176 Gannawarra
+				177 text Gannawarra
+			178 Glen Eira
+				179 text Glen Eira
+			180 Glenelg
+				181 text Glenelg
+			182 Golden Plains
+				183 text Golden Plains
+			184 Greater Bendigo
+				185 text Greater Bendigo
+			186 Greater Dandenong
+				187 text Greater Dandenong
+			188 Greater Geelong
+				189 text Greater Geelong
+			190 Greater Shepparton
+				191 text Greater Shepparton
+			192 Hepburn
+				193 text Hepburn
+			194 Hindmarsh
+				195 text Hindmarsh
+			196 Hobsons Bay
+				197 text Hobsons Bay
+			198 Horsham
+				199 text Horsham
+			200 Hume
+				201 text Hume
+			202 Indigo
+				203 text Indigo
+			204 Kingston (Vic.)
+				205 text Kingston (Vic.)
+			206 Knox
+				207 text Knox
+			208 Latrobe (Vic.)
+				209 text Latrobe (Vic.)
+			210 Loddon
+				211 text Loddon
+			212 Macedon Ranges
+				213 text Macedon Ranges
+			214 Manningham
+				215 text Manningham
+			216 Mansfield
+				217 text Mansfield
+			218 Maribyrnong
+				219 text Maribyrnong
+			220 Maroondah
+				221 text Maroondah
+			222 Melbourne
+				223 text Melbourne
+			224 Melton
+				225 text Melton
+			226 Mildura
+				227 text Mildura
+			228 Mitchell
+				229 text Mitchell
+			230 Moira
+				231 text Moira
+			232 Monash
+				233 text Monash
+			234 Moonee Valley
+				235 text Moonee Valley
+			236 Moorabool
+				237 text Moorabool
+			238 Moreland
+				239 text Moreland
+			240 Mornington Peninsula
+				241 text Mornington Peninsula
+			242 Mount Alexander
+				243 text Mount Alexander
+			244 Moyne
+				245 text Moyne
+			246 Murrindindi
+				247 text Murrindindi
+			248 Nillumbik
+				249 text Nillumbik
+			250 Northern Grampians
+				251 text Northern Grampians
+			252 Port Phillip
+				253 text Port Phillip
+			254 Pyrenees
+				255 text Pyrenees
+			256 Queenscliffe
+				257 text Queenscliffe
+			258 South Gippsland
+				259 text South Gippsland
+			260 Southern Grampians
+				261 text Southern Grampians
+			262 Stonnington
+				263 text Stonnington
+			264 Strathbogie
+				265 text Strathbogie
+			266 Surf Coast
+				267 text Surf Coast
+			268 Swan Hill
+				269 text Swan Hill
+			270 Towong
+				271 text Towong
+			272 Unincorporated Vic
+				273 text Unincorporated Vic
+			274 Wangaratta
+				275 text Wangaratta
+			276 Warrnambool
+				277 text Warrnambool
+			278 Wellington
+				279 text Wellington
+			280 West Wimmera
+				281 text West Wimmera
+			282 Whitehorse
+				283 text Whitehorse
+			284 Whittlesea
+				285 text Whittlesea
+			286 Wodonga
+				287 text Wodonga
+			288 Wyndham
+				289 text Wyndham
+			290 Yarra
+				291 text Yarra
+			292 Yarra Ranges
+				293 text Yarra Ranges
+			294 Yarriambiack
+				295 text Yarriambiack
+
+The focused UI element is 133 menu Description: Select a Victoria LGA:, ID: tab-ui-id-1788635224934
