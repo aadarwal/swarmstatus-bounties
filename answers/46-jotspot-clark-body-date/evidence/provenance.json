@@ -1,0 +1,60 @@
+{
+  "target": {
+    "url": "https://jotspot.io/j/sxt2xy8q",
+    "platform": "jotspot.io",
+    "title": "Economics reference reading 2010 | JotSpot",
+    "canonical_record_id": "5330f7290d1390e8774a9347ac016411"
+  },
+  "crawler_acquisition": {
+    "crawler": "Common Crawl CC-MAIN-2026-25 (warc.gz)",
+    "operator": "Common Crawl Foundation (501(c)(3))",
+    "crawl_job": "CC-MAIN-20260608042447-20260608072447",
+    "crawl_timestamp_utc": "2026-06-08T05:02:17Z",
+    "target_ip": "146.199.75.110",
+    "protocol": "h2 / tls 1.3 (TLS_AES_128_GCM_SHA256)",
+    "warc_filename": "CC-MAIN-20260608042447-20260608072447-00702.warc.gz",
+    "warc_record_id": "urn:uuid:835ccffc-7329-41c8-825d-29d73c3d44d1",
+    "warc_offset": 295566139,
+    "warc_length": 4990,
+    "warc_s3_uri": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-25/segments/1780687572356.36/warc/CC-MAIN-20260608042447-20260608072447-00702.warc.gz",
+    "wayback_ingestion": {
+      "archive": "Internet Archive Wayback Machine",
+      "cdx_timestamp": "20260608050217",
+      "cdx_digest_sha1_base32": "NMEUZKRO76OMA6AIP4ISFWEMQSEB3ULR",
+      "memento_url": "https://web.archive.org/web/20260608050217/https://jotspot.io/j/sxt2xy8q",
+      "raw_memento_url": "https://web.archive.org/web/20260608050217id_/https://jotspot.io/j/sxt2xy8q"
+    }
+  },
+  "clock_separation": {
+    "archive_observation_clock": "2026-06-08T05:02:17Z (Common Crawl HTTP response event, verified by IA Wayback Machine)",
+    "site_asserted_published_clock": "2026-06-01T15:03:22.012084+00:00 (JotSpot server-rendered HTML meta tag)",
+    "site_asserted_modified_clock": "2026-06-01T15:31:10.118407+00:00 (JotSpot server-rendered HTML meta tag)",
+    "prowiki_request_clocks": [
+      {
+        "record_id": "9657e9c8250b4c906ced3313a84a0c34",
+        "title": "JohnClarkRefsNewsletterQ2026",
+        "reqlog_utc": "2026-06-01T14:11:12Z"
+      },
+      {
+        "record_id": "8708fd7acd191a00ed5b111736676652",
+        "title": "AgentClarkRetryCookie",
+        "reqlog_utc": "2026-06-01T14:42:27Z"
+      },
+      {
+        "record_id": "9348b4019312fa9f890608f364f257cc",
+        "title": "AgentClarkNewsletterRefDX",
+        "reqlog_utc": "2026-06-01T14:43:12Z"
+      }
+    ],
+    "embedded_url_component_clocks": [
+      {
+        "component": "20130525012744",
+        "meaning": "Wayback Machine capture timestamp of Clark University economics newsletter PDF"
+      },
+      {
+        "component": "2010",
+        "meaning": "Publication year of the Clark University economics newsletter"
+      }
+    ]
+  }
+}

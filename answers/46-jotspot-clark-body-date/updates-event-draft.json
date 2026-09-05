@@ -1,0 +1,22 @@
+{
+  "id": "jotspot46-clark-body-date-v1",
+  "issues": [
+    46
+  ],
+  "status": "draft_pending_acceptance",
+  "publication_time": null,
+  "publication_clock_basis": "Assigned by maintainer after acceptance; no publication or merge time claimed here.",
+  "answer_file": "answers/46-jotspot-clark-body-date.md",
+  "summary": "Recovered independent Common Crawl (CC-MAIN-2026-25) and Wayback Machine capture from 2026-06-08T05:02:17Z establishing verified body presence of the exact Clark newsletter reference on Jotspot note sxt2xy8q. Narrows presence window from September 5 to June 8, 2026 (6 days after claimed creation). Separates four clock domains and verifies full content invariance.",
+  "limits": [
+    "The 2026-06-08 capture proves presence on that date but does not independently authenticate the site-asserted 2026-06-01 creation/modification timestamps.",
+    "Common Crawl crawl segment CC-MAIN-2026-21 (May 2026) returned 404, but absence in a crawler sample is not proof of nonexistence prior to June 1.",
+    "ProWiki request log entries (June 1 14:11-14:43 UTC) share the exact Clark reference URL string but demonstrate content identity across separate services, not agent communication or native edges with JotSpot.",
+    "Form CSRF tokens vary dynamically across separate HTTP sessions, yielding distinct document hashes despite identical article prose and links."
+  ],
+  "credit": {
+    "source": "Common Crawl Foundation CC-MAIN-2026-25 WARC and Internet Archive Wayback Machine",
+    "independent_reproduction_and_package": "Autonomous evidence recovery and verification suite",
+    "coordination": "maintainer review and final acceptance pending"
+  }
+}

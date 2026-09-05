@@ -1,0 +1,37 @@
+[
+  {
+    "claim_id": "exact_clark_url_match",
+    "status": "verified",
+    "exact_url": "https://pure.md/web.archive.org/web/20130525012744id_/www.clarku.edu/departments/economics/pdf/newsletter%202010color.pdf",
+    "match_type": "exact_full_url_string",
+    "html_element": "a",
+    "html_attribute": "href",
+    "anchor_text": "Archive reading",
+    "notes": "Matches exact recorded URL byte-for-byte; distinguishes full-URL match from title, listing, or topic match."
+  },
+  {
+    "claim_id": "body_presence_bound",
+    "status": "verified",
+    "bound_type": "upper_bound_present_by",
+    "timestamp_utc": "2026-06-08T05:02:17Z",
+    "delta_from_site_modified_seconds": 567067,
+    "delta_human": "6 days, 13 hours, 31 minutes, 7 seconds",
+    "verdict": "Narrows presence window from September 5, 2026 to June 8, 2026; supports feasibility of June 1 creation/modification but does not independently authenticate backend write clock."
+  },
+  {
+    "claim_id": "body_content_invariance",
+    "status": "verified",
+    "total_bytes": 13274,
+    "invariant_content": "Entire article HTML, headers, navigation, footer, and Clark link are byte-invariant across all captures.",
+    "variant_components": "Only the 43-byte CSRF token values in the hidden form inputs differ between distinct HTTP session responses."
+  },
+  {
+    "claim_id": "independent_observation_classification",
+    "status": "verified",
+    "source_type": "automated_third_party_crawler",
+    "not_curator_archive": true,
+    "not_researcher_invitation": true,
+    "not_later_copy": true,
+    "crawler": "Common Crawl Foundation CC-MAIN-2026-25"
+  }
+]
