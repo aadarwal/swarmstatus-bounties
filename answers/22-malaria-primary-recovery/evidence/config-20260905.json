@@ -1,0 +1,197 @@
+{
+  "code": "d88e6864f43c426dbcd1ee675a8944a7",
+  "label": "Change in share of deaths due to malaria across age groups",
+  "query": {
+    "args": {
+      "filter": {
+        "expression": "`dfi_4_location`==\"India\" and `dfi_5_caofde`==\"Malaria\""
+      },
+      "index": [
+        "dfi_2_year"
+      ],
+      "select": [
+        {
+          "agg": "sum",
+          "code": "dfi_6_deaths"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_8_de04"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_15_de514"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_10_de1529"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_12_de3044"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_14_de4554"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_16_de5569"
+        },
+        {
+          "agg": "sum",
+          "code": "dfi_17_deat70"
+        }
+      ],
+      "sort": true,
+      "target": "projects/dfi_11_srs/datasets/dfi_1_caofde/tables/dfi_6_caofdev5"
+    },
+    "fn": "aggregate"
+  },
+  "pivot": {
+    "index": [
+      "dfi_2_year",
+      "Indicators"
+    ],
+    "unstack": 1
+  },
+  "chart": {
+    "categorylabels": true,
+    "chartjs": {
+      "data": {
+        "datasets": []
+      },
+      "options": {
+        "indexAxis": "y",
+        "maintainAspectRatio": false,
+        "responsive": true
+      },
+      "type": "bar"
+    },
+    "choropleth": {
+      "codes": null
+    },
+    "datalabels": true,
+    "dimensions": {
+      "codes": [],
+      "info": {},
+      "locked": false,
+      "selected": [],
+      "type": "dimension"
+    },
+    "height": 690,
+    "indicators": [
+      "dfi_6_deaths",
+      "dfi_8_de04",
+      "dfi_15_de514",
+      "dfi_10_de1529",
+      "dfi_12_de3044",
+      "dfi_14_de4554",
+      "dfi_16_de5569",
+      "dfi_17_deat70"
+    ],
+    "labelwidth": 9,
+    "legend": false,
+    "numcols": 2,
+    "palette": "default",
+    "sort": {
+      "codes": null,
+      "order": []
+    },
+    "table": {},
+    "tags": [
+      "Updated",
+      "Health"
+    ],
+    "text": {
+      "datasources": [
+        {
+          "datasets": [
+            "Cause of Death in India"
+          ],
+          "publisher": "sample-registration-system"
+        }
+      ],
+      "footer": "Created by Data For India",
+      "notes": "Each line represents the percentage of deaths in a year within each age group that could be attributed to malaria.",
+      "sourceText": "Cause of Death in India, Sample Registration System",
+      "sources": "Cause of Death Survey, Sample Registration System (SRS)",
+      "subtitle": "The share of deaths attributed to malaria among children fell sharply between 2005 and 2022",
+      "title": "Change in share of deaths due to malaria across age groups"
+    },
+    "tiles": {
+      "codes": [],
+      "info": {},
+      "locked": false,
+      "selected": [],
+      "type": "dimension"
+    },
+    "time": {
+      "codes": [
+        "dfi_2_year"
+      ],
+      "display": true,
+      "max_time": null,
+      "min_time": null
+    },
+    "type": "line",
+    "width": 700,
+    "yAxis": {
+      "align": false,
+      "codes": [
+        "dfi_6_deaths",
+        "dfi_8_de04",
+        "dfi_15_de514",
+        "dfi_10_de1529",
+        "dfi_12_de3044",
+        "dfi_14_de4554",
+        "dfi_16_de5569",
+        "dfi_17_deat70"
+      ],
+      "grouped": "discrete",
+      "hideAxislabels": false,
+      "hideGridlines": false,
+      "hideInLabel": false,
+      "hideInTable": false,
+      "info": {
+        "dfi_10_de1529": {
+          "label": "15-29 years"
+        },
+        "dfi_12_de3044": {
+          "label": "30-44 years"
+        },
+        "dfi_14_de4554": {
+          "label": "45-54 years"
+        },
+        "dfi_15_de514": {
+          "label": "5-14 years"
+        },
+        "dfi_16_de5569": {
+          "label": "55-69 years"
+        },
+        "dfi_17_deat70": {
+          "label": "70+ years"
+        },
+        "dfi_6_deaths": {
+          "label": "All ages"
+        },
+        "dfi_8_de04": {
+          "label": "0-4 years"
+        }
+      },
+      "label": "age group",
+      "locked": false,
+      "logscale": false,
+      "prefix": false,
+      "relative": "absolute",
+      "selected": [
+        "dfi_6_deaths",
+        "dfi_15_de514"
+      ],
+      "space": false,
+      "transform": "absolute",
+      "type": "indicator",
+      "unit": "%"
+    }
+  }
+}

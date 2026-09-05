@@ -1,0 +1,42 @@
+{
+  "evidence/article-20260613.warc.gz": {
+    "sha256": "f012462b4d6031ceea994fa28549f2c52a24bf1a135e70e0f7cf7073cafb79bc",
+    "bytes": 26799
+  },
+  "evidence/config-20260905.json": {
+    "sha256": "eb749819b7c941a76a10b62a68ac105665930716c8bc31e0d187ed4f14a7a3fa",
+    "bytes": 4409
+  },
+  "evidence/corpus-semantics-scan.json": {
+    "sha256": "585b2bb728ad2fdebd1b84e9ca1b2f97928cee2ea0029e35b154cfef8dd2da39",
+    "bytes": 374
+  },
+  "evidence/data-20260905.json": {
+    "sha256": "629c3976d7edbf80e440d97a8e6cbebfe0ec67cee5f831ec7ba51fafc2057b66",
+    "bytes": 3009
+  },
+  "evidence/literal-iframe-extract.html": {
+    "sha256": "7179f51018e34478c83bcb0388aaa48024c3ea0b689e2884cf5f5f6c7c5c7a29",
+    "bytes": 185
+  },
+  "evidence/primary-captures.json": {
+    "sha256": "05790566b08fba0eb85d259cfb5209540d8f45501a15a4afa1bd0d6c67aa4afb",
+    "bytes": 1417
+  },
+  "evidence/receipt-scan.json": {
+    "sha256": "3565e33585fb8b5889e81490a6697964ca19697a18680a016b5fc01204751846",
+    "bytes": 132
+  },
+  "evidence/retained-aliases.json": {
+    "sha256": "9c17f67e445307f4fbdc9bd6d3c50d8e368205edc9155502f7534ebb010cf26a",
+    "bytes": 3746
+  },
+  "evidence/warc-provenance.json": {
+    "sha256": "62ca8451b588a1f45061540400322d8fa0cf6eb7c161e60d97deaa19efd34392",
+    "bytes": 1387
+  },
+  "evidence/reuse-license.json": {
+    "sha256": "184eade7ff92dec48711c28cc5a9b96c8fc10a09f54b21e953fe1b89e8ff992d",
+    "bytes": 770
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json",
+    "source_url": "https://vanderbi.lt/malagent0x+",
+    "record_type": "shortener_link",
+    "time_raw": "2026-06-21 01:55:22",
+    "time_utc": null,
+    "time_basis": "raw_unzoned",
+    "body_hash": "0578d48b83005d621771d95d092176eed240ad627db38c882e005ca2d42de5b0",
+    "dataset": "shortener/vanderbi.lt",
+    "record_id": "96cf687b16d903228b626d987f60e66e",
+    "source_row": "47580",
+    "source_path": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv",
+    "source_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+    "source_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+    "note": "malagent0x points to exact data.json, raw time 01:55:22.",
+    "raw_targets": [
+      "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json"
+    ]
+  },
+  {
+    "title": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/config.json",
+    "source_url": "https://vanderbi.lt/malagent1x+",
+    "record_type": "shortener_link",
+    "time_raw": "2026-06-21 01:55:24",
+    "time_utc": null,
+    "time_basis": "raw_unzoned",
+    "body_hash": "68d31296bf591f535386d5cab3f3c2c5d5cb5723014f2fee6d517abc92298077",
+    "dataset": "shortener/vanderbi.lt",
+    "record_id": "f69832253f4fa816b7393903b79d4d07",
+    "source_row": "47581",
+    "source_path": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv",
+    "source_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+    "source_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+    "note": "malagent1x points to config.json, raw time 01:55:24.",
+    "raw_targets": [
+      "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/config.json"
+    ]
+  },
+  {
+    "title": "https://md.succ.ai/assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json",
+    "source_url": "https://vanderbi.lt/malagent2x+",
+    "record_type": "shortener_link",
+    "time_raw": "2026-06-21 01:55:26",
+    "time_utc": null,
+    "time_basis": "raw_unzoned",
+    "body_hash": "3a5d443e13c8df680f5912acb6a5de045de8f22a5cb65a9a7107a72e64d3f94b",
+    "dataset": "shortener/vanderbi.lt",
+    "record_id": "d4bf80fedbbbd600d992b36b49a70397",
+    "source_row": "47582",
+    "source_path": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv",
+    "source_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+    "source_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+    "note": "malagent2x points through md.succ.ai to data.json, raw time 01:55:26.",
+    "raw_targets": [
+      "https://md.succ.ai/assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json"
+    ]
+  },
+  {
+    "title": "Data For India",
+    "source_url": "https://vanderbi.lt/malagent3x+",
+    "record_type": "shortener_link",
+    "time_raw": "2026-06-21 01:55:28",
+    "time_utc": null,
+    "time_basis": "raw_unzoned",
+    "body_hash": "1356d983b60feea7ea13ba646771381510b74da250588b5fca3141fd47aee5fb",
+    "dataset": "shortener/vanderbi.lt",
+    "record_id": "7377c88a66bf76466e6fa6573d77ff55",
+    "source_row": "47583",
+    "source_path": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv",
+    "source_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+    "source_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+    "note": "malagent3x points to the chart page itself.",
+    "raw_targets": [
+      "https://www.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/"
+    ]
+  }
+]
