@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "issue": 16,
+  "scope": "Selected metadata from four retained top5 report JSONs; no completion rows.",
+  "records": [
+    {
+      "report_id": "b658f273-fd60-4191-b496-d244d47d5531",
+      "canonical_acquisition_record_id": "c48f36885e8aafa875814dd27550b006",
+      "full_source": {
+        "url": "https://urlquery.net/report/b658f273-fd60-4191-b496-d244d47d5531/json",
+        "uncompressed_json_sha256": "4aad92b58f03715d433029ee2b1ccbb441eb0f114d3710490887c2d7ba3351f2",
+        "uncompressed_json_bytes": 7800,
+        "included_in_package": false
+      },
+      "json_pointer_values": {
+        "/report_id": "b658f273-fd60-4191-b496-d244d47d5531",
+        "/submit/url/schema": "https",
+        "/submit/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:1&top=5.Year.Completions.desc",
+        "/http/0/url/schema": "https",
+        "/http/0/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:1&top=5.Year.Completions.desc",
+        "/date": "2026-05-28T00:35:47Z",
+        "/http/0/date": "2026-05-28T00:35:26.339Z",
+        "/http/0/response/status_code": "200",
+        "/http/0/response/headers": null,
+        "/http/0/response/data/data": null,
+        "/http/0/response/data/size_decoded": 0,
+        "/http/0/response/data/sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "raw_string_line_excerpts": [
+        {
+          "pointer": "/http/0/request/raw",
+          "line_1_based": 1,
+          "text": "GET /tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:1&top=5.Year.Completions.desc HTTP/1.1"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 3,
+          "text": "Date: Thu, 28 May 2026 00:35:26 GMT"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 8,
+          "text": "x-tesseract-columns: CIP6 ID,CIP6,Year,Completions,Top Completions"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 9,
+          "text": "x-tesseract-queryrows: 60"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 10,
+          "text": "x-tesseract-totalrows: 60"
+        }
+      ],
+      "acquisition_workflow_start": {
+        "source_document": "fetch_manifest.json",
+        "source_sha256": "c93d0cafc03e6fd804fc41813696202742e3cb9f2094108de531968422d979fa",
+        "json_pointer": "/results/1144/attempted_at_utc",
+        "value": "2026-09-05T17:29:44.659553+00:00",
+        "meaning": "Recorded local acquisition-workflow start before cache check/request waiting; not exact HTTP-send, completion, source publication, or incident time."
+      }
+    },
+    {
+      "report_id": "dd6c4784-2a86-49d8-8418-431ed781f0b7",
+      "canonical_acquisition_record_id": "d7c5059620fb8c8fd43b1e8f9e670023",
+      "full_source": {
+        "url": "https://urlquery.net/report/dd6c4784-2a86-49d8-8418-431ed781f0b7/json",
+        "uncompressed_json_sha256": "9255cbc45222f46a0e62b21cd7eb7cbd233511220cf8563b4682ac6bded2d94c",
+        "uncompressed_json_bytes": 7800,
+        "included_in_package": false
+      },
+      "json_pointer_values": {
+        "/report_id": "dd6c4784-2a86-49d8-8418-431ed781f0b7",
+        "/submit/url/schema": "https",
+        "/submit/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:2&top=5.Year.Completions.desc",
+        "/http/0/url/schema": "https",
+        "/http/0/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:2&top=5.Year.Completions.desc",
+        "/date": "2026-05-28T00:35:51Z",
+        "/http/0/date": "2026-05-28T00:35:30.424Z",
+        "/http/0/response/status_code": "200",
+        "/http/0/response/headers": null,
+        "/http/0/response/data/data": null,
+        "/http/0/response/data/size_decoded": 0,
+        "/http/0/response/data/sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "raw_string_line_excerpts": [
+        {
+          "pointer": "/http/0/request/raw",
+          "line_1_based": 1,
+          "text": "GET /tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:153658;Gender:2&top=5.Year.Completions.desc HTTP/1.1"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 3,
+          "text": "Date: Thu, 28 May 2026 00:35:30 GMT"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 8,
+          "text": "x-tesseract-columns: CIP6 ID,CIP6,Year,Completions,Top Completions"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 9,
+          "text": "x-tesseract-queryrows: 60"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 10,
+          "text": "x-tesseract-totalrows: 60"
+        }
+      ],
+      "acquisition_workflow_start": {
+        "source_document": "fetch_manifest.json",
+        "source_sha256": "c93d0cafc03e6fd804fc41813696202742e3cb9f2094108de531968422d979fa",
+        "json_pointer": "/results/1266/attempted_at_utc",
+        "value": "2026-09-05T17:30:09.653089+00:00",
+        "meaning": "Recorded local acquisition-workflow start before cache check/request waiting; not exact HTTP-send, completion, source publication, or incident time."
+      }
+    },
+    {
+      "report_id": "65144082-bcc5-4e7d-96b9-556f35d63872",
+      "canonical_acquisition_record_id": "d45867666a1a1b000d92c3b157dd5fb6",
+      "full_source": {
+        "url": "https://urlquery.net/report/65144082-bcc5-4e7d-96b9-556f35d63872/json",
+        "uncompressed_json_sha256": "82e62ae8f9d4e34004c981b8b00f8ccf8ecbd8d184ac1d10023df2ad753ea666",
+        "uncompressed_json_bytes": 7560,
+        "included_in_package": false
+      },
+      "json_pointer_values": {
+        "/report_id": "65144082-bcc5-4e7d-96b9-556f35d63872",
+        "/submit/url/schema": "https",
+        "/submit/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:2&top=5.Year.Completions.desc",
+        "/http/0/url/schema": "https",
+        "/http/0/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:2&top=5.Year.Completions.desc",
+        "/date": "2026-05-28T00:36:02Z",
+        "/http/0/date": "2026-05-28T00:35:40.750Z",
+        "/http/0/response/status_code": "200",
+        "/http/0/response/headers": null,
+        "/http/0/response/data/data": null,
+        "/http/0/response/data/size_decoded": 0,
+        "/http/0/response/data/sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "raw_string_line_excerpts": [
+        {
+          "pointer": "/http/0/request/raw",
+          "line_1_based": 1,
+          "text": "GET /tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:2&top=5.Year.Completions.desc HTTP/1.1"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 3,
+          "text": "Date: Thu, 28 May 2026 00:35:41 GMT"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 8,
+          "text": "x-tesseract-columns: CIP6 ID,CIP6,Year,Completions,Top Completions"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 9,
+          "text": "x-tesseract-queryrows: 60"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 10,
+          "text": "x-tesseract-totalrows: 60"
+        }
+      ],
+      "acquisition_workflow_start": {
+        "source_document": "fetch_manifest.json",
+        "source_sha256": "c93d0cafc03e6fd804fc41813696202742e3cb9f2094108de531968422d979fa",
+        "json_pointer": "/results/1232/attempted_at_utc",
+        "value": "2026-09-05T17:30:02.567143+00:00",
+        "meaning": "Recorded local acquisition-workflow start before cache check/request waiting; not exact HTTP-send, completion, source publication, or incident time."
+      }
+    },
+    {
+      "report_id": "fabdcd45-6f13-49c8-8823-8650a9905622",
+      "canonical_acquisition_record_id": "fff2a044abeaf9371068a949799765a6",
+      "full_source": {
+        "url": "https://urlquery.net/report/fabdcd45-6f13-49c8-8823-8650a9905622/json",
+        "uncompressed_json_sha256": "0908f5dda535a478261609e93f51bda46676927dfdfc94f2ad3da49c08349337",
+        "uncompressed_json_bytes": 7800,
+        "included_in_package": false
+      },
+      "json_pointer_values": {
+        "/report_id": "fabdcd45-6f13-49c8-8823-8650a9905622",
+        "/submit/url/schema": "https",
+        "/submit/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:1&top=5.Year.Completions.desc",
+        "/http/0/url/schema": "https",
+        "/http/0/url/addr": "api.datausa.io/tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:1&top=5.Year.Completions.desc",
+        "/date": "2026-05-28T00:36:05Z",
+        "/http/0/date": "2026-05-28T00:35:44.570Z",
+        "/http/0/response/status_code": "200",
+        "/http/0/response/headers": null,
+        "/http/0/response/data/data": null,
+        "/http/0/response/data/size_decoded": 0,
+        "/http/0/response/data/sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "raw_string_line_excerpts": [
+        {
+          "pointer": "/http/0/request/raw",
+          "line_1_based": 1,
+          "text": "GET /tesseract/data.jsonrecords?cube=ipeds_completions&drilldowns=Year,CIP6&measures=Completions&include=University:215062;Gender:1&top=5.Year.Completions.desc HTTP/1.1"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 3,
+          "text": "Date: Thu, 28 May 2026 00:35:44 GMT"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 8,
+          "text": "x-tesseract-columns: CIP6 ID,CIP6,Year,Completions,Top Completions"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 9,
+          "text": "x-tesseract-queryrows: 60"
+        },
+        {
+          "pointer": "/http/0/response/raw",
+          "line_1_based": 10,
+          "text": "x-tesseract-totalrows: 60"
+        }
+      ],
+      "acquisition_workflow_start": {
+        "source_document": "fetch_manifest.json",
+        "source_sha256": "c93d0cafc03e6fd804fc41813696202742e3cb9f2094108de531968422d979fa",
+        "json_pointer": "/results/1494/attempted_at_utc",
+        "value": "2026-09-05T17:30:58.919280+00:00",
+        "meaning": "Recorded local acquisition-workflow start before cache check/request waiting; not exact HTTP-send, completion, source publication, or incident time."
+      }
+    }
+  ]
+}

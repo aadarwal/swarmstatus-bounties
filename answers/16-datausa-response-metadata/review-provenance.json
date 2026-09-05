@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "scope": "Independent source/materiality review of four held complete provider reports; public package contains selected excerpts only.",
+  "review_status": "Source/materiality check passed for a narrow metadata supplement. Public package acceptance remains a maintainer decision.",
+  "source_review": {
+    "method": "A separate reviewer directly decompressed and parsed the four already-held gzip JSONs; complete-source SHA256 and byte counts matched their acquisition manifest. No report refresh, target/proxy call, database read or acquisition-script execution.",
+    "complete_reports": 4,
+    "uncompressed_bytes": 30960,
+    "verified": [
+      "Complete original report hashes and byte counts",
+      "Exactly one HTTP event per report",
+      "Submitted URL, observed URL and raw request line agree on the complete five query parameters",
+      "Three raw count/schema headers occur exactly once at the stated line numbers",
+      "HTTP-event date, report date and response Date header remain separate",
+      "Response body data null, zero decoded size and empty-content hash",
+      "Acquisition manifest time records workflow start before cache check/request waiting"
+    ],
+    "retained_review_sha256": "092b6d20b0f204b09121cd316e6c7d91a26dec5e8aaed5977a7bba251ea89426",
+    "retained_checks_sha256": "07efa4034dde9774408d869d2283631487714bf42b42530b1ce3ea30d7cbd09b",
+    "reviewer_offline_checker_sha256": "f07696b5d7b0f3168e7df5b3fa2cfbdbee62fe6dca76ef91cbc8a53fde853710",
+    "reviewed_worker_delta_sha256": "056bab2270b660e75c6e055d1dbba781037d4fe6f5cd9e3e369a8c6f461c72eb",
+    "reviewed_worker_analysis_sha256": "103f98e5b1c825a23a87c4467bd7e5944848a932cdae9b4e8fcf0b463836e7c0",
+    "private_envelopes_and_review_inputs_included": false
+  },
+  "issue_context": {
+    "url": "https://github.com/aadarwal/swarmstatus-bounties/issues/16",
+    "review_baseline_updated_at": "2026-09-05T17:38:51Z",
+    "review_baseline_capture_started_at": "2026-09-05T20:16:39.119789+00:00",
+    "review_baseline_capture_finished_at": "2026-09-05T20:16:39.430674+00:00",
+    "clarification_updated_at": "2026-09-05T20:25:53Z",
+    "clarification_body_sha256": "18b7d82e368a31335dc4ce0ee9949ce1dd4c58ba46b65b73b230f798b5761beb",
+    "clarification_note_sha256": "54b92a34631b2c1197479af221384e8cc2959015e3a136b7f5195097e1c7b92b",
+    "state_at_clarification": "open",
+    "classification": "Existing retained metadata clarification; no accepted answer or resolution."
+  },
+  "portable_verification": "The selected file hash verifies package bytes. Pointers, values, source mappings and clock distinctions can be checked against pinned assertions. Full-source hashes remain provenance assertions tied to the independent review; omitted full originals cannot be rehashed or fully checked by this portable verifier.",
+  "unresolved": [
+    "All numeric completion values and readable historical bodies",
+    "All top5/top3 row-wise reconciliation and standalone Year enforcement",
+    "Historical rank, tie and year-span behavior",
+    "Actor identity, receipt, use or causation"
+  ],
+  "broader_worker_wiki_database_claims": "Contextual limits only; not independently re-extracted in this review and not included as new package evidence."
+}

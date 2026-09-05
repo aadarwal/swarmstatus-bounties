@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "issue": 16,
+  "package_scope": "Partial selected response metadata; no numerical answer or closure.",
+  "hash_scope": "These are hashes of public package files, not of complete original reports. Original-report hashes in selected-evidence.json are separate provenance assertions checked by the independent reviewer.",
+  "files": {
+    "README.md": {
+      "bytes": 8563,
+      "sha256": "e7ce3e3f8ae084c6185cd4b753716ea81b22e433f3a96605dff45cea143e41d1"
+    },
+    "selected-evidence.json": {
+      "bytes": 11462,
+      "sha256": "c5cd26836e9a7ff906ce158798d05a3fcb1a080879d9899a728c616966d018cf"
+    },
+    "review-provenance.json": {
+      "bytes": 3267,
+      "sha256": "d6b2d5cffd4ee1b887c73794c668caff6676d0193cdf04aa878d8f55acaeffd4"
+    },
+    "verify.py": {
+      "bytes": 13016,
+      "sha256": "952faccfba446a00549eb2c128606de8bfbd0719d0731dedc0c9158c832c865a"
+    }
+  }
+}
