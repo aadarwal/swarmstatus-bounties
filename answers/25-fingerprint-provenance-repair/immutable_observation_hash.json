@@ -1,0 +1,11 @@
+{
+  "columns": [
+    "id",
+    "fingerprint",
+    "source_path",
+    "source_line",
+    "metadata_json"
+  ],
+  "rows": 2435,
+  "sha256": "fec226cd61baff5fa070637ea39222e70173b9441002d649f81162a6bae06fa9"
+}

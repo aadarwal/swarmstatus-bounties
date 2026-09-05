@@ -1,0 +1,11 @@
+{
+  "review_date": "2026-09-05",
+  "upstream_fetched_at": "2026-09-05T12:20:39Z",
+  "source_csv_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+  "source_repository": "https://github.com/brausepulver/collusion-wiki-link-shorteners",
+  "source_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+  "capture_manifest_locator": "https://github.com/brausepulver/collusion-wiki-link-shorteners/blob/9303bf8472714d678b7de19849825d763cfa138b/raw_artifacts/shorteners/vanderbi.lt/meta.json",
+  "capture_manifest_sha256": "2b9284804b3b1ac7beafe3b4f531eba7a5a0970f0211585852930e146d799c5a",
+  "clock_note": "Upstream fetched_at is acquisition time. Alias creation timestamps remain raw_unzoned; no UTC offset is adopted.",
+  "privacy_projection": "Only task aliases, complete task destination strings, source IDs, hashes and clocks are republished. Creator IPs, referrers and unrelated CSV fields are excluded."
+}

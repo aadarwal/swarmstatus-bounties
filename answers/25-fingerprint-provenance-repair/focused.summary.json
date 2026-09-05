@@ -1,0 +1,95 @@
+{
+  "after_counts": [
+    {
+      "distinct_retained_bodies": 6,
+      "fingerprint": "object_india_malaria_chart_d88e6864",
+      "objects": 13,
+      "observations": 13,
+      "platforms": 1,
+      "retained_records": 13
+    },
+    {
+      "distinct_retained_bodies": 5,
+      "fingerprint": "task_ipeds_cs_county_2013_cip1107",
+      "objects": 7,
+      "observations": 9,
+      "platforms": 2,
+      "retained_records": 9
+    },
+    {
+      "distinct_retained_bodies": 1476,
+      "fingerprint": "task_sec_regcf_2019_massachusetts",
+      "objects": 737,
+      "observations": 2370,
+      "platforms": 5,
+      "retained_records": 2370
+    },
+    {
+      "distinct_retained_bodies": 27,
+      "fingerprint": "task_worldpoverty_2018_2020_rural_215_fivecountries",
+      "objects": 43,
+      "observations": 43,
+      "platforms": 2,
+      "retained_records": 43
+    }
+  ],
+  "before_counts": [
+    {
+      "distinct_retained_bodies": 6,
+      "fingerprint": "object_india_malaria_chart_d88e6864",
+      "objects": 13,
+      "observations": 13,
+      "platforms": 1,
+      "retained_records": 13
+    },
+    {
+      "distinct_retained_bodies": 5,
+      "fingerprint": "task_ipeds_cs_county_2013_cip1107",
+      "objects": 7,
+      "observations": 9,
+      "platforms": 2,
+      "retained_records": 9
+    },
+    {
+      "distinct_retained_bodies": 1488,
+      "fingerprint": "task_sec_regcf_2019_massachusetts",
+      "objects": 737,
+      "observations": 2370,
+      "platforms": 5,
+      "retained_records": 2370
+    },
+    {
+      "distinct_retained_bodies": 31,
+      "fingerprint": "task_worldpoverty_2018_2020_rural_215_fivecountries",
+      "objects": 43,
+      "observations": 43,
+      "platforms": 2,
+      "retained_records": 43
+    }
+  ],
+  "changed_by_fingerprint": {
+    "object_india_malaria_chart_d88e6864": 13,
+    "task_ipeds_cs_county_2013_cip1107": 2,
+    "task_sec_regcf_2019_massachusetts": 52,
+    "task_worldpoverty_2018_2020_rural_215_fivecountries": 40
+  },
+  "changed_by_kind": {
+    "shortener_creation": 107
+  },
+  "changed_destination": 81,
+  "corrected_observations": 107,
+  "declared_hash_exceptions": 7,
+  "foreign_key_violations": 0,
+  "identical_destination_wrong_alias": 26,
+  "integrity_check": "ok",
+  "membership_pairs_added": 56,
+  "membership_pairs_removed": 56,
+  "original_database_identical": true,
+  "original_observation_fields_identical": true,
+  "repair_version": "source-qualified-fingerprint-v1",
+  "repaired_database_sha256": "c93dba68f08c5241d4f723511a06a1cad22e4ccb4f61c1616e5df06c23b4b803",
+  "source_database_sha256": "a78461310831ae36f4ed80e5578548b4812fe04793627a25fcedc4cfddedd571",
+  "unchanged_observations": 2328,
+  "unrelated_tables_identical": true,
+  "verified_observations": 2435
+}

@@ -1,0 +1,309 @@
+{
+  "artifact_inventory": {
+    "columns": [
+      "path",
+      "bytes",
+      "sha256",
+      "format",
+      "ingestion_status"
+    ],
+    "rows": 3294,
+    "sha256": "1a48cb334f9d0e98ef9b8eac5eee2e4ecc44a4bc142011f1cc2b114c269769d5"
+  },
+  "candidate_links": {
+    "columns": [
+      "id",
+      "left_object_id",
+      "right_object_id",
+      "score",
+      "feature_count",
+      "reason_json",
+      "status"
+    ],
+    "rows": 9733,
+    "sha256": "78abeabe1340876e4aa915657b49317be7eaf9dd7800e8217248ff917a1f52f8"
+  },
+  "features": {
+    "columns": [
+      "id",
+      "kind",
+      "value",
+      "object_count",
+      "platform_count",
+      "record_count"
+    ],
+    "rows": 57424,
+    "sha256": "2225fd65520b5eed21387374d3f28b21c3be5e5f1e0d9a9c65613f6ab7aa1020"
+  },
+  "import_log": {
+    "columns": [
+      "dataset",
+      "rows",
+      "notes"
+    ],
+    "rows": 20,
+    "sha256": "710c5870d2ca82a07f59d0b3fd76201b6574367213dcf3267aa89b9cee88e174"
+  },
+  "meta": {
+    "columns": [
+      "key",
+      "value"
+    ],
+    "rows": 14,
+    "sha256": "8bb52091c0abbef70f70d23101513049c0ec2f39173a528eb8add15a0a03cf99"
+  },
+  "object_assertions": {
+    "columns": [
+      "source_id",
+      "object_id",
+      "assertion_json"
+    ],
+    "rows": 10903,
+    "sha256": "ae64f7f32553f03d8a7a811057467d4f3708aaced91fbc35b560b439803f43dd"
+  },
+  "object_features": {
+    "columns": [
+      "object_id",
+      "feature_id"
+    ],
+    "rows": 115199,
+    "sha256": "437a2e90c1075b40f035fa6c0a9e4368c756ed7e69dc6a8780db4264b0ac27d7"
+  },
+  "objects": {
+    "columns": [
+      "id",
+      "platform",
+      "object_key",
+      "title"
+    ],
+    "rows": 13272,
+    "sha256": "bfb7316ff8192653a40bd609a7f3b4c76b2f82d2e74f38d3c4ef2115f09f77f0"
+  },
+  "record_features": {
+    "columns": [
+      "record_id",
+      "feature_id",
+      "in_delta"
+    ],
+    "rows": 266792,
+    "sha256": "15a63c73a8b28175a2fa18b99361e4401a6d356d0831a87818fa4e9031df00e6"
+  },
+  "record_provenance": {
+    "columns": [
+      "record_id",
+      "evidence_path",
+      "sha256",
+      "capture_time",
+      "applies_to",
+      "source_url"
+    ],
+    "rows": 3,
+    "sha256": "0c8759888de02319604b028155d010536e0ba92a43ce7e3ebc06028bd28db284"
+  },
+  "record_relations": {
+    "columns": [
+      "left_record_id",
+      "right_record_id",
+      "relation",
+      "source_id"
+    ],
+    "rows": 14591,
+    "sha256": "c02ef9e46a4471136e08430a8453242ea41c960bfa9262fde46e5762b3d04908"
+  },
+  "record_time_assertions": {
+    "columns": [
+      "record_id",
+      "field",
+      "raw_value",
+      "basis"
+    ],
+    "rows": 246995,
+    "sha256": "ec3720990ec3fa4e16c60295bee4b624fd429ed362a313b32b91aa187b49a8ce"
+  },
+  "record_urls": {
+    "columns": [
+      "record_id",
+      "url_id",
+      "role",
+      "occurrences",
+      "in_delta"
+    ],
+    "rows": 175917,
+    "sha256": "b7f096f5a3818e550252491413293e0f6cff71523ede801759537587b6cb3990"
+  },
+  "records": {
+    "columns": [
+      "id",
+      "source_id",
+      "object_id",
+      "record_key",
+      "record_type",
+      "title",
+      "source_url",
+      "body",
+      "body_hash",
+      "delta_text",
+      "time_raw",
+      "time_utc",
+      "time_basis",
+      "author_label",
+      "evidence_status",
+      "contamination",
+      "metadata_json"
+    ],
+    "rows": 65618,
+    "sha256": "23f5e0ebfae3287a3dc5b9bda69f75bc18d4ff2502e9011761437f2aeb6d498b"
+  },
+  "records_fts": {
+    "columns": [
+      "record_id",
+      "title",
+      "body"
+    ],
+    "rows": 65618,
+    "sha256": "87526dd899f55a98944a6125753ed22748102d5de0883968865b42d53c3429b8"
+  },
+  "records_fts_config": {
+    "columns": [
+      "k",
+      "v"
+    ],
+    "rows": 1,
+    "sha256": "3cffaf3719ec9fa128d45d7b940210ce29d8fb017cfd43ba5df8c0eb3648ace1"
+  },
+  "records_fts_content": {
+    "columns": [
+      "id",
+      "c0",
+      "c1",
+      "c2"
+    ],
+    "rows": 65618,
+    "sha256": "ea9b4bf43803fc72a2274f78d06a004b86eb5903a6f40087366c353e642f3458"
+  },
+  "records_fts_data": {
+    "columns": [
+      "id",
+      "block"
+    ],
+    "rows": 7025,
+    "sha256": "62f7c5066a0ae750871d56b6e9bf1e9c2195b3caaa2ae3c80a1431782e11a124"
+  },
+  "records_fts_docsize": {
+    "columns": [
+      "id",
+      "sz"
+    ],
+    "rows": 65618,
+    "sha256": "477fe80eddbeeb1dc10ba085eafec501204f5b857d039297c316955ab28a6259"
+  },
+  "records_fts_idx": {
+    "columns": [
+      "segid",
+      "term",
+      "pgno"
+    ],
+    "rows": 5478,
+    "sha256": "4fa2737d9f5f5a635581503c13f99f9050600b06df1a873632def474a44b58b3"
+  },
+  "scope_exclusions": {
+    "columns": [
+      "record_type",
+      "removed_rows",
+      "reason"
+    ],
+    "rows": 8,
+    "sha256": "8bd8bd6778841dba3e62054daf227f7b1130924d61417bd9bd10ffed3587ee10"
+  },
+  "search_leads": {
+    "columns": [
+      "id",
+      "feature_id",
+      "query",
+      "priority",
+      "reason",
+      "status"
+    ],
+    "rows": 70,
+    "sha256": "4f424e412cc215c5794b6b24e33928a0805c5d9750102ec2d7853f1325ed0a26"
+  },
+  "source_claims": {
+    "columns": [
+      "id",
+      "kind",
+      "summary",
+      "source_url",
+      "status",
+      "metadata_json"
+    ],
+    "rows": 157,
+    "sha256": "2ee7deb992b98e01709f3f40ed7610c7bd33066ad5706a04356fe2df0415d521"
+  },
+  "sources": {
+    "columns": [
+      "id",
+      "source_key",
+      "dataset",
+      "kind",
+      "path",
+      "commit_sha",
+      "sha256",
+      "source_url",
+      "notes"
+    ],
+    "rows": 790,
+    "sha256": "a1ebdd2d41339bc59337a6f5e81d29d35cb782a12bc0cf8c9d6068001eb0377f"
+  },
+  "sqlite_stat1": {
+    "columns": [
+      "tbl",
+      "idx",
+      "stat"
+    ],
+    "rows": 36,
+    "sha256": "d64e74c79a54983c57d5f5cb228b9981ab9d508da59520351133e967b2a206f8"
+  },
+  "url_components": {
+    "columns": [
+      "url_id",
+      "depth",
+      "component_url",
+      "host",
+      "relation"
+    ],
+    "rows": 63891,
+    "sha256": "bde7ced91bef488a8151ede430e2f159e00766864d795e39d3f218bad8f51d56"
+  },
+  "url_parameters": {
+    "columns": [
+      "url_id",
+      "position",
+      "key",
+      "value"
+    ],
+    "rows": 83917,
+    "sha256": "792b14af131dff579ff3f2107f094af9d250e38b49c704b4134c3a3ee317a30f"
+  },
+  "url_structure": {
+    "columns": [
+      "url_id",
+      "path_template",
+      "query_keys",
+      "wrapper_depth"
+    ],
+    "rows": 55972,
+    "sha256": "7eaf9313c461b2737bb51a2615e2058d336ac12fdd8458712ad3698ed9d4d5de"
+  },
+  "urls": {
+    "columns": [
+      "id",
+      "raw_url",
+      "canonical_url",
+      "host",
+      "safety",
+      "category"
+    ],
+    "rows": 55972,
+    "sha256": "9b8be90d4f79cac32988bf3da82db99db75f30502fb021ee2e4c6c339ef8303f"
+  }
+}

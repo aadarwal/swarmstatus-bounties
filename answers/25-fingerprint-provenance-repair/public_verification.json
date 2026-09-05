@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "csv_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+  "csv_data_rows": 48000,
+  "verified_repairs": 107,
+  "by_fingerprint": {
+    "task_sec_regcf_2019_massachusetts": 52,
+    "object_india_malaria_chart_d88e6864": 13,
+    "task_ipeds_cs_county_2013_cip1107": 2,
+    "task_worldpoverty_2018_2020_rural_215_fivecountries": 40
+  },
+  "changed_destinations": 81,
+  "identical_destination_wrong_alias": 26,
+  "incorrectly_attached_destinations_that_still_match_task_rule": 51,
+  "source_qualified_ids_verified": true,
+  "full_raw_urls_verified": true,
+  "counterexamples_removed": true,
+  "interpretation": "Matching task text alone cannot establish alias provenance or independent activity"
+}
