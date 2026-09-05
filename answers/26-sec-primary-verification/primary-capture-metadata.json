@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.investor.gov/files/county.json",
+  "capture_at_utc": "2026-09-05T17:27:30.159612+00:00",
+  "status": 200,
+  "content_type": "application/json",
+  "last_modified_header": "Mon, 03 Mar 2025 17:08:02 GMT",
+  "bytes": 147840,
+  "sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297",
+  "recorded_capture_method": "Ordinary direct GET, redirects disabled. No proxy or historical recorded query was executed.",
+  "comparison_scope": "Captured September Investor.gov bytes compared to one preserved wiki body and June URLQuery response metadata."
+}

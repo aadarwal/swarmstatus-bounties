@@ -1,0 +1,7090 @@
+{
+  "regCF_county_methodology": "This map presents data on offerings under Regulation Crowdfunding and is based on information reported by companies and was collected from filings (new filings and amendments) on EDGAR on Form C. Estimates of the number of offerings are based on offerings completed during this period as shown on progress updates on Form C-U; estimates of amounts raised are based on proceeds reported in progress updates filed on Form C-U during the report period.",
+  "regCF_county_filters": [
+    { "key": "2019", "text": "2019" },
+    { "key": "2020", "text": "2020" },
+    { "key": "2021", "text": "2021" },
+    { "key": "2022", "text": "2022" },
+    { "key": "2023", "text": "2023" },
+    { "key": "2024", "text": "2024" }
+  ],
+  "regCF_county_2019": [
+    {
+      "code": "us-2q-121",
+      "offerings": 1.0,
+      "usd": 83000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-al-037",
+      "offerings": 1.0,
+      "usd": 163740.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 5.0,
+      "usd": 2285310.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-az-025",
+      "offerings": 1.0,
+      "usd": 82070.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 12.0,
+      "usd": 1915020.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-017",
+      "offerings": 1.0,
+      "usd": 42000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-037",
+      "offerings": 29.0,
+      "usd": 8830000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-055",
+      "offerings": 1.0,
+      "usd": 55590.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 5.0,
+      "usd": 719270.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 2.0,
+      "usd": 207000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 8.0,
+      "usd": 816080.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 8.0,
+      "usd": 1812700.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 2.0,
+      "usd": 439440.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-083",
+      "offerings": 2.0,
+      "usd": 210200.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 1.0,
+      "usd": 330000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-095",
+      "offerings": 1.0,
+      "usd": 106360.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-111",
+      "offerings": 3.0,
+      "usd": 416540.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 1.0,
+      "usd": 104240.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 2.0,
+      "usd": 139440.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-019",
+      "offerings": 1.0,
+      "usd": 107000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 3.0,
+      "usd": 329200.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-037",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ct-003",
+      "offerings": 3.0,
+      "usd": 1930000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ct-009",
+      "offerings": 4.0,
+      "usd": 336120.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-dc-001",
+      "offerings": 1.0,
+      "usd": 230000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 4.0,
+      "usd": 625000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 3.0,
+      "usd": 307870.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-053",
+      "offerings": 1.0,
+      "usd": 227660.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-081",
+      "offerings": 1.0,
+      "usd": 58290.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-085",
+      "offerings": 1.0,
+      "usd": 313400.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 3.0,
+      "usd": 1608880.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 3.0,
+      "usd": 620900.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-117",
+      "offerings": 1.0,
+      "usd": 723390.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-111",
+      "offerings": 1.0,
+      "usd": 69800.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-121",
+      "offerings": 2.0,
+      "usd": 2040000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-hi-003",
+      "offerings": 1.0,
+      "usd": 100530.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-hi-009",
+      "offerings": 1.0,
+      "usd": 145950.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ia-153",
+      "offerings": 1.0,
+      "usd": 100000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ia-163",
+      "offerings": 1.0,
+      "usd": 179090.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-id-017",
+      "offerings": 1.0,
+      "usd": 422600.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-id-055",
+      "offerings": 1.0,
+      "usd": 25620.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-031",
+      "offerings": 6.0,
+      "usd": 1845860.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ky-019",
+      "offerings": 1.0,
+      "usd": 1040000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-la-051",
+      "offerings": 1.0,
+      "usd": 24450.0,
+      "color_code": 1.0
+    },
+    { "code": "us-la-071", "offerings": 1.0, "usd": 1000.0, "color_code": 1.0 },
+    {
+      "code": "us-la-079",
+      "offerings": 1.0,
+      "usd": 86590.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-005",
+      "offerings": 1.0,
+      "usd": 48600.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 3.0,
+      "usd": 143800.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-013",
+      "offerings": 1.0,
+      "usd": 80700.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 6.0,
+      "usd": 381150.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 4.0,
+      "usd": 708300.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 11.0,
+      "usd": 749960.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-me-005",
+      "offerings": 1.0,
+      "usd": 109760.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-019",
+      "offerings": 1.0,
+      "usd": 272450.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-099",
+      "offerings": 1.0,
+      "usd": 866810.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 1.0,
+      "usd": 147580.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 1.0,
+      "usd": 11070.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-095",
+      "offerings": 2.0,
+      "usd": 2140000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-mo-189",
+      "offerings": 1.0,
+      "usd": 98000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ms-031",
+      "offerings": 1.0,
+      "usd": 122090.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-021",
+      "offerings": 2.0,
+      "usd": 533720.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-081",
+      "offerings": 2.0,
+      "usd": 43880.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ne-153",
+      "offerings": 1.0,
+      "usd": 61600.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 1.0,
+      "usd": 31200.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-017",
+      "offerings": 1.0,
+      "usd": 61900.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-003",
+      "offerings": 1.0,
+      "usd": 140950.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-027",
+      "offerings": 1.0,
+      "usd": 268080.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-029",
+      "offerings": 1.0,
+      "usd": 68690.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-037",
+      "offerings": 1.0,
+      "usd": 42810.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 2.0,
+      "usd": 169710.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-005",
+      "offerings": 1.0,
+      "usd": 183150.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-021",
+      "offerings": 2.0,
+      "usd": 26300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 3.0,
+      "usd": 381970.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 3.0,
+      "usd": 1158500.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 24.0,
+      "usd": 6630000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-081",
+      "offerings": 3.0,
+      "usd": 524240.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-085",
+      "offerings": 2.0,
+      "usd": 25660.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-091",
+      "offerings": 2.0,
+      "usd": 350000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 2.0,
+      "usd": 1319640.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-163",
+      "offerings": 1.0,
+      "usd": 491770.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-007",
+      "offerings": 1.0,
+      "usd": 21650.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 2.0,
+      "usd": 66510.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-049",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 1.0,
+      "usd": 28420.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-085",
+      "offerings": 1.0,
+      "usd": 10250.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-005",
+      "offerings": 1.0,
+      "usd": 107000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-043",
+      "offerings": 1.0,
+      "usd": 145320.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-047",
+      "offerings": 1.0,
+      "usd": 140710.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-003",
+      "offerings": 6.0,
+      "usd": 263850.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-017",
+      "offerings": 1.0,
+      "usd": 35370.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-019",
+      "offerings": 1.0,
+      "usd": 16300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-029",
+      "offerings": 1.0,
+      "usd": 24450.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-069",
+      "offerings": 1.0,
+      "usd": 1060000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-095",
+      "offerings": 1.0,
+      "usd": 58000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-101",
+      "offerings": 2.0,
+      "usd": 2140000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-pa-125",
+      "offerings": 1.0,
+      "usd": 26000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pr-097",
+      "offerings": 1.0,
+      "usd": 179450.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ri-007",
+      "offerings": 1.0,
+      "usd": 48570.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ri-009",
+      "offerings": 1.0,
+      "usd": 23310.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-007",
+      "offerings": 1.0,
+      "usd": 147700.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-019",
+      "offerings": 1.0,
+      "usd": 43040.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 1.0,
+      "usd": 65050.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-059",
+      "offerings": 1.0,
+      "usd": 26510.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-085",
+      "offerings": 3.0,
+      "usd": 325100.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 2.0,
+      "usd": 521440.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 15.0,
+      "usd": 3405500.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-397",
+      "offerings": 1.0,
+      "usd": 255600.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 12.0,
+      "usd": 2426000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ut-011",
+      "offerings": 1.0,
+      "usd": 1050000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 2.0,
+      "usd": 52280.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ut-053",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-057",
+      "offerings": 2.0,
+      "usd": 837010.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-003",
+      "offerings": 2.0,
+      "usd": 150920.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-041",
+      "offerings": 1.0,
+      "usd": 75200.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 2.0,
+      "usd": 40450.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 2.0,
+      "usd": 40450.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-087",
+      "offerings": 2.0,
+      "usd": 99270.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-700",
+      "offerings": 1.0,
+      "usd": 235050.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-153",
+      "offerings": 1.0,
+      "usd": 225560.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-179",
+      "offerings": 1.0,
+      "usd": 27550.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-011",
+      "offerings": 1.0,
+      "usd": 21600.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 2.0,
+      "usd": 211170.0,
+      "color_code": 2.0
+    },
+    { "code": "us-wa-073", "offerings": 1.0, "usd": 44650.0, "color_code": 1.0 }
+  ],
+  "regCF_county_2020": [
+    {
+      "code": "us-2q-135",
+      "offerings": 1.0,
+      "usd": 15300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-al-117",
+      "offerings": 1.0,
+      "usd": 36950.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 5.0,
+      "usd": 1272720.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 5.0,
+      "usd": 4072680.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-011",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-013",
+      "offerings": 1.0,
+      "usd": 72430.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-037",
+      "offerings": 28.0,
+      "usd": 11240000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-045",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-057",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 7.0,
+      "usd": 2920000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 2.0,
+      "usd": 1106690.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-071",
+      "offerings": 2.0,
+      "usd": 391270.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 8.0,
+      "usd": 4760000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 15.0,
+      "usd": 5640000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 1.0,
+      "usd": 11300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 10.0,
+      "usd": 3140000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-087",
+      "offerings": 5.0,
+      "usd": 2380000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-097",
+      "offerings": 1.0,
+      "usd": 62520.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-111",
+      "offerings": 3.0,
+      "usd": 1420380.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 1.0,
+      "usd": 348780.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 2.0,
+      "usd": 314250.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-019",
+      "offerings": 1.0,
+      "usd": 143890.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 4.0,
+      "usd": 2186970.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-co-113",
+      "offerings": 1.0,
+      "usd": 534890.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ct-003",
+      "offerings": 2.0,
+      "usd": 1158100.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-dc-001",
+      "offerings": 3.0,
+      "usd": 376070.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-dc-013",
+      "offerings": 1.0,
+      "usd": 36200.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 4.0,
+      "usd": 1437450.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-005",
+      "offerings": 1.0,
+      "usd": 248840.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 1.0,
+      "usd": 80580.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-031",
+      "offerings": 2.0,
+      "usd": 331350.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-057",
+      "offerings": 1.0,
+      "usd": 253630.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 6.0,
+      "usd": 557900.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 5.0,
+      "usd": 1362530.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-103",
+      "offerings": 1.0,
+      "usd": 282000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-117",
+      "offerings": 1.0,
+      "usd": 343410.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-029",
+      "offerings": 1.0,
+      "usd": 67700.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-057",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ga-059",
+      "offerings": 1.0,
+      "usd": 77470.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-089",
+      "offerings": 1.0,
+      "usd": 107000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-hi-001",
+      "offerings": 1.0,
+      "usd": 211320.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-hi-009",
+      "offerings": 1.0,
+      "usd": 40000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-001",
+      "offerings": 1.0,
+      "usd": 268120.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-id-011",
+      "offerings": 1.0,
+      "usd": 591020.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-id-017",
+      "offerings": 1.0,
+      "usd": 34610.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-055",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-in-073",
+      "offerings": 1.0,
+      "usd": 75700.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-097",
+      "offerings": 3.0,
+      "usd": 82530.0,
+      "color_code": 1.0
+    },
+    { "code": "us-ks-091", "offerings": 1.0, "usd": 1100.0, "color_code": 1.0 },
+    {
+      "code": "us-ky-047",
+      "offerings": 1.0,
+      "usd": 68430.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ky-067",
+      "offerings": 1.0,
+      "usd": 197600.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-la-033",
+      "offerings": 1.0,
+      "usd": 21600.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-005",
+      "offerings": 1.0,
+      "usd": 123660.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 2.0,
+      "usd": 65170.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-011",
+      "offerings": 1.0,
+      "usd": 22200.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-013",
+      "offerings": 2.0,
+      "usd": 24300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 10.0,
+      "usd": 1418140.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 1.0,
+      "usd": 107000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-023",
+      "offerings": 3.0,
+      "usd": 223300.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 11.0,
+      "usd": 2540000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ma-760",
+      "offerings": 1.0,
+      "usd": 14300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-027",
+      "offerings": 2.0,
+      "usd": 52500.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-003",
+      "offerings": 1.0,
+      "usd": 34400.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-033",
+      "offerings": 1.0,
+      "usd": 1050000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 2.0,
+      "usd": 23580.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-163",
+      "offerings": 3.0,
+      "usd": 332230.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 1.0,
+      "usd": 440950.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mo-189",
+      "offerings": 1.0,
+      "usd": 309010.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mt-063",
+      "offerings": 1.0,
+      "usd": 121630.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mt-111",
+      "offerings": 1.0,
+      "usd": 151190.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-067",
+      "offerings": 1.0,
+      "usd": 334990.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-097",
+      "offerings": 1.0,
+      "usd": 150000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-119",
+      "offerings": 2.0,
+      "usd": 175220.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-183",
+      "offerings": 1.0,
+      "usd": 175140.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-001",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 1.0,
+      "usd": 54500.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-017",
+      "offerings": 1.0,
+      "usd": 166240.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-003",
+      "offerings": 1.0,
+      "usd": 54520.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-013",
+      "offerings": 2.0,
+      "usd": 57300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-017",
+      "offerings": 1.0,
+      "usd": 264570.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-021",
+      "offerings": 1.0,
+      "usd": 253750.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-031",
+      "offerings": 1.0,
+      "usd": 501680.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nj-039",
+      "offerings": 1.0,
+      "usd": 92800.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-001",
+      "offerings": 2.0,
+      "usd": 153420.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 3.0,
+      "usd": 323360.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-005",
+      "offerings": 1.0,
+      "usd": 50000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-027",
+      "offerings": 1.0,
+      "usd": 15300.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-029",
+      "offerings": 1.0,
+      "usd": 1000000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 10.0,
+      "usd": 3650000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 3.0,
+      "usd": 1140000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 33.0,
+      "usd": 10040000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-071",
+      "offerings": 1.0,
+      "usd": 1060000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-075",
+      "offerings": 1.0,
+      "usd": 514409.99999999994,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-081",
+      "offerings": 2.0,
+      "usd": 243290.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-091",
+      "offerings": 1.0,
+      "usd": 60000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-119",
+      "offerings": 2.0,
+      "usd": 789500.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 10.0,
+      "usd": 1777090.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-049",
+      "offerings": 1.0,
+      "usd": 1050000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-055",
+      "offerings": 1.0,
+      "usd": 25850.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-099",
+      "offerings": 1.0,
+      "usd": 20630.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-151",
+      "offerings": 1.0,
+      "usd": 22900.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-153",
+      "offerings": 1.0,
+      "usd": 30000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-113",
+      "offerings": 1.0,
+      "usd": 12650.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pr-127",
+      "offerings": 1.0,
+      "usd": 65390.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-013",
+      "offerings": 1.0,
+      "usd": 73580.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-051",
+      "offerings": 1.0,
+      "usd": 13600.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 3.0,
+      "usd": 2640000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tn-063",
+      "offerings": 1.0,
+      "usd": 35100.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-065",
+      "offerings": 2.0,
+      "usd": 124700.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-029",
+      "offerings": 1.0,
+      "usd": 109350.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 4.0,
+      "usd": 525520.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 11.0,
+      "usd": 2500000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 5.0,
+      "usd": 966540.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-479",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-017",
+      "offerings": 2.0,
+      "usd": 534960.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 1.0,
+      "usd": 118670.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ut-049",
+      "offerings": 3.0,
+      "usd": 2070000.0,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-va-015",
+      "offerings": 1.0,
+      "usd": 106500.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 2.0,
+      "usd": 1006470.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 2.0,
+      "usd": 1006470.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-157",
+      "offerings": 1.0,
+      "usd": 30000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-197",
+      "offerings": 1.0,
+      "usd": 27000.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-001",
+      "offerings": 1.0,
+      "usd": 1030000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 4.0,
+      "usd": 594700.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-059",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-061",
+      "offerings": 1.0,
+      "usd": 238490.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-063",
+      "offerings": 1.0,
+      "usd": 1070000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wi-025",
+      "offerings": 1.0,
+      "usd": 74520.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-079",
+      "offerings": 1.0,
+      "usd": 312120.0,
+      "color_code": 2.0
+    }
+  ],
+  "regCF_county_2021": [
+    {
+      "code": "us-al-073",
+      "offerings": 5.0,
+      "usd": 1728621.0805177668,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-al-089",
+      "offerings": 1.0,
+      "usd": 7300.00017210841,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 6.0,
+      "usd": 2146906.5174460374,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-az-019",
+      "offerings": 1.0,
+      "usd": 334533.005952835,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 10.0,
+      "usd": 4056914.560496795,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-013",
+      "offerings": 4.0,
+      "usd": 3776092.341169708,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-017",
+      "offerings": 1.0,
+      "usd": 123428.001999855,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-019",
+      "offerings": 1.0,
+      "usd": 574764.013290405,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-037",
+      "offerings": 73.0,
+      "usd": 44117847.267538175,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-041",
+      "offerings": 3.0,
+      "usd": 897639.594972132,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 8.0,
+      "usd": 2463063.391092864,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 1.0,
+      "usd": 496657.013893127,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-067",
+      "offerings": 1.0,
+      "usd": 1070000.0524520802,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-071",
+      "offerings": 1.0,
+      "usd": 995000.004768371,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 11.0,
+      "usd": 5775026.708841306,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 23.0,
+      "usd": 23169553.758576483,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 2.0,
+      "usd": 334601.00740194274,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-083",
+      "offerings": 3.0,
+      "usd": 1379250.3997683497,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 13.0,
+      "usd": 6998359.713703377,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-087",
+      "offerings": 1.0,
+      "usd": 822197.973728179,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-095",
+      "offerings": 1.0,
+      "usd": 192840.51656723,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-097",
+      "offerings": 1.0,
+      "usd": 0.499999998737621,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-099",
+      "offerings": 1.0,
+      "usd": 127894.99759674,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-107",
+      "offerings": 1.0,
+      "usd": 113124.996423721,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-111",
+      "offerings": 1.0,
+      "usd": 224531.99326992,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 5.0,
+      "usd": 2015160.6649160318,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 2.0,
+      "usd": 1347409.904003143,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 7.0,
+      "usd": 2212410.6958508454,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-co-035",
+      "offerings": 2.0,
+      "usd": 394439.99528884795,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-039",
+      "offerings": 1.0,
+      "usd": 43499.998748302394,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-059",
+      "offerings": 1.0,
+      "usd": 161481.42516613,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-069",
+      "offerings": 2.0,
+      "usd": 494499.996304512,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ct-003",
+      "offerings": 3.0,
+      "usd": 808416.0052239882,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-001",
+      "offerings": 1.0,
+      "usd": 727699.995040893,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 3.0,
+      "usd": 486249.9982118603,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-de-005",
+      "offerings": 1.0,
+      "usd": 716664.016246795,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-001",
+      "offerings": 1.0,
+      "usd": 32000.0015199184,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-009",
+      "offerings": 3.0,
+      "usd": 475629.4228136522,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 9.0,
+      "usd": 4275000.348687154,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-017",
+      "offerings": 1.0,
+      "usd": 130640.00010490401,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-021",
+      "offerings": 1.0,
+      "usd": 540048.003196716,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 16.0,
+      "usd": 8354335.342533862,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-031",
+      "offerings": 1.0,
+      "usd": 184643.998742103,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-057",
+      "offerings": 3.0,
+      "usd": 1234574.97358322,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-071",
+      "offerings": 1.0,
+      "usd": 65549.9994754791,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-081",
+      "offerings": 2.0,
+      "usd": 1153535.9621047901,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 4.0,
+      "usd": 5644339.472055426,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-101",
+      "offerings": 1.0,
+      "usd": 1208553.55262756,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-103",
+      "offerings": 2.0,
+      "usd": 38199.9984383583,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-117",
+      "offerings": 1.0,
+      "usd": 83674.99709129329,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-131",
+      "offerings": 1.0,
+      "usd": 53199.9990344047,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-029",
+      "offerings": 4.0,
+      "usd": 130600.00166296949,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-047",
+      "offerings": 1.0,
+      "usd": 22500.0008940696,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-067",
+      "offerings": 2.0,
+      "usd": 361533.99944305397,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-077",
+      "offerings": 1.0,
+      "usd": 1004213.0947113,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ga-089",
+      "offerings": 2.0,
+      "usd": 310214.99633789,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-117",
+      "offerings": 1.0,
+      "usd": 61140.9991979599,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-121",
+      "offerings": 5.0,
+      "usd": 4253479.488193981,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ga-135",
+      "offerings": 1.0,
+      "usd": 34549.9999821186,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-hi-003",
+      "offerings": 1.0,
+      "usd": 48799.9990582466,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ia-095",
+      "offerings": 1.0,
+      "usd": 35900.0004827976,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-001",
+      "offerings": 3.0,
+      "usd": 2885382.480919353,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-id-017",
+      "offerings": 2.0,
+      "usd": 2840523.42176437,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-id-019",
+      "offerings": 1.0,
+      "usd": 71182.5564503669,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-021",
+      "offerings": 1.0,
+      "usd": 16799.999400973298,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-043",
+      "offerings": 1.0,
+      "usd": 30500.0003427267,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-047",
+      "offerings": 2.0,
+      "usd": 112250.000238418,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-id-053",
+      "offerings": 1.0,
+      "usd": 57100.0017225742,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-081",
+      "offerings": 2.0,
+      "usd": 677984.982728958,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-031",
+      "offerings": 5.0,
+      "usd": 746650.9918449433,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-043",
+      "offerings": 4.0,
+      "usd": 3135946.9890594427,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-il-097",
+      "offerings": 2.0,
+      "usd": 285145.998001098,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-il-143",
+      "offerings": 1.0,
+      "usd": 182400.003075599,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-il-197",
+      "offerings": 3.0,
+      "usd": 2158631.6004395327,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-in-141",
+      "offerings": 1.0,
+      "usd": 100000.00149011599,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-in-057",
+      "offerings": 1.0,
+      "usd": 56000.0017285347,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-097",
+      "offerings": 1.0,
+      "usd": 29999.999329447703,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-157",
+      "offerings": 1.0,
+      "usd": 105793.997645378,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ky-067",
+      "offerings": 2.0,
+      "usd": 149572.4990963926,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ky-111",
+      "offerings": 1.0,
+      "usd": 37099.9984443187,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ky-113",
+      "offerings": 1.0,
+      "usd": 142833.992838859,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-la-071",
+      "offerings": 1.0,
+      "usd": 359183.99691581697,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-001",
+      "offerings": 2.0,
+      "usd": 732088.118791579,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 2.0,
+      "usd": 107811.2833201884,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-013",
+      "offerings": 1.0,
+      "usd": 15399.9999165534,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-015",
+      "offerings": 1.0,
+      "usd": 50000.000745057994,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 13.0,
+      "usd": 3942526.530474411,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 5.0,
+      "usd": 752266.2598639721,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-023",
+      "offerings": 3.0,
+      "usd": 160820.00546157348,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 11.0,
+      "usd": 5377552.250400165,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ma-027",
+      "offerings": 1.0,
+      "usd": 256461.322307586,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-005",
+      "offerings": 10.0,
+      "usd": 3067574.523389335,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-md-510",
+      "offerings": 10.0,
+      "usd": 3067574.523389335,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-md-047",
+      "offerings": 1.0,
+      "usd": 154152.855277061,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-me-005",
+      "offerings": 3.0,
+      "usd": 956552.0118921987,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mi-049",
+      "offerings": 2.0,
+      "usd": 37699.9992877244,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-067",
+      "offerings": 1.0,
+      "usd": 142619.99726295398,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-077",
+      "offerings": 1.0,
+      "usd": 54400.0007212162,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 1.0,
+      "usd": 250000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-163",
+      "offerings": 4.0,
+      "usd": 341844.0064415325,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 5.0,
+      "usd": 1341707.8973725426,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mn-123",
+      "offerings": 1.0,
+      "usd": 125000.0,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mn-163",
+      "offerings": 2.0,
+      "usd": 1003345.2212810509,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mo-189",
+      "offerings": 1.0,
+      "usd": 359941.98918342503,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mo-510",
+      "offerings": 1.0,
+      "usd": 359941.98918342503,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mo-031",
+      "offerings": 1.0,
+      "usd": 121853.38884592,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mo-095",
+      "offerings": 3.0,
+      "usd": 2678454.034030434,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-mo-163",
+      "offerings": 1.0,
+      "usd": 29400.0003486871,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mt-063",
+      "offerings": 1.0,
+      "usd": 27450.0008672475,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-021",
+      "offerings": 2.0,
+      "usd": 411768.34702491603,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-037",
+      "offerings": 1.0,
+      "usd": 1069654.94155883,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-063",
+      "offerings": 2.0,
+      "usd": 109450.0012695788,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-067",
+      "offerings": 1.0,
+      "usd": 230165.004730224,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-071",
+      "offerings": 1.0,
+      "usd": 80200.00159740439,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-085",
+      "offerings": 1.0,
+      "usd": 45299.9994158744,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-101",
+      "offerings": 1.0,
+      "usd": 131974.995136261,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-119",
+      "offerings": 3.0,
+      "usd": 449658.82785618235,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nd-017",
+      "offerings": 1.0,
+      "usd": 372700.00576972903,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-009",
+      "offerings": 1.0,
+      "usd": 105939.000844955,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 4.0,
+      "usd": 1152407.9777300353,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nh-015",
+      "offerings": 1.0,
+      "usd": 126599.99728202801,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-013",
+      "offerings": 2.0,
+      "usd": 416779.994964599,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-015",
+      "offerings": 1.0,
+      "usd": 120600.000023841,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-017",
+      "offerings": 4.0,
+      "usd": 458499.8898208123,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-021",
+      "offerings": 2.0,
+      "usd": 343098.0071425436,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-027",
+      "offerings": 2.0,
+      "usd": 94166.9978201389,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-029",
+      "offerings": 1.0,
+      "usd": 600000.023841857,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nj-033",
+      "offerings": 1.0,
+      "usd": 14512.9999145865,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-035",
+      "offerings": 1.0,
+      "usd": 253901.988267898,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-041",
+      "offerings": 1.0,
+      "usd": 529507.994651794,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nm-001",
+      "offerings": 1.0,
+      "usd": 21199.9993771314,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-049",
+      "offerings": 2.0,
+      "usd": 200491.9964820139,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 7.0,
+      "usd": 8445833.858102545,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nv-031",
+      "offerings": 1.0,
+      "usd": 42932.998389005596,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-001",
+      "offerings": 2.0,
+      "usd": 547899.991273879,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-005",
+      "offerings": 2.0,
+      "usd": 2132608.05606841,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 13.0,
+      "usd": 5162808.895111076,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-055",
+      "offerings": 1.0,
+      "usd": 157313.00413608502,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 2.0,
+      "usd": 244229.994714259,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 35.0,
+      "usd": 10936090.100556597,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-067",
+      "offerings": 1.0,
+      "usd": 416628.00312042196,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-071",
+      "offerings": 2.0,
+      "usd": 1144350.0146269698,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-081",
+      "offerings": 3.0,
+      "usd": 1159924.0526556897,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-087",
+      "offerings": 1.0,
+      "usd": 59950.0015377998,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 1.0,
+      "usd": 24100.000038742997,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-109",
+      "offerings": 1.0,
+      "usd": 563924.849033355,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-111",
+      "offerings": 1.0,
+      "usd": 235799.998044967,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-119",
+      "offerings": 3.0,
+      "usd": 928377.861157059,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-021",
+      "offerings": 1.0,
+      "usd": 10599.9996885657,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 7.0,
+      "usd": 632631.9817453614,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-041",
+      "offerings": 1.0,
+      "usd": 23001.0002851486,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 1.0,
+      "usd": 57204.9990296363,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-089",
+      "offerings": 1.0,
+      "usd": 57399.9993503093,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-099",
+      "offerings": 2.0,
+      "usd": 53500.000387430104,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-103",
+      "offerings": 1.0,
+      "usd": 262515.991926193,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ok-109",
+      "offerings": 1.0,
+      "usd": 39999.9991059303,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-005",
+      "offerings": 1.0,
+      "usd": 69499.99928474419,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-013",
+      "offerings": 1.0,
+      "usd": 162799.999117851,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-017",
+      "offerings": 1.0,
+      "usd": 302331.179380416,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-051",
+      "offerings": 3.0,
+      "usd": 5421894.446015351,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-pa-003",
+      "offerings": 18.0,
+      "usd": 2374688.273295756,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-pa-017",
+      "offerings": 1.0,
+      "usd": 338028.013706207,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-029",
+      "offerings": 1.0,
+      "usd": 149243.995547294,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-041",
+      "offerings": 1.0,
+      "usd": 21400.0009000301,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-049",
+      "offerings": 1.0,
+      "usd": 186294.004321098,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-077",
+      "offerings": 5.0,
+      "usd": 542999.982833861,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-101",
+      "offerings": 5.0,
+      "usd": 57450.00036404218,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-107",
+      "offerings": 1.0,
+      "usd": 34099.9998152256,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-111",
+      "offerings": 1.0,
+      "usd": 75000.0029802322,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-125",
+      "offerings": 2.0,
+      "usd": 88772.0026075839,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pr-051",
+      "offerings": 2.0,
+      "usd": 4039018.9886093093,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-pr-127",
+      "offerings": 1.0,
+      "usd": 765277.981758117,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ri-001",
+      "offerings": 1.0,
+      "usd": 110963.203012943,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-015",
+      "offerings": 1.0,
+      "usd": 142238.408327102,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-019",
+      "offerings": 4.0,
+      "usd": 4237710.621207946,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-sc-045",
+      "offerings": 4.0,
+      "usd": 257099.9935269351,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-079",
+      "offerings": 2.0,
+      "usd": 42399.9987542629,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-083",
+      "offerings": 1.0,
+      "usd": 32999.999821186,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-009",
+      "offerings": 1.0,
+      "usd": 10300.0001981854,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 4.0,
+      "usd": 3062285.885214797,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tn-065",
+      "offerings": 4.0,
+      "usd": 192300.0030219552,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-055",
+      "offerings": 1.0,
+      "usd": 22600.000724196398,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-085",
+      "offerings": 4.0,
+      "usd": 354567.0029707247,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 7.0,
+      "usd": 2895829.2844472397,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-121",
+      "offerings": 2.0,
+      "usd": 201420.992612838,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-139",
+      "offerings": 2.0,
+      "usd": 280791.008844971,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-157",
+      "offerings": 2.0,
+      "usd": 134743.0013120173,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-167",
+      "offerings": 2.0,
+      "usd": 324140.116572379,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 12.0,
+      "usd": 4510290.264151981,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-439",
+      "offerings": 1.0,
+      "usd": 129661.20243072498,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 19.0,
+      "usd": 15562301.28929016,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-473",
+      "offerings": 1.0,
+      "usd": 55860.9999716281,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ut-011",
+      "offerings": 1.0,
+      "usd": 1065500.02098083,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 3.0,
+      "usd": 874404.5644998547,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-049",
+      "offerings": 4.0,
+      "usd": 2631778.383627519,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ut-051",
+      "offerings": 2.0,
+      "usd": 1092164.9932861319,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-003",
+      "offerings": 1.0,
+      "usd": 165187.001228332,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-510",
+      "offerings": 1.0,
+      "usd": 745113.670825958,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-043",
+      "offerings": 1.0,
+      "usd": 20099.999383091897,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 5.0,
+      "usd": 729707.1665525419,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 5.0,
+      "usd": 729707.1665525419,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-650",
+      "offerings": 1.0,
+      "usd": 3774999.3801116897,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-va-107",
+      "offerings": 1.0,
+      "usd": 76034.5011949539,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-153",
+      "offerings": 1.0,
+      "usd": 100000.00149011599,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-179",
+      "offerings": 1.0,
+      "usd": 29500.000178813898,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-001",
+      "offerings": 1.0,
+      "usd": 526172.578334808,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-vt-003",
+      "offerings": 1.0,
+      "usd": 373282.998800277,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-vt-027",
+      "offerings": 2.0,
+      "usd": 150100.0002026557,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 6.0,
+      "usd": 1508364.5386621342,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-063",
+      "offerings": 1.0,
+      "usd": 1031746.5066909699,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-073",
+      "offerings": 2.0,
+      "usd": 412041.00102186156,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wi-025",
+      "offerings": 2.0,
+      "usd": 172300.9981214993,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wi-079",
+      "offerings": 1.0,
+      "usd": 142765.998840332,
+      "color_code": 2.0
+    }
+  ],
+  "regCF_county_2022": [
+    {
+      "code": "us-al-073",
+      "offerings": 3.0,
+      "usd": 399152.2453725338,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-al-117",
+      "offerings": 2.0,
+      "usd": 251312.16272711754,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ar-119",
+      "offerings": 1.0,
+      "usd": 54323.01014661789,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 16.0,
+      "usd": 4205532.333813608,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-az-019",
+      "offerings": 3.0,
+      "usd": 1016227.5582551956,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 10.0,
+      "usd": 3380550.980567932,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-013",
+      "offerings": 3.0,
+      "usd": 1723629.4783651829,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-019",
+      "offerings": 2.0,
+      "usd": 1674603.4026145935,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-029",
+      "offerings": 1.0,
+      "usd": 23499.999195337296,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-037",
+      "offerings": 78.0,
+      "usd": 46757504.392415285,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-041",
+      "offerings": 5.0,
+      "usd": 1240153.49522233,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-045",
+      "offerings": 1.0,
+      "usd": 1020639.181137085,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-053",
+      "offerings": 1.0,
+      "usd": 661870.1815605164,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-055",
+      "offerings": 1.0,
+      "usd": 102204.44947481155,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-057",
+      "offerings": 2.0,
+      "usd": 711341.2767648697,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 21.0,
+      "usd": 10392296.29561305,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-061",
+      "offerings": 3.0,
+      "usd": 1463777.992874384,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 1.0,
+      "usd": 531050.0264167786,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-067",
+      "offerings": 1.0,
+      "usd": 804654.8366546631,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-071",
+      "offerings": 5.0,
+      "usd": 1502141.2894129753,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 27.0,
+      "usd": 11382496.293634176,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 28.0,
+      "usd": 21166594.62824464,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 4.0,
+      "usd": 2408348.6795425415,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-083",
+      "offerings": 1.0,
+      "usd": 1622402.7872085571,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 13.0,
+      "usd": 2808786.7982685566,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-087",
+      "offerings": 8.0,
+      "usd": 10289761.647582054,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-095",
+      "offerings": 1.0,
+      "usd": 106089.00338411331,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-097",
+      "offerings": 2.0,
+      "usd": 377306.83386325836,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-111",
+      "offerings": 4.0,
+      "usd": 765559.9769204855,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-113",
+      "offerings": 1.0,
+      "usd": 1470865.9648895264,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-001",
+      "offerings": 2.0,
+      "usd": 800187.49833107,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 4.0,
+      "usd": 994436.2975656986,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 5.0,
+      "usd": 833302.4587482214,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-014",
+      "offerings": 1.0,
+      "usd": 13382.770121097565,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-015",
+      "offerings": 1.0,
+      "usd": 123999.99797344208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 6.0,
+      "usd": 1457657.8438282013,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-035",
+      "offerings": 2.0,
+      "usd": 256702.82915234566,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-037",
+      "offerings": 2.0,
+      "usd": 1128614.17979002,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-041",
+      "offerings": 1.0,
+      "usd": 439196.70581817627,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-059",
+      "offerings": 1.0,
+      "usd": 1981996.2978363037,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-069",
+      "offerings": 1.0,
+      "usd": 81157.99725055695,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-101",
+      "offerings": 1.0,
+      "usd": 177549.39198493958,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-113",
+      "offerings": 1.0,
+      "usd": 553140.5806541443,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ct-003",
+      "offerings": 10.0,
+      "usd": 1159134.9951922894,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ct-009",
+      "offerings": 1.0,
+      "usd": 200131.99746608734,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ct-013",
+      "offerings": 1.0,
+      "usd": 1016415.9536361694,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-dc-001",
+      "offerings": 7.0,
+      "usd": 631765.1746794581,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-001",
+      "offerings": 3.0,
+      "usd": 657113.6713027954,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 16.0,
+      "usd": 10285034.92474556,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-de-005",
+      "offerings": 1.0,
+      "usd": 46282.559633255005,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-001",
+      "offerings": 2.0,
+      "usd": 37062.80002370477,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-009",
+      "offerings": 2.0,
+      "usd": 204747.67684936523,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 9.0,
+      "usd": 2951790.9018322825,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-019",
+      "offerings": 1.0,
+      "usd": 66344.99877691269,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-021",
+      "offerings": 4.0,
+      "usd": 3583686.5305900574,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 18.0,
+      "usd": 4430044.621229172,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-031",
+      "offerings": 5.0,
+      "usd": 202212.00212836266,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-035",
+      "offerings": 1.0,
+      "usd": 73407.26256370544,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-057",
+      "offerings": 4.0,
+      "usd": 714435.800909996,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-069",
+      "offerings": 1.0,
+      "usd": 78201.36845111847,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-071",
+      "offerings": 2.0,
+      "usd": 5528778.076171875,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-081",
+      "offerings": 3.0,
+      "usd": 1237060.4053139687,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-083",
+      "offerings": 1.0,
+      "usd": 891284.4657897949,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-085",
+      "offerings": 1.0,
+      "usd": 2843708.7535858154,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-095",
+      "offerings": 3.0,
+      "usd": 721278.4104049206,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 9.0,
+      "usd": 2150215.210393071,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-103",
+      "offerings": 2.0,
+      "usd": 174802.9999434948,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-105",
+      "offerings": 2.0,
+      "usd": 310340.49578011036,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-115",
+      "offerings": 1.0,
+      "usd": 215204.1345834732,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-131",
+      "offerings": 1.0,
+      "usd": 56873.250752687454,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-013",
+      "offerings": 1.0,
+      "usd": 24450.000375509262,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-057",
+      "offerings": 1.0,
+      "usd": 2235781.192779541,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ga-067",
+      "offerings": 2.0,
+      "usd": 300575.353205204,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-077",
+      "offerings": 2.0,
+      "usd": 1322932.3625564575,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ga-089",
+      "offerings": 5.0,
+      "usd": 310857.05757141113,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-113",
+      "offerings": 1.0,
+      "usd": 29897.000640630722,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-121",
+      "offerings": 7.0,
+      "usd": 5453136.622905731,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ga-135",
+      "offerings": 2.0,
+      "usd": 2804591.044783592,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ga-151",
+      "offerings": 1.0,
+      "usd": 34800.00048875809,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-157",
+      "offerings": 1.0,
+      "usd": 42769.99831199646,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-hi-001",
+      "offerings": 1.0,
+      "usd": 4609553.337097168,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ia-111",
+      "offerings": 1.0,
+      "usd": 802677.0353317261,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ia-153",
+      "offerings": 1.0,
+      "usd": 54400.0007212162,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ia-163",
+      "offerings": 1.0,
+      "usd": 167082.7567577362,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-id-001",
+      "offerings": 3.0,
+      "usd": 517037.62635588646,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-id-017",
+      "offerings": 2.0,
+      "usd": 2600347.2805023193,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-id-019",
+      "offerings": 1.0,
+      "usd": 64477.18292474747,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-055",
+      "offerings": 2.0,
+      "usd": 1132318.615913391,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-id-057",
+      "offerings": 1.0,
+      "usd": 1574728.9657592773,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-163",
+      "offerings": 1.0,
+      "usd": 34699.998795986176,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-007",
+      "offerings": 1.0,
+      "usd": 1041536.808013916,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-031",
+      "offerings": 15.0,
+      "usd": 1485827.337950468,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-043",
+      "offerings": 3.0,
+      "usd": 607606.1204075813,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-097",
+      "offerings": 2.0,
+      "usd": 743253.3502578735,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-il-103",
+      "offerings": 1.0,
+      "usd": 387016.9222354889,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-il-167",
+      "offerings": 1.0,
+      "usd": 58600.00103712082,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-011",
+      "offerings": 1.0,
+      "usd": 34299.999475479126,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-017",
+      "offerings": 1.0,
+      "usd": 351823.00209999084,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-in-057",
+      "offerings": 1.0,
+      "usd": 3475949.764251709,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-in-073",
+      "offerings": 1.0,
+      "usd": 81000.00023841858,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ks-045",
+      "offerings": 1.0,
+      "usd": 317602.0085811615,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ks-091",
+      "offerings": 1.0,
+      "usd": 105876.99711322784,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ky-111",
+      "offerings": 2.0,
+      "usd": 163715.6940996647,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ky-117",
+      "offerings": 1.0,
+      "usd": 167425.0066280365,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-la-033",
+      "offerings": 3.0,
+      "usd": 977376.5467107296,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-001",
+      "offerings": 1.0,
+      "usd": 60899.9989926815,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-003",
+      "offerings": 2.0,
+      "usd": 102192.99793243408,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-005",
+      "offerings": 2.0,
+      "usd": 118499.9980032444,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 6.0,
+      "usd": 786493.070423603,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-013",
+      "offerings": 2.0,
+      "usd": 275341.9950604439,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 7.0,
+      "usd": 592415.7500267029,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 5.0,
+      "usd": 735544.9423193932,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-023",
+      "offerings": 3.0,
+      "usd": 1177600.011229515,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 17.0,
+      "usd": 5316867.69798398,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ma-027",
+      "offerings": 1.0,
+      "usd": 60005.7989358902,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-003",
+      "offerings": 1.0,
+      "usd": 33250.000327825546,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-005",
+      "offerings": 5.0,
+      "usd": 249559.26463007927,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-510",
+      "offerings": 5.0,
+      "usd": 249559.26463007927,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-025",
+      "offerings": 1.0,
+      "usd": 114104.9936413765,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-027",
+      "offerings": 1.0,
+      "usd": 34425.001591444016,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-031",
+      "offerings": 2.0,
+      "usd": 237293.9959168434,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-047",
+      "offerings": 1.0,
+      "usd": 178235.2328300476,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-me-005",
+      "offerings": 1.0,
+      "usd": 25526.000186800957,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-me-019",
+      "offerings": 1.0,
+      "usd": 145050.00412464142,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-019",
+      "offerings": 1.0,
+      "usd": 430900.0074863434,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-049",
+      "offerings": 1.0,
+      "usd": 29999.999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-077",
+      "offerings": 1.0,
+      "usd": 26200.000196695328,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-081",
+      "offerings": 1.0,
+      "usd": 50000.00074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-099",
+      "offerings": 2.0,
+      "usd": 169371.24729156494,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-115",
+      "offerings": 1.0,
+      "usd": 46799.998730421066,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 3.0,
+      "usd": 344821.0284113884,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-163",
+      "offerings": 7.0,
+      "usd": 2608786.1005216837,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-mn-037",
+      "offerings": 1.0,
+      "usd": 99239.0513420105,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 2.0,
+      "usd": 1197801.1913597584,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mn-103",
+      "offerings": 1.0,
+      "usd": 62519.99735832214,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-139",
+      "offerings": 1.0,
+      "usd": 85649.9969959259,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-163",
+      "offerings": 1.0,
+      "usd": 48078.16073298454,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-189",
+      "offerings": 1.0,
+      "usd": 46549.998223781586,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-510",
+      "offerings": 1.0,
+      "usd": 46549.998223781586,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-095",
+      "offerings": 7.0,
+      "usd": 2545284.21536088,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-mt-029",
+      "offerings": 1.0,
+      "usd": 353572.5176334381,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mt-081",
+      "offerings": 1.0,
+      "usd": 68204.00059223175,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mt-111",
+      "offerings": 1.0,
+      "usd": 146219.99859809875,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-021",
+      "offerings": 1.0,
+      "usd": 4215576.171875,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nc-037",
+      "offerings": 1.0,
+      "usd": 56000.0017285347,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-051",
+      "offerings": 1.0,
+      "usd": 211104.00557518005,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-063",
+      "offerings": 1.0,
+      "usd": 106344.58810091019,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-089",
+      "offerings": 1.0,
+      "usd": 26699.99934732914,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-111",
+      "offerings": 1.0,
+      "usd": 34309.9981546402,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-119",
+      "offerings": 3.0,
+      "usd": 604478.882625699,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-167",
+      "offerings": 1.0,
+      "usd": 1799999.9523162842,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-183",
+      "offerings": 1.0,
+      "usd": 186296.9994544983,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nd-017",
+      "offerings": 1.0,
+      "usd": 25200.000032782555,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ne-153",
+      "offerings": 1.0,
+      "usd": 60086.25030517578,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-005",
+      "offerings": 1.0,
+      "usd": 149299.9941110611,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 1.0,
+      "usd": 38392.99827814102,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-013",
+      "offerings": 1.0,
+      "usd": 72300.0019788742,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-015",
+      "offerings": 3.0,
+      "usd": 185698.9935040474,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-003",
+      "offerings": 2.0,
+      "usd": 4934751.749038696,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nj-007",
+      "offerings": 1.0,
+      "usd": 60873.549431562424,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-013",
+      "offerings": 2.0,
+      "usd": 214967.79471635818,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-017",
+      "offerings": 1.0,
+      "usd": 55091.20970964432,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-025",
+      "offerings": 1.0,
+      "usd": 309756.42800331116,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-027",
+      "offerings": 2.0,
+      "usd": 399472.1472263336,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-033",
+      "offerings": 1.0,
+      "usd": 56400.00104904175,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-035",
+      "offerings": 1.0,
+      "usd": 33844.50078010559,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-001",
+      "offerings": 4.0,
+      "usd": 5296106.390655041,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nm-049",
+      "offerings": 2.0,
+      "usd": 937387.3472213745,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 13.0,
+      "usd": 7913039.53807801,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nv-031",
+      "offerings": 1.0,
+      "usd": 1069998.9795684814,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-005",
+      "offerings": 2.0,
+      "usd": 708377.4954080582,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-021",
+      "offerings": 1.0,
+      "usd": 57650.99823474884,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-027",
+      "offerings": 1.0,
+      "usd": 37999.99877810478,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-029",
+      "offerings": 3.0,
+      "usd": 2287825.405597687,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-039",
+      "offerings": 1.0,
+      "usd": 92100.00187158585,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-043",
+      "offerings": 1.0,
+      "usd": 238000.00548362732,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 20.0,
+      "usd": 8077188.782393932,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-055",
+      "offerings": 1.0,
+      "usd": 41177.07908153534,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 5.0,
+      "usd": 1023547.9213297367,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 35.0,
+      "usd": 27379128.692671657,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-067",
+      "offerings": 1.0,
+      "usd": 67749.9994635582,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-071",
+      "offerings": 2.0,
+      "usd": 5030093.844980001,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-093",
+      "offerings": 1.0,
+      "usd": 166102.24545001984,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 2.0,
+      "usd": 1027553.9569556713,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-119",
+      "offerings": 2.0,
+      "usd": 219249.07341599464,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-009",
+      "offerings": 1.0,
+      "usd": 388927.698135376,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-025",
+      "offerings": 1.0,
+      "usd": 105599.99942779541,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 4.0,
+      "usd": 772111.6691827774,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-049",
+      "offerings": 4.0,
+      "usd": 2427606.612443924,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 2.0,
+      "usd": 640783.5744321346,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-093",
+      "offerings": 1.0,
+      "usd": 50900.00107884407,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-151",
+      "offerings": 1.0,
+      "usd": 16200.000420212746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-153",
+      "offerings": 1.0,
+      "usd": 53228.03184390068,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ok-143",
+      "offerings": 1.0,
+      "usd": 514252.0070075989,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-or-003",
+      "offerings": 1.0,
+      "usd": 415432.30414390564,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-005",
+      "offerings": 4.0,
+      "usd": 484876.3197660446,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-029",
+      "offerings": 1.0,
+      "usd": 48643.119633197784,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-039",
+      "offerings": 1.0,
+      "usd": 69679.99786138535,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-051",
+      "offerings": 3.0,
+      "usd": 678714.0108644962,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-003",
+      "offerings": 18.0,
+      "usd": 1880827.79571414,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-005",
+      "offerings": 1.0,
+      "usd": 138602.00345516205,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-029",
+      "offerings": 3.0,
+      "usd": 295200.00517368317,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-033",
+      "offerings": 1.0,
+      "usd": 50000.00074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-049",
+      "offerings": 1.0,
+      "usd": 251675.36735534668,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-051",
+      "offerings": 1.0,
+      "usd": 10459.000244736671,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-071",
+      "offerings": 1.0,
+      "usd": 65403.99789810181,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-075",
+      "offerings": 1.0,
+      "usd": 407947.00384140015,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-077",
+      "offerings": 1.0,
+      "usd": 810000.0023841858,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-095",
+      "offerings": 1.0,
+      "usd": 54400.0007212162,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-101",
+      "offerings": 2.0,
+      "usd": 140810.99815666676,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-107",
+      "offerings": 1.0,
+      "usd": 134200.00672340393,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-129",
+      "offerings": 2.0,
+      "usd": 164357.21516609192,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pr-097",
+      "offerings": 1.0,
+      "usd": 135412.0969772339,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pr-127",
+      "offerings": 1.0,
+      "usd": 89205.25759458542,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ri-007",
+      "offerings": 3.0,
+      "usd": 1008101.1913716793,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-sc-007",
+      "offerings": 1.0,
+      "usd": 207905.3670167923,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-013",
+      "offerings": 1.0,
+      "usd": 75587.51106262207,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-015",
+      "offerings": 2.0,
+      "usd": 312774.1515636444,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-019",
+      "offerings": 4.0,
+      "usd": 4561510.972678661,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-sc-045",
+      "offerings": 1.0,
+      "usd": 307999.99833106995,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-051",
+      "offerings": 1.0,
+      "usd": 17746.679484844208,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-009",
+      "offerings": 1.0,
+      "usd": 184716.99953079224,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 6.0,
+      "usd": 7980788.234621286,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tn-047",
+      "offerings": 1.0,
+      "usd": 1366623.9976882935,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tn-065",
+      "offerings": 3.0,
+      "usd": 186950.73574781418,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tn-093",
+      "offerings": 2.0,
+      "usd": 111397.99654483795,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tn-187",
+      "offerings": 1.0,
+      "usd": 2193202.9724121094,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-015",
+      "offerings": 1.0,
+      "usd": 168824.40447807312,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-021",
+      "offerings": 1.0,
+      "usd": 87568.99833679199,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-085",
+      "offerings": 2.0,
+      "usd": 260106.0001179576,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 8.0,
+      "usd": 2874385.2078914642,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-121",
+      "offerings": 5.0,
+      "usd": 352209.9945694208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-141",
+      "offerings": 1.0,
+      "usd": 19999.999552965164,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-157",
+      "offerings": 1.0,
+      "usd": 800778.9850234985,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 7.0,
+      "usd": 1511392.891407013,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-309",
+      "offerings": 1.0,
+      "usd": 163234.30836200714,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-339",
+      "offerings": 1.0,
+      "usd": 51350.001245737076,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-439",
+      "offerings": 1.0,
+      "usd": 136786.17775440216,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 21.0,
+      "usd": 13651833.891868591,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-479",
+      "offerings": 2.0,
+      "usd": 507658.2431793213,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 8.0,
+      "usd": 489404.2292067979,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ut-049",
+      "offerings": 4.0,
+      "usd": 8900191.17295742,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-va-003",
+      "offerings": 2.0,
+      "usd": 270724.71380233765,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-510",
+      "offerings": 2.0,
+      "usd": 1326315.16456604,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-013",
+      "offerings": 1.0,
+      "usd": 1402876.0194778442,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-036",
+      "offerings": 1.0,
+      "usd": 24000.000208616257,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-550",
+      "offerings": 1.0,
+      "usd": 110299.99703168869,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-041",
+      "offerings": 1.0,
+      "usd": 48615.9585416317,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-047",
+      "offerings": 1.0,
+      "usd": 98158.00189971924,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 4.0,
+      "usd": 1137660.0302755833,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 4.0,
+      "usd": 1137660.0302755833,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-075",
+      "offerings": 1.0,
+      "usd": 116240.68766832352,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-650",
+      "offerings": 1.0,
+      "usd": 4999758.243560791,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-va-107",
+      "offerings": 2.0,
+      "usd": 148471.22132778168,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-153",
+      "offerings": 1.0,
+      "usd": 202469.00618076324,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-159",
+      "offerings": 1.0,
+      "usd": 35000.00014901161,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-760",
+      "offerings": 1.0,
+      "usd": 35000.00014901161,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-001",
+      "offerings": 1.0,
+      "usd": 603085.458278656,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-vt-007",
+      "offerings": 1.0,
+      "usd": 51069.31924819946,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-011",
+      "offerings": 1.0,
+      "usd": 18850.000575184822,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 16.0,
+      "usd": 6836427.625268698,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-wa-037",
+      "offerings": 1.0,
+      "usd": 211355.16464710236,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-053",
+      "offerings": 1.0,
+      "usd": 171238.67571353912,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-059",
+      "offerings": 1.0,
+      "usd": 122022.3605632782,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-061",
+      "offerings": 2.0,
+      "usd": 1192521.095275879,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-063",
+      "offerings": 2.0,
+      "usd": 2382658.60080719,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-wa-073",
+      "offerings": 1.0,
+      "usd": 236844.003200531,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wi-025",
+      "offerings": 1.0,
+      "usd": 33319.00015473366,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-079",
+      "offerings": 1.0,
+      "usd": 20950.00073313713,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-093",
+      "offerings": 1.0,
+      "usd": 52457.99943804741,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-101",
+      "offerings": 1.0,
+      "usd": 15100.00042617321,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wy-003",
+      "offerings": 1.0,
+      "usd": 97630.00160455704,
+      "color_code": 1.0
+    }
+  ],
+  "regCF_county_2023": [
+    {
+      "code": "us-ak-020",
+      "offerings": 1.0,
+      "usd": 58201.00009441376,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ak-122",
+      "offerings": 1.0,
+      "usd": 89199.99748468399,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-al-073",
+      "offerings": 2.0,
+      "usd": 687470.9725379944,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-al-089",
+      "offerings": 2.0,
+      "usd": 243451.99763774872,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-al-097",
+      "offerings": 1.0,
+      "usd": 29061.000794172287,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ar-013",
+      "offerings": 1.0,
+      "usd": 210999.995470047,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 16.0,
+      "usd": 3211506.8677812815,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-az-015",
+      "offerings": 1.0,
+      "usd": 184802.99413204193,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-az-019",
+      "offerings": 2.0,
+      "usd": 612865.2095794678,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 11.0,
+      "usd": 6642120.881006122,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-013",
+      "offerings": 5.0,
+      "usd": 6575195.908546448,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-017",
+      "offerings": 1.0,
+      "usd": 28149.99967813492,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-019",
+      "offerings": 3.0,
+      "usd": 2137869.380414486,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-037",
+      "offerings": 43.0,
+      "usd": 23835341.763682663,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-041",
+      "offerings": 5.0,
+      "usd": 505796.8162000179,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-053",
+      "offerings": 1.0,
+      "usd": 593560.4572296143,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-057",
+      "offerings": 1.0,
+      "usd": 407179.1470050812,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 22.0,
+      "usd": 7649194.918572903,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 6.0,
+      "usd": 6326164.647936821,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-067",
+      "offerings": 1.0,
+      "usd": 19807.830452919006,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 19.0,
+      "usd": 8142309.861257672,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 17.0,
+      "usd": 16757091.298699379,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-079",
+      "offerings": 1.0,
+      "usd": 458220.36266326904,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 5.0,
+      "usd": 10396837.85289526,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-083",
+      "offerings": 1.0,
+      "usd": 232624.69470500946,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 14.0,
+      "usd": 5914233.895018697,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ca-087",
+      "offerings": 3.0,
+      "usd": 1283033.2964658737,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-091",
+      "offerings": 1.0,
+      "usd": 126073.00281524658,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-111",
+      "offerings": 1.0,
+      "usd": 24506.46087527275,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-113",
+      "offerings": 2.0,
+      "usd": 542016.9830322266,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-001",
+      "offerings": 6.0,
+      "usd": 775967.3818945885,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 2.0,
+      "usd": 614267.9713666439,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 4.0,
+      "usd": 568778.3174216747,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-014",
+      "offerings": 1.0,
+      "usd": 35799.99879002571,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 3.0,
+      "usd": 173389.29139077663,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-co-035",
+      "offerings": 3.0,
+      "usd": 637129.3440461159,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-co-059",
+      "offerings": 1.0,
+      "usd": 123999.99797344208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-dc-001",
+      "offerings": 7.0,
+      "usd": 562870.8377480507,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-de-001",
+      "offerings": 3.0,
+      "usd": 234558.68661403656,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 17.0,
+      "usd": 3900999.4119405746,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-de-005",
+      "offerings": 3.0,
+      "usd": 477591.49968624115,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-109",
+      "offerings": 3.0,
+      "usd": 136949.99739527702,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-001",
+      "offerings": 1.0,
+      "usd": 238609.99941825867,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-009",
+      "offerings": 2.0,
+      "usd": 1836630.0761699677,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 14.0,
+      "usd": 13737744.882702827,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-019",
+      "offerings": 1.0,
+      "usd": 44325.001537799835,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 14.0,
+      "usd": 3294822.226278484,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-031",
+      "offerings": 2.0,
+      "usd": 65699.9982893467,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-043",
+      "offerings": 1.0,
+      "usd": 2374644.2794799805,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-057",
+      "offerings": 6.0,
+      "usd": 213157.4871018529,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-073",
+      "offerings": 1.0,
+      "usd": 55939.99847769737,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-085",
+      "offerings": 4.0,
+      "usd": 5006005.16423583,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-095",
+      "offerings": 2.0,
+      "usd": 85338.60184252262,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 8.0,
+      "usd": 391208.0302834511,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-103",
+      "offerings": 3.0,
+      "usd": 1595114.6706938744,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-fl-107",
+      "offerings": 1.0,
+      "usd": 26300.00002682209,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-117",
+      "offerings": 2.0,
+      "usd": 3579982.329159975,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-fl-127",
+      "offerings": 1.0,
+      "usd": 12820.759788155556,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-029",
+      "offerings": 3.0,
+      "usd": 84499.99988079071,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-045",
+      "offerings": 1.0,
+      "usd": 163200.0058889389,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-057",
+      "offerings": 2.0,
+      "usd": 588684.618473053,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ga-067",
+      "offerings": 1.0,
+      "usd": 435647.01080322266,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-089",
+      "offerings": 2.0,
+      "usd": 125274.99720454216,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ga-121",
+      "offerings": 14.0,
+      "usd": 6566323.097795248,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ga-135",
+      "offerings": 1.0,
+      "usd": 492133.2597732544,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-hi-001",
+      "offerings": 2.0,
+      "usd": 3136084.9142074585,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-hi-003",
+      "offerings": 2.0,
+      "usd": 1331995.3083992004,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-hi-007",
+      "offerings": 1.0,
+      "usd": 105021.44694328308,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ia-079",
+      "offerings": 1.0,
+      "usd": 36906.00022673607,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-001",
+      "offerings": 1.0,
+      "usd": 799050.4503250122,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-id-005",
+      "offerings": 1.0,
+      "usd": 581928.1935691833,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-id-055",
+      "offerings": 1.0,
+      "usd": 10080.000385642052,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-031",
+      "offerings": 20.0,
+      "usd": 11220799.392089248,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-il-043",
+      "offerings": 2.0,
+      "usd": 181133.02439451218,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-il-097",
+      "offerings": 1.0,
+      "usd": 64260.996878147125,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-201",
+      "offerings": 1.0,
+      "usd": 1324425.3396987915,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-in-141",
+      "offerings": 1.0,
+      "usd": 1029950.9763717651,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-in-011",
+      "offerings": 1.0,
+      "usd": 59999.99865889549,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-019",
+      "offerings": 1.0,
+      "usd": 37200.00013709068,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-057",
+      "offerings": 2.0,
+      "usd": 896654.2035341263,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-in-059",
+      "offerings": 1.0,
+      "usd": 28300.000354647636,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-081",
+      "offerings": 1.0,
+      "usd": 22247.34053015709,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-in-097",
+      "offerings": 1.0,
+      "usd": 29999.999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ks-173",
+      "offerings": 1.0,
+      "usd": 47150.00092983246,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ky-111",
+      "offerings": 2.0,
+      "usd": 83900.00090003014,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ky-117",
+      "offerings": 1.0,
+      "usd": 248634.99402999878,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-la-007",
+      "offerings": 1.0,
+      "usd": 541814.0292167664,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-la-019",
+      "offerings": 1.0,
+      "usd": 18095.10961174965,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-la-071",
+      "offerings": 1.0,
+      "usd": 40075.00037550926,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-001",
+      "offerings": 1.0,
+      "usd": 276966.3333892822,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-003",
+      "offerings": 2.0,
+      "usd": 96253.99857759476,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 5.0,
+      "usd": 576367.0168817043,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-013",
+      "offerings": 1.0,
+      "usd": 80049.99905824661,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 3.0,
+      "usd": 1665951.4233469963,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 4.0,
+      "usd": 449193.43665242195,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ma-023",
+      "offerings": 4.0,
+      "usd": 1407299.9693453312,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 9.0,
+      "usd": 705488.2291704416,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ma-027",
+      "offerings": 1.0,
+      "usd": 78000.00160932541,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-001",
+      "offerings": 1.0,
+      "usd": 37599.99945759773,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-005",
+      "offerings": 6.0,
+      "usd": 997824.4230151176,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-md-510",
+      "offerings": 6.0,
+      "usd": 997824.4230151176,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-md-029",
+      "offerings": 1.0,
+      "usd": 35803.99975180626,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-031",
+      "offerings": 2.0,
+      "usd": 246448.6099779606,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-md-033",
+      "offerings": 1.0,
+      "usd": 30899.999663233757,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-me-005",
+      "offerings": 2.0,
+      "usd": 147953.64812016487,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-me-013",
+      "offerings": 1.0,
+      "usd": 123999.99797344208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-005",
+      "offerings": 1.0,
+      "usd": 226866.0068511963,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-015",
+      "offerings": 1.0,
+      "usd": 161227.71799564362,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-019",
+      "offerings": 1.0,
+      "usd": 128499.99964237213,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-025",
+      "offerings": 1.0,
+      "usd": 30151.0002464056,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-049",
+      "offerings": 1.0,
+      "usd": 61057.99973011017,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-081",
+      "offerings": 1.0,
+      "usd": 300686.9852542877,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-093",
+      "offerings": 1.0,
+      "usd": 333774.29842948914,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 4.0,
+      "usd": 1528081.402182579,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mi-161",
+      "offerings": 2.0,
+      "usd": 1315100.0142097473,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mi-163",
+      "offerings": 4.0,
+      "usd": 869316.9504404068,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 2.0,
+      "usd": 210632.1081519127,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mn-065",
+      "offerings": 1.0,
+      "usd": 25499.99952316284,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-123",
+      "offerings": 1.0,
+      "usd": 42500.000447034836,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-163",
+      "offerings": 2.0,
+      "usd": 776507.1392059326,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mo-077",
+      "offerings": 1.0,
+      "usd": 388481.82559013367,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mo-095",
+      "offerings": 3.0,
+      "usd": 697820.1158344746,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-mt-003",
+      "offerings": 3.0,
+      "usd": 296922.0280647278,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-mt-053",
+      "offerings": 1.0,
+      "usd": 172499.99940395355,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-001",
+      "offerings": 1.0,
+      "usd": 75000.00298023224,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-021",
+      "offerings": 2.0,
+      "usd": 59535.001404583454,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-037",
+      "offerings": 3.0,
+      "usd": 649223.6256599426,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-051",
+      "offerings": 1.0,
+      "usd": 23800.000548362732,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-057",
+      "offerings": 1.0,
+      "usd": 11207.000352442265,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-063",
+      "offerings": 3.0,
+      "usd": 399820.80832123756,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-101",
+      "offerings": 1.0,
+      "usd": 96699.99778270721,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-111",
+      "offerings": 1.0,
+      "usd": 384099.9901294708,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-135",
+      "offerings": 2.0,
+      "usd": 574140.0122642517,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-169",
+      "offerings": 1.0,
+      "usd": 685833.1561088562,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nc-179",
+      "offerings": 1.0,
+      "usd": 303831.2494754791,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nc-183",
+      "offerings": 3.0,
+      "usd": 401107.68005251884,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-005",
+      "offerings": 1.0,
+      "usd": 197043.13576221466,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 1.0,
+      "usd": 344938.0397796631,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nh-017",
+      "offerings": 1.0,
+      "usd": 64569.89794969559,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-001",
+      "offerings": 1.0,
+      "usd": 50523.530691862106,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-003",
+      "offerings": 3.0,
+      "usd": 104879.77990851505,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-013",
+      "offerings": 1.0,
+      "usd": 66172.36137390137,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-017",
+      "offerings": 1.0,
+      "usd": 34800.00048875809,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-023",
+      "offerings": 1.0,
+      "usd": 109725.51256418228,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-025",
+      "offerings": 3.0,
+      "usd": 431094.6613550186,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nj-027",
+      "offerings": 1.0,
+      "usd": 44148.47865700722,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-033",
+      "offerings": 1.0,
+      "usd": 50000.00074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-035",
+      "offerings": 1.0,
+      "usd": 130079.99956607819,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-nm-001",
+      "offerings": 2.0,
+      "usd": 531983.0104708672,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nm-013",
+      "offerings": 1.0,
+      "usd": 70459.9991440773,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-049",
+      "offerings": 3.0,
+      "usd": 1850780.0325751305,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-nm-053",
+      "offerings": 1.0,
+      "usd": 69099.99996423721,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 5.0,
+      "usd": 8943881.407380104,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-nv-029",
+      "offerings": 1.0,
+      "usd": 43793.849647045135,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-031",
+      "offerings": 1.0,
+      "usd": 123999.99797344208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-005",
+      "offerings": 1.0,
+      "usd": 167239.9938106537,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-011",
+      "offerings": 1.0,
+      "usd": 40100.00079870224,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-025",
+      "offerings": 1.0,
+      "usd": 123999.99797344208,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-029",
+      "offerings": 2.0,
+      "usd": 173585.99603176117,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-043",
+      "offerings": 1.0,
+      "usd": 68499.99725818634,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 9.0,
+      "usd": 2613828.444853425,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-055",
+      "offerings": 1.0,
+      "usd": 35464.998334646225,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 3.0,
+      "usd": 1482220.7614779472,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 34.0,
+      "usd": 15178935.288451612,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-067",
+      "offerings": 2.0,
+      "usd": 93100.00017285347,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-071",
+      "offerings": 1.0,
+      "usd": 1577188.9686584473,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-081",
+      "offerings": 5.0,
+      "usd": 2740964.7032618523,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ny-083",
+      "offerings": 1.0,
+      "usd": 19300.000742077827,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 3.0,
+      "usd": 1636797.6367473602,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ny-119",
+      "offerings": 3.0,
+      "usd": 324795.2349483967,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-017",
+      "offerings": 1.0,
+      "usd": 1222694.0393447876,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 5.0,
+      "usd": 182489.56836760044,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-041",
+      "offerings": 1.0,
+      "usd": 555738.9855384827,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-oh-049",
+      "offerings": 2.0,
+      "usd": 100000.00149011612,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 1.0,
+      "usd": 2264100.7900238037,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-oh-151",
+      "offerings": 1.0,
+      "usd": 29999.999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-005",
+      "offerings": 1.0,
+      "usd": 170839.324593544,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-or-051",
+      "offerings": 4.0,
+      "usd": 801007.8966617584,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-or-067",
+      "offerings": 1.0,
+      "usd": 44667.53080487251,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-003",
+      "offerings": 23.0,
+      "usd": 1677846.3926166296,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-007",
+      "offerings": 2.0,
+      "usd": 257131.24126195908,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-029",
+      "offerings": 3.0,
+      "usd": 222888.9986872673,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-041",
+      "offerings": 1.0,
+      "usd": 13339.820317924023,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-049",
+      "offerings": 1.0,
+      "usd": 31649.99932050705,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-071",
+      "offerings": 1.0,
+      "usd": 79000.00363588333,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-075",
+      "offerings": 1.0,
+      "usd": 1290347.3377227783,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-077",
+      "offerings": 1.0,
+      "usd": 324999.98807907104,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-079",
+      "offerings": 1.0,
+      "usd": 141837.99922466278,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-095",
+      "offerings": 1.0,
+      "usd": 102891.9517993927,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-101",
+      "offerings": 9.0,
+      "usd": 534251.9991099834,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-pa-111",
+      "offerings": 1.0,
+      "usd": 74704.99724149704,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-129",
+      "offerings": 3.0,
+      "usd": 145392.00253784657,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-pa-133",
+      "offerings": 1.0,
+      "usd": 43000.0014603138,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pr-011",
+      "offerings": 1.0,
+      "usd": 19287.999719381332,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ri-001",
+      "offerings": 1.0,
+      "usd": 98899.99777078629,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ri-007",
+      "offerings": 3.0,
+      "usd": 178671.99704051018,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-015",
+      "offerings": 2.0,
+      "usd": 383784.77841615677,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-sc-019",
+      "offerings": 4.0,
+      "usd": 1764778.0701518059,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-sc-045",
+      "offerings": 1.0,
+      "usd": 1500000.0,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-sc-051",
+      "offerings": 1.0,
+      "usd": 912540.0185585022,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-sd-099",
+      "offerings": 1.0,
+      "usd": 237349.0035533905,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 3.0,
+      "usd": 1819141.5667533875,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tn-047",
+      "offerings": 1.0,
+      "usd": 4494450.092315674,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tn-065",
+      "offerings": 1.0,
+      "usd": 435451.4181613922,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tn-157",
+      "offerings": 1.0,
+      "usd": 82699.53727722168,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-187",
+      "offerings": 2.0,
+      "usd": 386871.8147277832,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-019",
+      "offerings": 1.0,
+      "usd": 414995.61071395874,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-029",
+      "offerings": 1.0,
+      "usd": 742358.5057258606,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-085",
+      "offerings": 6.0,
+      "usd": 554888.9692872763,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 9.0,
+      "usd": 3985273.572121514,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-121",
+      "offerings": 1.0,
+      "usd": 170200.00517368317,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 5.0,
+      "usd": 5294731.289148331,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-tx-339",
+      "offerings": 1.0,
+      "usd": 93953.31144332886,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-439",
+      "offerings": 1.0,
+      "usd": 100000.00149011612,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 11.0,
+      "usd": 7007789.2653644085,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 2.0,
+      "usd": 210252.00001895428,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ut-049",
+      "offerings": 6.0,
+      "usd": 7096946.511417627,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-ut-057",
+      "offerings": 1.0,
+      "usd": 99.99999747378752,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-003",
+      "offerings": 1.0,
+      "usd": 50000.00074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-013",
+      "offerings": 1.0,
+      "usd": 235307.2464466095,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-va-041",
+      "offerings": 1.0,
+      "usd": 563518.5837745667,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-va-043",
+      "offerings": 1.0,
+      "usd": 65899.99794960022,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 1.0,
+      "usd": 35950.00132918358,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 1.0,
+      "usd": 35950.00132918358,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-087",
+      "offerings": 1.0,
+      "usd": 130979.9998998642,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 8.0,
+      "usd": 5335907.030850649,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-wa-035",
+      "offerings": 1.0,
+      "usd": 148806.00571632385,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-053",
+      "offerings": 1.0,
+      "usd": 3845585.1078033447,
+      "color_code": 4.0
+    },
+    {
+      "code": "us-wa-057",
+      "offerings": 1.0,
+      "usd": 31922.42980003357,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-061",
+      "offerings": 1.0,
+      "usd": 129609.00366306305,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-063",
+      "offerings": 1.0,
+      "usd": 1520125.7467269897,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-wa-073",
+      "offerings": 1.0,
+      "usd": 62500.0,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-063",
+      "offerings": 1.0,
+      "usd": 39937.04169988632,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wy-021",
+      "offerings": 1.0,
+      "usd": 648437.0231628418,
+      "color_code": 3.0
+    }
+  ],
+  "regCF_county_2024": [
+    {
+      "code": "us-al-073",
+      "offerings": 2.0,
+      "usd": 0.2113100066781044,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-al-089",
+      "offerings": 1.0,
+      "usd": 0.09109000116586685,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-az-013",
+      "offerings": 9.0,
+      "usd": 3.0175742842257023,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-001",
+      "offerings": 5.0,
+      "usd": 1.7197488863021135,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-013",
+      "offerings": 1.0,
+      "usd": 0.029999999329447746,
+      "color_code": 1.0
+    },
+    { "code": "us-ca-031", "offerings": 1.0, "usd": 0.25, "color_code": 1.0 },
+    {
+      "code": "us-ca-037",
+      "offerings": 54.0,
+      "usd": 27.796677629463375,
+      "color_code": 3.0
+    },
+    {
+      "code": "us-ca-041",
+      "offerings": 3.0,
+      "usd": 0.39752035588026047,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-057",
+      "offerings": 1.0,
+      "usd": 0.03264759108424187,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-059",
+      "offerings": 9.0,
+      "usd": 3.8281653970479965,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-065",
+      "offerings": 3.0,
+      "usd": 1.1118024289608002,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-067",
+      "offerings": 1.0,
+      "usd": 0.0972491204738617,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-069",
+      "offerings": 1.0,
+      "usd": 0.1467519998550415,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-073",
+      "offerings": 20.0,
+      "usd": 16.118917744606733,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-075",
+      "offerings": 14.0,
+      "usd": 6.357875298708677,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ca-079",
+      "offerings": 1.0,
+      "usd": 0.07635331153869629,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-081",
+      "offerings": 1.0,
+      "usd": 0.016232000663876534,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-083",
+      "offerings": 1.0,
+      "usd": 0.18126989901065826,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-085",
+      "offerings": 7.0,
+      "usd": 2.5798803456127644,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-087",
+      "offerings": 1.0,
+      "usd": 1.5949219465255737,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-097",
+      "offerings": 2.0,
+      "usd": 0.19284499436616898,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-099",
+      "offerings": 1.0,
+      "usd": 0.0313900001347065,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ca-107",
+      "offerings": 1.0,
+      "usd": 0.1836320012807846,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-001",
+      "offerings": 3.0,
+      "usd": 0.34766799211502075,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-005",
+      "offerings": 1.0,
+      "usd": 0.2413109987974167,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-013",
+      "offerings": 3.0,
+      "usd": 1.3467918187379837,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-031",
+      "offerings": 2.0,
+      "usd": 0.4913877472281456,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-035",
+      "offerings": 2.0,
+      "usd": 0.24542372673749924,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-059",
+      "offerings": 3.0,
+      "usd": 0.5339136533439159,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-069",
+      "offerings": 1.0,
+      "usd": 0.935562789440155,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-077",
+      "offerings": 1.0,
+      "usd": 0.07393000274896622,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-co-085",
+      "offerings": 1.0,
+      "usd": 0.09008900076150894,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ct-003",
+      "offerings": 5.0,
+      "usd": 10.110688105225563,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ct-009",
+      "offerings": 1.0,
+      "usd": 0.12399999797344208,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ct-015",
+      "offerings": 1.0,
+      "usd": 0.15434999763965607,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-dc-001",
+      "offerings": 7.0,
+      "usd": 1.5227979142218828,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-de-001",
+      "offerings": 4.0,
+      "usd": 2.2764167338609695,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-de-003",
+      "offerings": 9.0,
+      "usd": 1.4000720139592886,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-de-005",
+      "offerings": 1.0,
+      "usd": 0.0665770024061203,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-009",
+      "offerings": 1.0,
+      "usd": 2.2507033348083496,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-011",
+      "offerings": 10.0,
+      "usd": 2.4531547866063192,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-019",
+      "offerings": 1.0,
+      "usd": 0.0264699999243021,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-086",
+      "offerings": 7.0,
+      "usd": 3.6706198006868362,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-031",
+      "offerings": 3.0,
+      "usd": 0.1868653390556574,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-057",
+      "offerings": 1.0,
+      "usd": 0.04420100152492523,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-085",
+      "offerings": 4.0,
+      "usd": 5.872344017028809,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-087",
+      "offerings": 1.0,
+      "usd": 0.170839324593544,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-095",
+      "offerings": 3.0,
+      "usd": 5.2831962034106255,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-fl-099",
+      "offerings": 1.0,
+      "usd": 0.3556559979915619,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-101",
+      "offerings": 1.0,
+      "usd": 0.032499998807907104,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-103",
+      "offerings": 3.0,
+      "usd": 4.77247679233551,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-115",
+      "offerings": 1.0,
+      "usd": 0.1334715336561203,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-fl-117",
+      "offerings": 2.0,
+      "usd": 4.927638053894043,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-057",
+      "offerings": 1.0,
+      "usd": 0.16260799765586853,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-067",
+      "offerings": 1.0,
+      "usd": 0.4579299986362457,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-117",
+      "offerings": 1.0,
+      "usd": 0.03053000010550022,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-121",
+      "offerings": 4.0,
+      "usd": 1.6553306840360165,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ga-145",
+      "offerings": 1.0,
+      "usd": 0.28074461221694946,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-hi-001",
+      "offerings": 2.0,
+      "usd": 1.9979502707719803,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-hi-003",
+      "offerings": 1.0,
+      "usd": 0.5943012833595276,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-055",
+      "offerings": 1.0,
+      "usd": 0.2563076317310333,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-id-075",
+      "offerings": 1.0,
+      "usd": 0.07058600336313248,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-007",
+      "offerings": 1.0,
+      "usd": 0.9919717311859131,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-031",
+      "offerings": 15.0,
+      "usd": 2.936406536027789,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-043",
+      "offerings": 1.0,
+      "usd": 0.10711079090833664,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-089",
+      "offerings": 1.0,
+      "usd": 0.3700532019138336,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-097",
+      "offerings": 2.0,
+      "usd": 0.09029999934136868,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-il-121",
+      "offerings": 1.0,
+      "usd": 0.12399999797344208,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ks-015",
+      "offerings": 1.0,
+      "usd": 0.05130000039935112,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ks-045",
+      "offerings": 1.0,
+      "usd": 0.02319999970495701,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ks-091",
+      "offerings": 2.0,
+      "usd": 0.17944277077913284,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ky-111",
+      "offerings": 1.0,
+      "usd": 0.09449999779462814,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-la-033",
+      "offerings": 1.0,
+      "usd": 0.025699999183416367,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-la-051",
+      "offerings": 1.0,
+      "usd": 0.025808999314904213,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-la-071",
+      "offerings": 1.0,
+      "usd": 0.30000001192092896,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-003",
+      "offerings": 2.0,
+      "usd": 0.05971272848546505,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-009",
+      "offerings": 3.0,
+      "usd": 0.21516599878668785,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-017",
+      "offerings": 3.0,
+      "usd": 0.5670389253646135,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-021",
+      "offerings": 1.0,
+      "usd": 0.058804940432310104,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-023",
+      "offerings": 1.0,
+      "usd": 0.6798570156097412,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-025",
+      "offerings": 3.0,
+      "usd": 1.1833269000053406,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ma-027",
+      "offerings": 1.0,
+      "usd": 0.03660000115633011,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-001",
+      "offerings": 2.0,
+      "usd": 0.23320448398590088,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-005",
+      "offerings": 3.0,
+      "usd": 0.3925667181611061,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-510",
+      "offerings": 3.0,
+      "usd": 0.3925667181611061,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-025",
+      "offerings": 1.0,
+      "usd": 0.019215140491724014,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-029",
+      "offerings": 1.0,
+      "usd": 0.06019999831914902,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-md-031",
+      "offerings": 4.0,
+      "usd": 0.2558453753590584,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-075",
+      "offerings": 1.0,
+      "usd": 0.062199998646974564,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-081",
+      "offerings": 1.0,
+      "usd": 0.061799999326467514,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-125",
+      "offerings": 2.0,
+      "usd": 0.9981960151344538,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-161",
+      "offerings": 1.0,
+      "usd": 0.0948989987373352,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mi-163",
+      "offerings": 2.0,
+      "usd": 0.2209998294711113,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-009",
+      "offerings": 1.0,
+      "usd": 0.036249998956918716,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-053",
+      "offerings": 1.0,
+      "usd": 0.12796522676944733,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-123",
+      "offerings": 2.0,
+      "usd": 0.28984999656677246,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mn-163",
+      "offerings": 1.0,
+      "usd": 1.2350000143051147,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-077",
+      "offerings": 1.0,
+      "usd": 0.06799749284982681,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-095",
+      "offerings": 3.0,
+      "usd": 0.14285893738269806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-189",
+      "offerings": 1.0,
+      "usd": 0.0284659992903471,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mo-510",
+      "offerings": 1.0,
+      "usd": 0.0284659992903471,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mt-031",
+      "offerings": 1.0,
+      "usd": 1.2350000143051147,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-mt-111",
+      "offerings": 1.0,
+      "usd": 0.33279287815093994,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-001",
+      "offerings": 2.0,
+      "usd": 0.5722559839487076,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-063",
+      "offerings": 3.0,
+      "usd": 1.4466745220124722,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-067",
+      "offerings": 1.0,
+      "usd": 0.08968599885702133,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-135",
+      "offerings": 4.0,
+      "usd": 1.492460012435913,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nc-183",
+      "offerings": 4.0,
+      "usd": 0.45273372530937195,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-009",
+      "offerings": 1.0,
+      "usd": 0.1769709438085556,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-011",
+      "offerings": 2.0,
+      "usd": 0.635661244392395,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nh-015",
+      "offerings": 1.0,
+      "usd": 0.08299999684095383,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-003",
+      "offerings": 1.0,
+      "usd": 0.0807308778166771,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-005",
+      "offerings": 1.0,
+      "usd": 0.009999999776482582,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-007",
+      "offerings": 1.0,
+      "usd": 0.02550099976360798,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-013",
+      "offerings": 1.0,
+      "usd": 0.05000000074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-017",
+      "offerings": 2.0,
+      "usd": 0.3548011779785156,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-023",
+      "offerings": 2.0,
+      "usd": 0.5257969871163368,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-025",
+      "offerings": 1.0,
+      "usd": 0.3204681873321533,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nj-035",
+      "offerings": 1.0,
+      "usd": 0.057580720633268356,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-001",
+      "offerings": 1.0,
+      "usd": 0.3876200020313263,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-045",
+      "offerings": 1.0,
+      "usd": 0.010728999972343445,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nm-043",
+      "offerings": 1.0,
+      "usd": 0.04580099880695343,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-510",
+      "offerings": 1.0,
+      "usd": 0.2025189995765686,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-003",
+      "offerings": 4.0,
+      "usd": 0.4505718667060137,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-023",
+      "offerings": 1.0,
+      "usd": 0.012849999591708183,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-nv-031",
+      "offerings": 4.0,
+      "usd": 0.7693859320133924,
+      "color_code": 1.0
+    },
+    { "code": "us-ny-001", "offerings": 1.0, "usd": 0.25, "color_code": 1.0 },
+    {
+      "code": "us-ny-021",
+      "offerings": 1.0,
+      "usd": 0.06208975985646248,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-029",
+      "offerings": 3.0,
+      "usd": 0.360558208078146,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-047",
+      "offerings": 12.0,
+      "usd": 4.92479031921539,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-059",
+      "offerings": 1.0,
+      "usd": 1.6655678749084473,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-061",
+      "offerings": 20.0,
+      "usd": 17.16090521550359,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ny-067",
+      "offerings": 1.0,
+      "usd": 0.02505899965763092,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-071",
+      "offerings": 1.0,
+      "usd": 1.3107390403747559,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-081",
+      "offerings": 2.0,
+      "usd": 0.14847378060221672,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-103",
+      "offerings": 2.0,
+      "usd": 0.04499099962413311,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-111",
+      "offerings": 1.0,
+      "usd": 0.07500000298023224,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-ny-115",
+      "offerings": 1.0,
+      "usd": 0.02500000037252903,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-009",
+      "offerings": 1.0,
+      "usd": 0.14798201620578766,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-035",
+      "offerings": 5.0,
+      "usd": 0.4429333545267582,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-049",
+      "offerings": 3.0,
+      "usd": 0.19676000252366066,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-061",
+      "offerings": 2.0,
+      "usd": 0.27376594208180904,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-151",
+      "offerings": 1.0,
+      "usd": 0.031192999333143234,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-oh-165",
+      "offerings": 2.0,
+      "usd": 0.3940008878707886,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-005",
+      "offerings": 3.0,
+      "usd": 0.16706753335893154,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-013",
+      "offerings": 1.0,
+      "usd": 4.913921356201172,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-051",
+      "offerings": 5.0,
+      "usd": 0.523638341575861,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-or-067",
+      "offerings": 1.0,
+      "usd": 0.050960998982191086,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-003",
+      "offerings": 24.0,
+      "usd": 1.8076101150363684,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-011",
+      "offerings": 1.0,
+      "usd": 0.15242141485214233,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-019",
+      "offerings": 1.0,
+      "usd": 0.03592799976468086,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-029",
+      "offerings": 3.0,
+      "usd": 0.19290447980165482,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-039",
+      "offerings": 3.0,
+      "usd": 0.6618632525205612,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-043",
+      "offerings": 1.0,
+      "usd": 0.09989999979734421,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-045",
+      "offerings": 1.0,
+      "usd": 0.05285000056028366,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-071",
+      "offerings": 1.0,
+      "usd": 0.0812000036239624,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-077",
+      "offerings": 3.0,
+      "usd": 0.9648990035057068,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-079",
+      "offerings": 1.0,
+      "usd": 0.03310000151395798,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-081",
+      "offerings": 1.0,
+      "usd": 0.15000000596046448,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-091",
+      "offerings": 3.0,
+      "usd": 0.45395725779235363,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-101",
+      "offerings": 7.0,
+      "usd": 0.3288837266154587,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pa-133",
+      "offerings": 1.0,
+      "usd": 0.027517609298229218,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-pr-069",
+      "offerings": 1.0,
+      "usd": 0.22679199278354645,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-019",
+      "offerings": 1.0,
+      "usd": 2.9403350353240967,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-045",
+      "offerings": 2.0,
+      "usd": 1.3574326634407043,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sc-079",
+      "offerings": 1.0,
+      "usd": 0.03449999913573265,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-sd-099",
+      "offerings": 1.0,
+      "usd": 0.02690500020980835,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-029",
+      "offerings": 1.0,
+      "usd": 0.5616246461868286,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-037",
+      "offerings": 1.0,
+      "usd": 0.8932458162307739,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tn-043",
+      "offerings": 1.0,
+      "usd": 0.032457999885082245,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-007",
+      "offerings": 1.0,
+      "usd": 0.029999999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-029",
+      "offerings": 2.0,
+      "usd": 0.08468393795192242,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-031",
+      "offerings": 1.0,
+      "usd": 0.8626062273979187,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-039",
+      "offerings": 1.0,
+      "usd": 0.05000000074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-085",
+      "offerings": 1.0,
+      "usd": 0.7688999772071838,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-113",
+      "offerings": 8.0,
+      "usd": 5.1620354652404785,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-tx-157",
+      "offerings": 1.0,
+      "usd": 0.2570914924144745,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-167",
+      "offerings": 1.0,
+      "usd": 0.5233780145645142,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-201",
+      "offerings": 5.0,
+      "usd": 1.223568581044674,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-303",
+      "offerings": 1.0,
+      "usd": 0.029999999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-329",
+      "offerings": 1.0,
+      "usd": 0.7821783423423767,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-347",
+      "offerings": 1.0,
+      "usd": 3.176063060760498,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-439",
+      "offerings": 1.0,
+      "usd": 0.024000000208616257,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-tx-453",
+      "offerings": 8.0,
+      "usd": 5.859126478433609,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-ut-035",
+      "offerings": 1.0,
+      "usd": 0.07345355302095413,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-003",
+      "offerings": 1.0,
+      "usd": 0.029999999329447746,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-011",
+      "offerings": 1.0,
+      "usd": 0.12158200144767761,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-041",
+      "offerings": 2.0,
+      "usd": 0.06363399885594845,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-047",
+      "offerings": 1.0,
+      "usd": 0.15232877433300018,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-059",
+      "offerings": 4.0,
+      "usd": 2.584109418094158,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-600",
+      "offerings": 4.0,
+      "usd": 2.584109418094158,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-107",
+      "offerings": 2.0,
+      "usd": 0.2540999986231327,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-153",
+      "offerings": 2.0,
+      "usd": 0.124160997569561,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-va-179",
+      "offerings": 1.0,
+      "usd": 0.10245099663734436,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vi-78",
+      "offerings": 1.0,
+      "usd": 1.109423041343689,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-001",
+      "offerings": 1.0,
+      "usd": 0.16529984772205353,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-007",
+      "offerings": 2.0,
+      "usd": 4.767932891845703,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-vt-023",
+      "offerings": 1.0,
+      "usd": 0.07500000298023224,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-015",
+      "offerings": 1.0,
+      "usd": 0.1472831666469574,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-033",
+      "offerings": 11.0,
+      "usd": 7.13614222407341,
+      "color_code": 2.0
+    },
+    {
+      "code": "us-wa-053",
+      "offerings": 1.0,
+      "usd": 0.05743733048439026,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-061",
+      "offerings": 1.0,
+      "usd": 0.10335999727249146,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-063",
+      "offerings": 3.0,
+      "usd": 2.149843245744705,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-067",
+      "offerings": 2.0,
+      "usd": 0.18996823206543922,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wa-077",
+      "offerings": 1.0,
+      "usd": 0.4366909861564636,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wi-079",
+      "offerings": 2.0,
+      "usd": 0.11264999955892563,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wy-003",
+      "offerings": 1.0,
+      "usd": 0.6555650234222412,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wy-025",
+      "offerings": 1.0,
+      "usd": 0.05000000074505806,
+      "color_code": 1.0
+    },
+    {
+      "code": "us-wy-035",
+      "offerings": 1.0,
+      "usd": 0.23487210273742676,
+      "color_code": 1.0
+    }
+  ]
+}
