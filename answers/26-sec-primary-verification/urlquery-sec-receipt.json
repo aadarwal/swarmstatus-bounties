@@ -1,0 +1,36 @@
+{
+  "report_url": "https://urlquery.net/report/0873ec25-2bff-4610-b7c0-6cbd5bb31933",
+  "provider_json_url": "https://urlquery.net/report/0873ec25-2bff-4610-b7c0-6cbd5bb31933/json",
+  "original_provider_json_sha256": "d89f6c9dd1957ffd5683b04592caf9967f02496b73f8fdbddf48e8cee4d7a35a",
+  "source_database_record_id": "0a7c2ad458c2277ab5121e7caa6b3a26",
+  "report_id": "0873ec25-2bff-4610-b7c0-6cbd5bb31933",
+  "report_date": "2026-06-18T15:35:48Z",
+  "report_status": "done",
+  "transaction_index": 1,
+  "transaction": {
+    "request_url": "https://www.sec.gov/files/county.json",
+    "request_method": "GET",
+    "request_date": "2026-06-18T15:35:24.375Z",
+    "request_timestamp": 1781796924375,
+    "is_navigation_request": true,
+    "resource_type": "document",
+    "response_status_code": "200",
+    "selected_response_headers": {
+      "content-type": "application/json",
+      "content-length": "18032",
+      "last-modified": "Mon, 03 Mar 2025 17:08:02 GMT",
+      "content-encoding": "gzip",
+      "date": "Thu, 18 Jun 2026 15:35:24 GMT"
+    },
+    "response_data": {
+      "size": 147840,
+      "size_decoded": 19168,
+      "mime_type": "application/vnd.mozilla.json.view",
+      "magic": "JSON text data",
+      "sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297",
+      "resource_available": false,
+      "data": null
+    }
+  },
+  "extraction_note": "Field selection from preserved provider JSON. Submitter identifiers, IPs, cookies, and unrelated favicon transaction omitted. This excerpt is not the unavailable HTTP response body."
+}

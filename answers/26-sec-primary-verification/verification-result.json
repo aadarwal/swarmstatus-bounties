@@ -1,0 +1,174 @@
+{
+  "result": "PASS",
+  "network_requests": 0,
+  "primary_sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297",
+  "primary_bytes": 147840,
+  "cached_rows_matched": 25,
+  "independent_cached_bodies_compared": 1,
+  "cache_record_id": "4cc89598bf23a4b21b771b7d26862b26",
+  "source_year_arrays": [
+    "regCF_county_2019",
+    "regCF_county_2020",
+    "regCF_county_2021",
+    "regCF_county_2022",
+    "regCF_county_2023",
+    "regCF_county_2024"
+  ],
+  "comparisons": [
+    {
+      "year": 2019,
+      "source_array_length": 123,
+      "slice": [
+        46,
+        52
+      ],
+      "matched_rows": 6,
+      "all_ma_prefix_rows_in_source_order": true,
+      "exact_cached_values_match": true,
+      "derived_rounded_thousands_usd": [
+        {
+          "code": "us-ma-005",
+          "thousands_usd": "48.60"
+        },
+        {
+          "code": "us-ma-009",
+          "thousands_usd": "143.80"
+        },
+        {
+          "code": "us-ma-013",
+          "thousands_usd": "80.70"
+        },
+        {
+          "code": "us-ma-017",
+          "thousands_usd": "381.15"
+        },
+        {
+          "code": "us-ma-021",
+          "thousands_usd": "708.30"
+        },
+        {
+          "code": "us-ma-025",
+          "thousands_usd": "749.96"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "source_array_length": 131,
+      "slice": [
+        52,
+        62
+      ],
+      "matched_rows": 10,
+      "all_ma_prefix_rows_in_source_order": true,
+      "exact_cached_values_match": true,
+      "derived_rounded_thousands_usd": [
+        {
+          "code": "us-ma-005",
+          "thousands_usd": "123.66"
+        },
+        {
+          "code": "us-ma-009",
+          "thousands_usd": "65.17"
+        },
+        {
+          "code": "us-ma-011",
+          "thousands_usd": "22.20"
+        },
+        {
+          "code": "us-ma-013",
+          "thousands_usd": "24.30"
+        },
+        {
+          "code": "us-ma-017",
+          "thousands_usd": "1418.14"
+        },
+        {
+          "code": "us-ma-021",
+          "thousands_usd": "107.00"
+        },
+        {
+          "code": "us-ma-023",
+          "thousands_usd": "223.30"
+        },
+        {
+          "code": "us-ma-025",
+          "thousands_usd": "2540.00"
+        },
+        {
+          "code": "us-ma-760",
+          "thousands_usd": "14.30"
+        },
+        {
+          "code": "us-ma-027",
+          "thousands_usd": "52.50"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "source_array_length": 213,
+      "slice": [
+        82,
+        91
+      ],
+      "matched_rows": 9,
+      "all_ma_prefix_rows_in_source_order": true,
+      "exact_cached_values_match": true,
+      "derived_rounded_thousands_usd": [
+        {
+          "code": "us-ma-001",
+          "thousands_usd": "732.09"
+        },
+        {
+          "code": "us-ma-009",
+          "thousands_usd": "107.81"
+        },
+        {
+          "code": "us-ma-013",
+          "thousands_usd": "15.40"
+        },
+        {
+          "code": "us-ma-015",
+          "thousands_usd": "50.00"
+        },
+        {
+          "code": "us-ma-017",
+          "thousands_usd": "3942.53"
+        },
+        {
+          "code": "us-ma-021",
+          "thousands_usd": "752.27"
+        },
+        {
+          "code": "us-ma-023",
+          "thousands_usd": "160.82"
+        },
+        {
+          "code": "us-ma-025",
+          "thousands_usd": "5377.55"
+        },
+        {
+          "code": "us-ma-027",
+          "thousands_usd": "256.46"
+        }
+      ]
+    }
+  ],
+  "provider_reported_hash_and_size_match": true,
+  "raw_provider_json_checked": true,
+  "report_date": "2026-06-18T15:35:48Z",
+  "transaction_request_date": "2026-06-18T15:35:24.375Z",
+  "historical_response_body_recovered": false,
+  "limits": [
+    "Provider hash/size metadata correspondence, not a freshly recovered June response body.",
+    "Browser MIME, size_decoded and compressed Content-Length remain separate fields.",
+    "One retained head-only wiki body; copies are not independent sources.",
+    "No claim of actor identity, answer consumption, uninterrupted availability, or novel county values."
+  ],
+  "negative_controls_rejected": [
+    "changed_primary_bytes",
+    "changed_cached_value",
+    "changed_reported_response_hash"
+  ]
+}
