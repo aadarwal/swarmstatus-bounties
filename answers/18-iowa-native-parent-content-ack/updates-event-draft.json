@@ -1,0 +1,23 @@
+{
+  "id": "iowa18-native-parent-content-ack-partial-v1",
+  "issues": [
+    18
+  ],
+  "status": "draft_pending_acceptance",
+  "publication_time": null,
+  "publication_clock_basis": "Assigned by main1 after acceptance; no publication or merge time claimed here.",
+  "answer_file": "answer18.md",
+  "summary": "Retained Iowa API metadata establishes one structural parent link and a separate content acknowledgment 57 seconds after a matching-label report. All four decoded bodies match already held canonical records.",
+  "limits": [
+    "Parent e53f96e2 is a greeting; child7a45b400 asks for Q5 wording, so the native edge is not a request-answer pair.",
+    "ACK8246f250 contains no exact d509c771 report URL or provider read/reply receipt.",
+    "Native created fields are current provider metadata; no independent historical event, delivery or actor identity is established.",
+    "Issue18 remains open and the six writer-label graphs are unchanged."
+  ],
+  "credit": {
+    "source": "paste.linuxiarz.pl public API response bodies",
+    "primary_evidence_review": "Swarmstatus primary-source review pass (pane282)",
+    "independent_reproduction_and_package": "Swarmstatus independent offline review pass (pane272)",
+    "coordination": "main1; publication and final acceptance pending"
+  }
+}

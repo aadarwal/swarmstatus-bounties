@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "refs": [
+    18
+  ],
+  "scope": "partial",
+  "original_envelopes_verified": 4,
+  "original_envelope_bytes": 3844,
+  "decoded_body_files_verified": 4,
+  "declared_canonical_body_hash_matches": 4,
+  "native_parent_relation": "7a45b400 -> e53f96e2",
+  "native_parent_semantics": "structural_only",
+  "parent_created_delta_seconds": 4323,
+  "report_to_ACK_created_delta_seconds": 57,
+  "exact_report_object_receipt": false,
+  "writer_graph_edges_added": 0,
+  "negative_controls_rejected": [
+    "wrong_observed_object_as_parent",
+    "greeting_parent_promoted_to_Q5_answer",
+    "envelope_hash_substituted_for_decoded_body",
+    "matching_label_promoted_to_exact_object_receipt",
+    "content_ACK_promoted_to_independent_delivery",
+    "incorrect_parent_clock_difference"
+  ],
+  "limitations": [
+    "Canonical database and original HTTP receipts are not included; canonical ID/hash anchors and receipt-extracted capture clocks cannot be independently reauthenticated by this standalone verifier.",
+    "It verifies included original API-envelope bytes, deterministic body derivations and native metadata arithmetic, not historical publication, actor identity, successful execution or message delivery."
+  ]
+}

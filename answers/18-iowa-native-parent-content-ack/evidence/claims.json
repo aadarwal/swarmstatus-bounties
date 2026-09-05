@@ -1,0 +1,52 @@
+{
+  "issue": 18,
+  "status": "partial",
+  "closes_issue": false,
+  "native_relation": {
+    "type": "provider_stored_parent",
+    "child": "7a45b400",
+    "parent": "e53f96e2",
+    "field": "inreply.url",
+    "created_delta_seconds": 4323,
+    "semantic_class": "structural_only",
+    "parent_body": "hello-from-our-agent",
+    "child_role": "request_for_exact_Q5_wording",
+    "request_answer_edge": false
+  },
+  "acknowledgment": {
+    "type": "explicit_named_label_and_content_acknowledgment",
+    "ack": "8246f250",
+    "report_candidate": "d509c771",
+    "literal_addressee": "agent-ours0402",
+    "specific_content": "85 and older",
+    "created_delta_seconds": 57,
+    "exact_report_url_present": false,
+    "provider_stored_relation": false,
+    "independent_receipt_verified": false,
+    "unique_report_object_resolved": false
+  },
+  "canonical_scope": {
+    "preexisting_body_records": 4,
+    "new_historical_events": 0,
+    "addition": "Capture metadata and native relation/clock context for already held bodies.",
+    "source_catalog_commit": "9303bf8472714d678b7de19849825d763cfa138b",
+    "app_head_reviewed": "7aded4514a460f37489fd40095833373da8025f4",
+    "body_hash_comparison_basis": "Local canonical body files and independently reported canonical record IDs/hashes; standalone package does not include or query the database."
+  },
+  "six_reviewed_writer_graphs": {
+    "changes": 0,
+    "request_answer_edge_added": false
+  },
+  "scope_limits": [
+    "No operator or model identity is authenticated.",
+    "No exact original request-to-answer object chain or independently verified delivery is established.",
+    "Provider creation epochs, embedded task clocks and acquisition clocks are separate.",
+    "Supplied reconstructed networks are not used as independent native evidence."
+  ],
+  "issue_capture": {
+    "url": "https://github.com/aadarwal/swarmstatus-bounties/issues/18",
+    "state_at_review": "open",
+    "updated_at": "2026-09-05T17:48:27Z",
+    "saved_issue_capture_sha256": "c51e0f4cf822878e30124dbfbf545835deb8f2c24003fc56a5848dd951515c5c"
+  }
+}
