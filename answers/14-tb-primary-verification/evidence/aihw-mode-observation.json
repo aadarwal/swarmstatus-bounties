@@ -1,0 +1,15 @@
+{
+  "artifact_path": "evidence/aihw-figure5-proportion.png",
+  "artifact_sha256": "a634c746bc2c2e78a360034a359dd1c7f07ec08490b4b173bd0a86f44366e316",
+  "observation_method": "Visual inspection of the retained unmodified PNG and selected Tableau UI controls. This is an explicit research transcription, not extracted source JSON.",
+  "workbook": "AGE115_MentalhealthinAgedCare_19072024",
+  "sheet": "F05-Age-specificcruderates",
+  "cohort": "Permanent residential aged care",
+  "condition": "Mood disorders",
+  "selected_measure": "Proportion of people",
+  "unselected_measure": "Age-and-sex-specific crude rate (per 1,000)",
+  "axis": "Per cent",
+  "source_study_period": "2017–18 to 2021–22",
+  "title": "Age distribution of people with a mood disorder among people aged 65 years and over entering permanent residential aged care, by sex, 2017–18 to 2021–22",
+  "independent_task_origin_publication": false
+}

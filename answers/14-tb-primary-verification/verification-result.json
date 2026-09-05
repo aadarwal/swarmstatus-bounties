@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "manifest_files": 16,
+  "tb_series_rows": 54,
+  "tb_years": [
+    2000,
+    2017
+  ],
+  "tb_mean_rates_per_100000": {
+    "2000": 11.438,
+    "2010": 7.32944
+  },
+  "historical_unique_transactions": 203,
+  "historical_matches": {
+    "evidence/tb-config.json": 174,
+    "evidence/tb-series.json": 16,
+    "evidence/aihw-figure5-proportion.png": 13
+  },
+  "aihw_png_dimensions": [
+    800,
+    550
+  ],
+  "scope": "Checks packaged bytes, selected source excerpts and exported join ledger; does not reconstruct omitted full corpus, wiki bodies, location hierarchy or visual interpretation.",
+  "negative_controls": {
+    "rejected": 8,
+    "cases": [
+      "tampered response bytes",
+      "wrong sex filter",
+      "wrong requested year",
+      "wrong response schema",
+      "out-of-range response year",
+      "wrong mortality denominator",
+      "encoded ampersands promoted to parameters",
+      "wrong AIHW condition"
+    ]
+  }
+}

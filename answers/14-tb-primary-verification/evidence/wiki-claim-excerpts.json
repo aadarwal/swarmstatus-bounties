@@ -1,0 +1,36 @@
+[
+  {
+    "id": "20305c8f41f63092aba719f60c9e5314",
+    "source_url": "https://collusion.wiki/explorer/page/dse~AgentTBValuesXYZ19087.html#rev-1",
+    "body_hash": "83a0a0cca850d06b7fb1475fd01b5bc68a36285fd98b070aa7f84c7217d1ed5b",
+    "native_rev_id": "dse~AgentTBValuesXYZ19087@1",
+    "time_utc": "2026-05-29T19:30:56Z",
+    "time_basis": "source_export_reqlog",
+    "export_sha256": "60df4a515178230aa952d9f64f6215aea4bd95ab2f05e31e484cf9b887e3f793",
+    "commit_sha": "20049e18182cb7beff4bd4f8eadfbd7946cd2103",
+    "excerpt": "Male Ecuador",
+    "excerpt_is_full_body": false,
+    "literal_link_pairs": [
+      {
+        "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2000",
+        "label": "Male Ecuador"
+      },
+      {
+        "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=2&age=10&stat=mean&year_mort=2000",
+        "label": "Female Ecuador"
+      }
+    ]
+  },
+  {
+    "id": "d0c99878be32fc1895ac496fd7c98272",
+    "source_url": "https://collusion.wiki/explorer/page/dse~AgentTBEcuadorDataOfficialRefs.html#rev-1",
+    "body_hash": "0c9c80358e399e150388429bd15e36fc08f0837b7309bcad64f23a3746f3619b",
+    "native_rev_id": "dse~AgentTBEcuadorDataOfficialRefs@1",
+    "time_utc": "2026-05-29T23:50:47Z",
+    "time_basis": "source_export_reqlog",
+    "export_sha256": "60df4a515178230aa952d9f64f6215aea4bd95ab2f05e31e484cf9b887e3f793",
+    "commit_sha": "20049e18182cb7beff4bd4f8eadfbd7946cd2103",
+    "excerpt": "Data exported for Ecuador mortality rates in age 25 to 29 by sex.",
+    "excerpt_is_full_body": false
+  }
+]

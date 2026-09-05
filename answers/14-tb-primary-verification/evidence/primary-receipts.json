@@ -1,0 +1,234 @@
+[
+  {
+    "report_id": "080803aa-5bc2-4147-9e8c-3ba881d40757",
+    "report_url": "https://urlquery.net/report/080803aa-5bc2-4147-9e8c-3ba881d40757",
+    "json_url": "https://urlquery.net/report/080803aa-5bc2-4147-9e8c-3ba881d40757/json",
+    "report_date": "2026-05-29T22:49:53Z",
+    "transaction_index_zero_based": 0,
+    "transaction_date": "2026-05-29T22:49:31.816Z",
+    "request_url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2000",
+    "parsed_query_pairs": [
+      [
+        "location_id",
+        "66"
+      ],
+      [
+        "measure",
+        "mort"
+      ],
+      [
+        "sex",
+        "1"
+      ],
+      [
+        "age",
+        "10"
+      ],
+      [
+        "stat",
+        "mean"
+      ],
+      [
+        "year_mort",
+        "2000"
+      ]
+    ],
+    "request_method": "GET",
+    "response_status_code": "200",
+    "response_bytes": 2789,
+    "response_mime": "application/vnd.mozilla.json.view; charset=utf-8",
+    "response_sha256": "465bf8370140b491c6648b5917e976e21b4f285bed6ea2b7a9025634fad0ba0e",
+    "provider_body_available": false,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": [
+      "evidence/tb-series.json"
+    ]
+  },
+  {
+    "report_id": "1f80ebe0-2cc2-40de-82a1-c415c5e4a217",
+    "report_url": "https://urlquery.net/report/1f80ebe0-2cc2-40de-82a1-c415c5e4a217",
+    "json_url": "https://urlquery.net/report/1f80ebe0-2cc2-40de-82a1-c415c5e4a217/json",
+    "report_date": "2026-05-29T22:47:21Z",
+    "transaction_index_zero_based": 0,
+    "transaction_date": "2026-05-29T22:46:59.896Z",
+    "request_url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66%26measure=mort%26sex=1%26age=10%26stat=mean%26year_mort=2000",
+    "parsed_query_pairs": [
+      [
+        "location_id",
+        "66&measure=mort&sex=1&age=10&stat=mean&year_mort=2000"
+      ]
+    ],
+    "request_method": "GET",
+    "response_status_code": "400",
+    "response_bytes": 138,
+    "response_mime": "text/html; charset=utf-8",
+    "response_sha256": "dc0a4948011b3bf48695d6b088a8ad2a65b902eee0dfa2bff5ec3b7d77e9941c",
+    "provider_body_available": false,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": []
+  },
+  {
+    "report_id": "66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "report_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "json_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae/json",
+    "report_date": "2026-06-18T04:11:43Z",
+    "transaction_index_zero_based": 4,
+    "transaction_date": "2026-06-18T04:11:14.113Z",
+    "request_url": "https://viz.aihw.gov.au/t/Public/views/AGE115_MentalhealthinAgedCare_19072024/F05-Age-specificcruderates.png?:showVizHome=no&:display_spinner=no&:embed=y&Cohort=Permanent%20residential%20aged%20care&Condition=Mood%20disorders",
+    "parsed_query_pairs": [
+      [
+        ":showVizHome",
+        "no"
+      ],
+      [
+        ":display_spinner",
+        "no"
+      ],
+      [
+        ":embed",
+        "y"
+      ],
+      [
+        "Cohort",
+        "Permanent residential aged care"
+      ],
+      [
+        "Condition",
+        "Mood disorders"
+      ]
+    ],
+    "request_method": "GET",
+    "response_status_code": "403",
+    "response_bytes": 6632,
+    "response_mime": "text/html; charset=UTF-8",
+    "response_sha256": "c2f6579e6aa189db64701afb669a68cbb1ccfb7999f6f359c7b096a175373f0e",
+    "provider_body_available": false,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": []
+  },
+  {
+    "report_id": "66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "report_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "json_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae/json",
+    "report_date": "2026-06-18T04:11:43Z",
+    "transaction_index_zero_based": 9,
+    "transaction_date": "2026-06-18T04:11:21.214Z",
+    "request_url": "https://viz.aihw.gov.au/t/Public/views/AGE115_MentalhealthinAgedCare_19072024/F05-Age-specificcruderates.png?:showVizHome=no&:display_spinner=no&:embed=y&Cohort=Permanent%20residential%20aged%20care&Condition=Mood%20disorders",
+    "parsed_query_pairs": [
+      [
+        ":showVizHome",
+        "no"
+      ],
+      [
+        ":display_spinner",
+        "no"
+      ],
+      [
+        ":embed",
+        "y"
+      ],
+      [
+        "Cohort",
+        "Permanent residential aged care"
+      ],
+      [
+        "Condition",
+        "Mood disorders"
+      ]
+    ],
+    "request_method": "GET",
+    "response_status_code": "200",
+    "response_bytes": 71515,
+    "response_mime": "image/png",
+    "response_sha256": "a634c746bc2c2e78a360034a359dd1c7f07ec08490b4b173bd0a86f44366e316",
+    "provider_body_available": false,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": [
+      "evidence/aihw-figure5-proportion.png"
+    ]
+  },
+  {
+    "report_id": "66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "report_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae",
+    "json_url": "https://urlquery.net/report/66e46234-179e-4214-ada1-fc3ed344d1ae/json",
+    "report_date": "2026-06-18T04:11:43Z",
+    "transaction_index_zero_based": 11,
+    "transaction_date": "2026-06-18T04:11:21.201Z",
+    "request_url": "https://viz.aihw.gov.au/t/Public/views/AGE115_MentalhealthinAgedCare_19072024/F05-Age-specificcruderates.png?:showVizHome=no&:display_spinner=no&:embed=y&Cohort=Permanent%20residential%20aged%20care&Condition=Mood%20disorders",
+    "parsed_query_pairs": [
+      [
+        ":showVizHome",
+        "no"
+      ],
+      [
+        ":display_spinner",
+        "no"
+      ],
+      [
+        ":embed",
+        "y"
+      ],
+      [
+        "Cohort",
+        "Permanent residential aged care"
+      ],
+      [
+        "Condition",
+        "Mood disorders"
+      ]
+    ],
+    "request_method": "POST",
+    "response_status_code": "302",
+    "response_bytes": 0,
+    "response_mime": "image/png",
+    "response_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "provider_body_available": true,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": []
+  },
+  {
+    "report_id": "b9cdcab5-0c79-4654-acb9-bbd5a320057d",
+    "report_url": "https://urlquery.net/report/b9cdcab5-0c79-4654-acb9-bbd5a320057d",
+    "json_url": "https://urlquery.net/report/b9cdcab5-0c79-4654-acb9-bbd5a320057d/json",
+    "report_date": "2026-05-29T22:36:33Z",
+    "transaction_index_zero_based": 0,
+    "transaction_date": "2026-05-29T22:36:06.094Z",
+    "request_url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2010",
+    "parsed_query_pairs": [
+      [
+        "location_id",
+        "66"
+      ],
+      [
+        "measure",
+        "mort"
+      ],
+      [
+        "sex",
+        "1"
+      ],
+      [
+        "age",
+        "10"
+      ],
+      [
+        "stat",
+        "mean"
+      ],
+      [
+        "year_mort",
+        "2010"
+      ]
+    ],
+    "request_method": "GET",
+    "response_status_code": "200",
+    "response_bytes": 2789,
+    "response_mime": "application/vnd.mozilla.json.view; charset=utf-8",
+    "response_sha256": "465bf8370140b491c6648b5917e976e21b4f285bed6ea2b7a9025634fad0ba0e",
+    "provider_body_available": false,
+    "clock_caveat": "Transaction/report time is not wiki publication time, task origin, or actor identity.",
+    "matching_artifact_paths": [
+      "evidence/tb-series.json"
+    ]
+  }
+]

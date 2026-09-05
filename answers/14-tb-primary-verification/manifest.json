@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "purpose": "Offline package integrity; no private database or network required",
+  "files": {
+    "evidence/acquisitions.json": {
+      "bytes": 4775,
+      "sha256": "287ef0a3465bbf70a308ae1c19008010f0656b38d2ee7a8421c0aa8922605a72"
+    },
+    "evidence/aihw-figure5-proportion.png": {
+      "bytes": 71515,
+      "sha256": "a634c746bc2c2e78a360034a359dd1c7f07ec08490b4b173bd0a86f44366e316"
+    },
+    "evidence/aihw-mode-observation.json": {
+      "bytes": 918,
+      "sha256": "f08305335aeba82d8ee80f4119a9066236aac877568e3afcdac359e6e7d49a28"
+    },
+    "evidence/aihw-referrer-urls.json": {
+      "bytes": 1016,
+      "sha256": "a067785c11787ffa71b452f90a83d50cf7b12648aec078c86c3266eea1e69dc3"
+    },
+    "evidence/aihw-reuse.json": {
+      "bytes": 1243,
+      "sha256": "08c39389f1559f7d5c3b883b6879d89a448564c8455486f88a1f71e853b15a64"
+    },
+    "evidence/aihw-supplementary.xlsx": {
+      "bytes": 168285,
+      "sha256": "dd19e2e5db79b7719af1d9121fb5baa4cec441fbfa3e539ab4dc24cac03bf718"
+    },
+    "evidence/full-corpus-verification.json": {
+      "bytes": 725,
+      "sha256": "30a7534cb917755281ceb4ceacef63d00d61643128df08508e00c5dcf52c266d"
+    },
+    "evidence/historical-counts.json": {
+      "bytes": 363,
+      "sha256": "0939e454d3dbf19b857f537ce8793e773002e0f9bd491468b0007d9ec4dcd904"
+    },
+    "evidence/historical-hash-joins.json": {
+      "bytes": 169677,
+      "sha256": "2da0d375e6d7a465dec5558c1cb781c5bf90dc11a459ec54c0f66a5090f27426"
+    },
+    "evidence/primary-receipts.json": {
+      "bytes": 7979,
+      "sha256": "c54e771073199f806951d9b634bb5e07f18be78ea7533e4b45c932d2f5d49ccb"
+    },
+    "evidence/tb-2000-component0.json": {
+      "bytes": 100,
+      "sha256": "ce827a2a1d141fb49a1dc076447c7ddee23808c543ad86203e867627dc0eb624"
+    },
+    "evidence/tb-2010-component0.json": {
+      "bytes": 101,
+      "sha256": "bb9c2b60a1c336414f4973cd04c942eeeafc587346133d797fa1faf9ba7e0790"
+    },
+    "evidence/tb-config.json": {
+      "bytes": 3630,
+      "sha256": "91996caed64d2375fe68d729581c0c2ba9653cd625ed76136489804215fe800b"
+    },
+    "evidence/tb-location-extract.json": {
+      "bytes": 439,
+      "sha256": "6d17d65d045e0eb45c4004b737a795d672679052943d9e4e6e29213344865da9"
+    },
+    "evidence/tb-series.json": {
+      "bytes": 2789,
+      "sha256": "465bf8370140b491c6648b5917e976e21b4f285bed6ea2b7a9025634fad0ba0e"
+    },
+    "evidence/wiki-claim-excerpts.json": {
+      "bytes": 1744,
+      "sha256": "94c2019e2ae33d07c8c116d02d9427c63190fbcad3981e28d885e985f98b3fda"
+    }
+  }
+}

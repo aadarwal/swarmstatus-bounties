@@ -1,0 +1,98 @@
+[
+  {
+    "source_file_name": "tb-2000.json",
+    "artifact_path": "evidence/tb-series.json",
+    "retained_form": "unchanged bytes",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2000",
+    "acquired_at_utc": "2026-09-05T18:29:54.895392+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 2789,
+    "original_sha256": "465bf8370140b491c6648b5917e976e21b4f285bed6ea2b7a9025634fad0ba0e"
+  },
+  {
+    "source_file_name": "tb-config.json",
+    "artifact_path": "evidence/tb-config.json",
+    "retained_form": "unchanged bytes",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/config",
+    "acquired_at_utc": "2026-09-05T18:32:01.729874+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 3630,
+    "original_sha256": "91996caed64d2375fe68d729581c0c2ba9653cd625ed76136489804215fe800b"
+  },
+  {
+    "source_file_name": "tb-2000-component0.json",
+    "artifact_path": "evidence/tb-2000-component0.json",
+    "retained_form": "unchanged bytes",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/0?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2000",
+    "acquired_at_utc": "2026-09-05T18:38:49.037169+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 100,
+    "original_sha256": "ce827a2a1d141fb49a1dc076447c7ddee23808c543ad86203e867627dc0eb624"
+  },
+  {
+    "source_file_name": "tb-2010-component0.json",
+    "artifact_path": "evidence/tb-2010-component0.json",
+    "retained_form": "unchanged bytes",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/0?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2010",
+    "acquired_at_utc": "2026-09-05T18:38:49.470196+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 101,
+    "original_sha256": "bb9c2b60a1c336414f4973cd04c942eeeafc587346133d797fa1faf9ba7e0790"
+  },
+  {
+    "source_file_name": "aihw-figure5-proportion.png",
+    "artifact_path": "evidence/aihw-figure5-proportion.png",
+    "retained_form": "unchanged bytes",
+    "url": "https://viz.aihw.gov.au/t/Public/views/AGE115_MentalhealthinAgedCare_19072024/F05-Age-specificcruderates?%3Aembed=y&%3AisGuestRedirectFromVizportal=y&%3AshowVizHome=no&Cohort=Permanent%20residential%20aged%20care&Condition=Mood%20disorders",
+    "acquired_at_utc": "2026-09-05T18:35:56.271815+00:00",
+    "method": "Chrome Tableau Download > Image",
+    "status": null,
+    "http_status_caveat": "HTTP status and export download endpoint not captured. UI selected cohort and condition confirmed. View by number or rate = Proportion of people.",
+    "original_bytes": 71515,
+    "original_sha256": "a634c746bc2c2e78a360034a359dd1c7f07ec08490b4b173bd0a86f44366e316"
+  },
+  {
+    "source_file_name": "aihw-supplementary.xlsx",
+    "artifact_path": "evidence/aihw-supplementary.xlsx",
+    "retained_form": "unchanged bytes",
+    "url": "https://www.aihw.gov.au/getmedia/8bf253f8-1d4e-4024-a755-69f5cfe7fca8/AIHW-AGE-115-Mental-health-in-aged-care-Supplementary-results-tables.xlsx",
+    "acquired_at_utc": "2026-09-05T18:33:40.860486+00:00",
+    "method": "GET via Chrome download link click",
+    "status": null,
+    "http_status_caveat": "HTTP status/headers not observed; browser visibly exposed link and downloaded valid XLSX",
+    "original_bytes": 168285,
+    "original_sha256": "dd19e2e5db79b7719af1d9121fb5baa4cec441fbfa3e539ab4dc24cac03bf718"
+  },
+  {
+    "source_file_name": "tb-2010.json",
+    "artifact_path": "evidence/tb-series.json",
+    "retained_form": "unchanged bytes",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/schemas/annual_mort/info/aggregate/components/1?location_id=66&measure=mort&sex=1&age=10&stat=mean&year_mort=2010",
+    "acquired_at_utc": "2026-09-05T18:29:55.348856+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 2789,
+    "original_sha256": "465bf8370140b491c6648b5917e976e21b4f285bed6ea2b7a9025634fad0ba0e"
+  },
+  {
+    "source_file_name": "tb-location-hierarchy.json",
+    "artifact_path": "evidence/tb-location-extract.json",
+    "retained_form": "excerpt",
+    "url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/location-hierarchy",
+    "acquired_at_utc": "2026-09-05T18:32:41.643224+00:00",
+    "method": "GET",
+    "status": 200,
+    "http_status_caveat": null,
+    "original_bytes": 3292467,
+    "original_sha256": "20bfc2d0abe61d29787b8d42130cc0d1f2771eca184a3f55c1d38653144bd8c4"
+  }
+]
