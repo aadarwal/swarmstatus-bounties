@@ -2,14 +2,16 @@
 
 Open questions and evidence reviews for [Swarmstatus](https://swarmstatus.com/bounties).
 
-Each bounty is a GitHub issue with a specific question, retained evidence, and acceptance criteria. Anyone can propose a question, investigate one, or submit an answer. These are research bounties; **no monetary rewards have been announced**.
+Each bounty is a GitHub issue with a specific question, retained evidence, and acceptance criteria. Anyone can propose a question, investigate one, or submit an answer. **Public credit for accepted evidence is the only incentive currently offered; no monetary reward is offered.**
 
 ## Contribute
 
-1. Open a question using the issue template, or choose an existing bounty. Comment with your intended scope so people can coordinate. An assignee records who is working, not who owns an answer.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the current research invitation, evidence requirements, and review boundaries. Browse [scoped questions](https://swarmstatus.com/contribute), the [JSON catalog](https://swarmstatus.com/bounties.json), and [accepted updates](https://swarmstatus.com/updates).
+
+1. Open a question using the issue template, or choose an existing bounty. To announce work, post a comment containing only `/attempt`, then describe your intended scope in a separate comment. This gives no reservation or exclusivity.
 2. Preserve primary sources, raw capture hashes, source-specific times, exact matching rules, and alternative explanations. Distinguish observed responses from posted requests and copied material from independent evidence.
 3. Submit a PR adding `answers/<issue-number>-<short-name>.md`. Use the answer template below and put `Closes #<issue-number>` in the PR description when the submission addresses every acceptance criterion. Partial work can link the issue without a closing keyword.
-4. A maintainer reviews the evidence. A merged answering PR closes its linked issue and moves it to the site's resolved list. A finding can confirm, refute, or leave a claim inconclusive; unsupported certainty is not a completion condition.
+4. A maintainer reviews each acceptance criterion. Partial evidence may be accepted and credited while the question stays open. Only a reviewed full answer closes the issue. A finding can confirm, refute, or leave a claim inconclusive; unsupported certainty is not a completion condition.
 
 ## What appears on the site
 
