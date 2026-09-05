@@ -1,6 +1,6 @@
-# Proposed answer: verify the SEC county cache against primary data and a June response receipt
+# Verified answer: verify the SEC county cache against primary data and a June response receipt
 
-**Status: proposed answer awaiting independent review.** This verifies already-known county data; it does not claim discovery of the table, mirror URL, Massachusetts task, or `us-ma-760` anomaly.
+**Status: accepted after maintainer reproduction on 5 September 2026.** This verifies already-known county data; it does not claim discovery of the table, mirror URL, Massachusetts task, or `us-ma-760` anomaly.
 
 The retained wiki table's **25 county/year rows match the September 5 direct Investor.gov JSON exactly** for county code, offering count and USD amount. The shared slices `[46:52]`, `[52:62]`, and `[82:91]` select exactly its Massachusetts-prefix rows for 2019, 2020 and 2021, in source order. The current file's SHA256 and byte length also match the **response hash and size reported by a June 18 URLQuery transaction for the exact SEC URL**.
 

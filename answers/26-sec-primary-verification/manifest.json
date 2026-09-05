@@ -16,11 +16,6 @@
       "sha256": "aba10fbd522e7ba6182d6337ce0bc806a40b64a6843f53c40ea93e6719a43b1f"
     },
     {
-      "file": "sec-primary-verification.md",
-      "bytes": 6743,
-      "sha256": "54ad62a106a9e30db53e0df230fa107f561097d73f9fbebb54af5f2e229719ac"
-    },
-    {
       "file": "urlquery-sec-receipt.json",
       "bytes": 1572,
       "sha256": "9cd0822f2c4d61d28d5719c21d7c21d35c7d6d8162b1bf62e0d3b7061839fa8b"
@@ -34,6 +29,16 @@
       "file": "verify_sec_primary.py",
       "bytes": 11704,
       "sha256": "910ca3c3c8ad9f57bda08d513db64148533b8ff1bd16ac2b3423efe5dd735179"
+    },
+    {
+      "file": "sec-primary-verification.md",
+      "bytes": 6758,
+      "sha256": "3e1d89a0a11c0ee164ad025823b2e9d4d959460f1c24a4d1567e8701580efe6d"
+    },
+    {
+      "file": "review.md",
+      "bytes": 925,
+      "sha256": "f738ef465056f6287009fdebac1843778f8a392ef255d218287f585b5acf436c"
     }
   ],
   "note": "No raw receipt cookies, submitter identifiers, or IPs are included in the selected receipt."
