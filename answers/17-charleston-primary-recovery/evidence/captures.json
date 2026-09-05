@@ -1,0 +1,38 @@
+[
+  {
+    "id": "charleston-exact-current",
+    "url": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/manifest",
+    "acquired_at": "2026-09-05T19:02:22.062267+00:00",
+    "status": 200,
+    "final_url": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/manifest",
+    "content_type": "application/ld+json",
+    "bytes": 5484,
+    "sha256": "7c981bfa48feb24abdf81e56e17c5f70a2b39aeb11e8664f0b67abaeee26a96c",
+    "path": "evidence/manifest-lcdl129141.json",
+    "clock_basis": "Current acquisition timestamp; not catalog date or historical report/request time"
+  },
+  {
+    "id": "charleston-nearby-current",
+    "url": "https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg/manifest",
+    "acquired_at": "2026-09-05T19:03:28.728314+00:00",
+    "status": 200,
+    "final_url": "https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg/manifest",
+    "content_type": "application/ld+json",
+    "bytes": 5257,
+    "sha256": "13be97ce9731be5687862ec9e89916fe0bcda59a89df6bbd14724d3a7509dae9",
+    "path": "evidence/manifest-lcdl129143.json",
+    "clock_basis": "Current acquisition timestamp; not catalog date or historical report/request time"
+  },
+  {
+    "id": "charleston-wildcard-current",
+    "url": "https://rspace.library.cofc.edu/iiif/%2A129141%2A/manifest",
+    "acquired_at": "2026-09-05T19:03:28.728676+00:00",
+    "status": 200,
+    "final_url": "https://rspace.library.cofc.edu/iiif/%2A129141%2A/manifest",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "path": "evidence/wildcard-response.bin",
+    "clock_basis": "Current acquisition timestamp; not catalog date or historical report/request time"
+  }
+]

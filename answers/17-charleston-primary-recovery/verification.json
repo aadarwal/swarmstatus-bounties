@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "evidence_files": 7,
+  "exact_manifest_bytes": 5484,
+  "historical_reported_hash_matches": 2,
+  "distinct_nearby_manifest": true,
+  "wildcard_empty": true,
+  "original_receipt_files_verified": 0,
+  "scope": "Current manifest bytes match historical provider-reported response hashes. Historical inline bodies are absent. Without --receipt-dir, verifies retained scalar declarations, not extraction from omitted provider JSON.",
+  "negative_controls_rejected": [
+    "altered current body",
+    "nearby substituted for exact",
+    "altered historical response hash",
+    "nearby historical target falsely joined",
+    "wildcard promoted to exact body",
+    "same-length file tamper"
+  ]
+}

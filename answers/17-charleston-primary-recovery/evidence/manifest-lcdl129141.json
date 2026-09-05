@@ -1,0 +1,152 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/manifest",
+    "@type": "sc:Manifest",
+    "label": "View in Magnolia Cemetery",
+    "description": "Footbridges at Magnolia Cemetery viewed from across a pond.",
+    "metadata": [
+        {
+            "label": "Contributing Institution",
+            "value": [
+                {
+                    "@value": "Historic Charleston Foundation",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Media Type",
+            "value": [
+                {
+                    "@value": "Books",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Type",
+            "value": [
+                {
+                    "@value": "StillImage",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Subject - Geographic County",
+            "value": [
+                {
+                    "@value": "Charleston County (S.C.)",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Subject - Geographic",
+            "value": [
+                {
+                    "@value": "Charleston (S.C.)--History--Pictorial works,Charleston (S.C.)--Buildings, structures, etc.--Pictorial works",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Subject - Topical",
+            "value": [
+                {
+                    "@value": "Cemeteries--South Carolina--Charleston--Pictorial Works,Footbridges--South Carolina--Charleston--Pictorial works,Ponds--South Carolina--Charleston--Pictorial works",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Subject - Name",
+            "value": [
+                {
+                    "@value": "Magnolia Cemetery (Charleston, S.C.)--Pictorial works",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Date",
+            "value": [
+                {
+                    "@value": "1893",
+                    "@language": "en"
+                }
+            ]
+        },
+        {
+            "label": "Language",
+            "value": [
+                {
+                    "@value": "English",
+                    "@language": "en"
+                }
+            ]
+        }
+    ],
+    "license": "Public domain.",
+    "thumbnail": {
+        "@id": "https://iiif.library.cofc.edu/iiif/2/205927/full/thm/0/default.jpg",
+        "@type": "dctypes:Image",
+        "height": 119,
+        "width": 150,
+        "format": "image/jpeg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif.library.cofc.edu/iiif/2/205927",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "sequences": [
+        {
+            "@id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/sequence/normal",
+            "@type": "sc:Sequence",
+            "label": "Default order",
+            "canvases": [
+                {
+                    "@id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/canvas/0",
+                    "@type": "sc:Canvas",
+                    "label": "0",
+                    "height": 1581,
+                    "width": 2000,
+                    "thumbnail": {
+                        "@id": "https://iiif.library.cofc.edu/iiif/2/205927/full/thm/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "height": 119,
+                        "width": 150,
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.library.cofc.edu/iiif/2/205927",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/annotation/0",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.library.cofc.edu/iiif/2/205927/full/max/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1581,
+                                "width": 2000,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.library.cofc.edu/iiif/2/205927",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                }
+                            },
+                            "on": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
