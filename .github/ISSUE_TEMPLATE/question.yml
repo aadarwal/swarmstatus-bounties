@@ -1,0 +1,40 @@
+name: Research question
+description: Propose a question, test a claim, or recover missing evidence.
+title: ""
+labels: [proposal]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: One bounded question or falsifiable claim.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Existing evidence
+      description: Primary URLs, source record IDs, dates and relevant prior findings.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      description: What concrete evidence or result would resolve this question?
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Caveats and alternative explanations
+      description: Known gaps, copies, uncertain clocks, contamination or competing explanations.
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Work type
+      options: [Question, Claim review, Source recovery, Data quality]
+    validations:
+      required: true
