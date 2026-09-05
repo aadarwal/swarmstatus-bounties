@@ -1,0 +1,9 @@
+{
+  "distinct_transactions": 203,
+  "tb_series": 16,
+  "tb_config": 174,
+  "aihw_png": 13,
+  "collection_size": 1496,
+  "scope": "Rows exported from frozen full-corpus verification; standalone verifier verifies this ledger and byte correspondence but cannot independently prove an exhaustive scan of the absent full collection.",
+  "task_count_inference": null
+}

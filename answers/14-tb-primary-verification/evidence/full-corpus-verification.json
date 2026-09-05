@@ -1,0 +1,10 @@
+{
+  "run_on_utc": "2026-09-05",
+  "script": "Original investigation verify_primary.py; not needed to run this standalone package.",
+  "input_receipt_count": 1496,
+  "database_modes": "full and focused, both opened read-only",
+  "scope": "All frozen receipts were scanned for exact SHA256 matches. Selected wiki full bodies were independently checked against their stored body hashes. Public package retains short source excerpts rather than full copyrighted wiki bodies.",
+  "result": "passed",
+  "hash_match_transactions": 203,
+  "evidence_limits": "The public ledger is reproducible locally; completeness relative to the entire private investigation corpus remains a separately reported audit. No actor/model inference."
+}

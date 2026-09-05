@@ -1,0 +1,20 @@
+{
+  "reviewed_on_utc": "2026-09-05",
+  "source_url": "https://www.aihw.gov.au/copyright",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "policy_last_updated_displayed": "11/08/2023 v1.0",
+  "scope": "Downloadable AIHW material; exceptions for AIHW logo, Commonwealth Coat of Arms, trademarks, third-party material and separate copyright notices. More restrictive separate terms prevail.",
+  "required_unmodified_attribution": "Source: Australian Institute of Health and Welfare.",
+  "required_modified_attribution": "Based on Australian Institute of Health and Welfare material.",
+  "endorsement": "Attribution must not imply AIHW endorsement.",
+  "artifact_review": {
+    "file": "aihw-figure5-proportion.png",
+    "unmodified": true,
+    "visible_logo_or_coat_of_arms": false,
+    "visible_separate_license_or_third_party_notice": false,
+    "visible_source": "National Aged Care Data Clearinghouse 2021-22",
+    "recommendation": "Include original image with exact unmodified attribution, source/chart link and CC BY 4.0 link."
+  },
+  "acquisition_method": "Official copyright page read using web tool; source text at lines 133–170; researcher summary retained rather than whole website."
+}

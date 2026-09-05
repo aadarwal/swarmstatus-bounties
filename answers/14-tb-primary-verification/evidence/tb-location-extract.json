@@ -1,0 +1,12 @@
+{
+  "source_url": "https://vizhub.healthdata.org/lbd/api/v1/themes/tb/location-hierarchy",
+  "source_sha256": "20bfc2d0abe61d29787b8d42130cc0d1f2771eca184a3f55c1d38653144bd8c4",
+  "acquired_at_utc": "2026-09-05T18:32:41.643224+00:00",
+  "json_pointer": "/children/7",
+  "retained_form": "selected literal fields, not the entire hierarchy",
+  "fields": {
+    "name": "Ecuador",
+    "location_id": "66",
+    "has_aggregate_data": true
+  }
+}
