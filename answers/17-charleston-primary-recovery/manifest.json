@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "files": {
+    "evidence/captures.json": {
+      "bytes": 1737,
+      "sha256": "d81fdf370a041d32ba7af8f634bcde4027a3a71b2ccabebb49c31a52f40b93d4"
+    },
+    "evidence/claims.json": {
+      "bytes": 924,
+      "sha256": "89aae3f0b496e3483cdb4dd5a7da54f6c5f97dbc7c8b31302cad482a08ec267e"
+    },
+    "evidence/historical-receipts.json": {
+      "bytes": 4357,
+      "sha256": "85abf7207fe526476441d2e1dc9c049824dc997ee8ec18f665f7f7ecd03b55d9"
+    },
+    "evidence/identity.json": {
+      "bytes": 1517,
+      "sha256": "42149d02269db4484ad0f2d681ef395849c77191ca7644496bfd6b5d044d64c8"
+    },
+    "evidence/manifest-lcdl129141.json": {
+      "bytes": 5484,
+      "sha256": "7c981bfa48feb24abdf81e56e17c5f70a2b39aeb11e8664f0b67abaeee26a96c"
+    },
+    "evidence/manifest-lcdl129143.json": {
+      "bytes": 5257,
+      "sha256": "13be97ce9731be5687862ec9e89916fe0bcda59a89df6bbd14724d3a7509dae9"
+    },
+    "evidence/wildcard-response.bin": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  }
+}

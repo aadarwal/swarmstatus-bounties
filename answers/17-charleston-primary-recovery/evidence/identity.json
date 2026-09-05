@@ -1,0 +1,30 @@
+[
+  {
+    "manifest_id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/manifest",
+    "label": "View in Magnolia Cemetery",
+    "description": "Footbridges at Magnolia Cemetery viewed from across a pond.",
+    "catalog_date": "1893",
+    "catalog_date_basis": "Source metadata Date; not manifest publication or acquisition",
+    "contributing_institution": "Historic Charleston Foundation",
+    "license": "Public domain.",
+    "canvas_id": "https://rspace.library.cofc.edu/iiif/lcdl129141JPEG1jpg/canvas/0",
+    "width": 2000,
+    "height": 1581,
+    "image_id": "https://iiif.library.cofc.edu/iiif/2/205927/full/max/0/default.jpg",
+    "image_service_id": "https://iiif.library.cofc.edu/iiif/2/205927"
+  },
+  {
+    "manifest_id": "https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg/manifest",
+    "label": "View on South Battery",
+    "description": "Photograph of the view looking west on South Battery from the corner at East Battery. Louis Desaussure House (1 South Battery) in foreground.",
+    "catalog_date": "1893",
+    "catalog_date_basis": "Source metadata Date; not manifest publication or acquisition",
+    "contributing_institution": "Historic Charleston Foundation",
+    "license": "Public domain.",
+    "canvas_id": "https://rspace.library.cofc.edu/iiif/lcdl129143JPEG1jpg/canvas/0",
+    "width": 2000,
+    "height": 1574,
+    "image_id": "https://iiif.library.cofc.edu/iiif/2/205929/full/max/0/default.jpg",
+    "image_service_id": "https://iiif.library.cofc.edu/iiif/2/205929"
+  }
+]

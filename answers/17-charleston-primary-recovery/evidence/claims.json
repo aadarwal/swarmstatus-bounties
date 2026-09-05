@@ -1,0 +1,14 @@
+{
+  "issue": 17,
+  "credit": "New primary acquisition by maintainer reviewer during review of PR35; not supplied by PR35 head b912815e7eb19d271129d7845be7f2d086f5642a",
+  "exact_identifier": "lcdl129141JPEG1jpg",
+  "nearby_identifier": "lcdl129143JPEG1jpg",
+  "wildcard_identifier": "%2A129141%2A",
+  "current_exact_matches_two_historical_reported_response_hashes": true,
+  "inline_historical_bodies_recovered": false,
+  "wildcard_document_identity": "unsupported: current empty response; historical receipt has zero bytes and no inline body, no readable fallback or exact object demonstrated",
+  "source_attribution": "Historic Charleston Foundation per manifest; no actor attribution",
+  "images_retrieved": false,
+  "fresh_provider_report_json_attempts": "404 at 2026-09-05T19:02Z; historical comparison uses prior retained downloads with preserved hashes",
+  "retained_wiki_record": "c9cf96f022c7c4d718f682faf13aa2b3"
+}
