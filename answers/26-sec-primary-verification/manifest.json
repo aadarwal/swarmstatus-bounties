@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "file": "cached-wiki-table.json",
+      "bytes": 2354,
+      "sha256": "aa58720d725752f9a460d2a55aba96eb8319983004f013d7aa8ecd35963fe11e"
+    },
+    {
+      "file": "investor-county-20260905.json",
+      "bytes": 147840,
+      "sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297"
+    },
+    {
+      "file": "primary-capture-metadata.json",
+      "bytes": 595,
+      "sha256": "aba10fbd522e7ba6182d6337ce0bc806a40b64a6843f53c40ea93e6719a43b1f"
+    },
+    {
+      "file": "sec-primary-verification.md",
+      "bytes": 6929,
+      "sha256": "0bbe756e3caccd13efd1b4fcd15c6ce577369e90b5f310217aed9222b4a4cba7"
+    },
+    {
+      "file": "urlquery-sec-receipt.json",
+      "bytes": 1572,
+      "sha256": "9cd0822f2c4d61d28d5719c21d7c21d35c7d6d8162b1bf62e0d3b7061839fa8b"
+    },
+    {
+      "file": "verification-result.json",
+      "bytes": 4281,
+      "sha256": "c7d62a5b7d6303390b7c6ab96df00fb32a7ffea2f15b5fb0139527830a63e217"
+    },
+    {
+      "file": "verify_sec_primary.py",
+      "bytes": 12958,
+      "sha256": "b661e5992bca59793d35c13229e625c918e8214e585ef49ba0d5c3ab4f31c215"
+    }
+  ],
+  "note": "No raw receipt cookies, submitter identifiers, or IPs are included in the selected receipt."
+}
