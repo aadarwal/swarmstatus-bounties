@@ -17,6 +17,8 @@ Maintainers add **bounty** and **publish** to admit an issue to the public board
 
 The site refreshes the public tracker on visits, at most once per minute. It retains the last successful snapshot during a GitHub outage and labels it stale. The application's source and database release repository remain private.
 
+A comment containing only `/attempt` announces an attempt. The board links to that declaration; it does not assign the issue, reserve a reward, or verify active work. Edit or remove the comment to withdraw the announcement. Maintainer status and answer review remain separate.
+
 Open issues with **status:in-progress** are in progress; **status:review** or an open linked PR puts them in review. An open PR is a proposed answer, not a verified result. GitHub is the source of status; the site has no separate editing database.
 
 ## Answer template
