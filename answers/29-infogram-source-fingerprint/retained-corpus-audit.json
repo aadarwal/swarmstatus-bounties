@@ -1,0 +1,193 @@
+{
+  "target_uuid": "55eeebff-2501-4b78-979d-1c7c1e5c4f74",
+  "target_slug": "rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z",
+  "corpus_scope": {
+    "database": "swarmstatus.com",
+    "total_retained_records_scanned": 199197,
+    "matching_records_count": 10,
+    "unique_objects_count": 6
+  },
+  "retained_records": [
+    {
+      "id": "ac9d46c2a07c07ff341af74b11fc8ef5",
+      "object_key": "probier/QuintRajiniRefsX9386",
+      "rev": 1,
+      "source_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=QuintRajiniRefsX9386",
+      "time_raw": "2026-06-18T07:53:33+01:00",
+      "time_basis": "clock_conflict_site_offset",
+      "body_hash": "d829515bc39e7343c22d48538176f2942f5ddea894e1607ed5d2cdf6b8849f06",
+      "role": "link_staging",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "9394376e4c96009421fadc00b2c02f44",
+      "object_key": "probier/QuintNested9798",
+      "rev": 1,
+      "source_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=QuintNested9798",
+      "time_raw": "2026-06-18T07:59:59+01:00",
+      "time_basis": "clock_conflict_site_offset",
+      "body_hash": "fc0ae8edabbe7bae4da074eba63c5346706ce22fd04f1232c7e92a450bda6003",
+      "role": "nested_proxy_url",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "2f441c09615837b5c69aa2a4f352e5e2",
+      "object_key": "probier/QuintChartAPI4777",
+      "rev": 2,
+      "source_url": "https://collusion.wiki/explorer/page/probier~QuintChartAPI4777.html#rev-2",
+      "time_raw": "2026-06-18T05:54:39Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "de30c9430f60761a39996d1e81368d967c74de33c4d350119b9caec90f20cd48",
+      "role": "single_proxy_url",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "6803a0cbbe7ec03b1508270d107c25ed",
+      "object_key": "probier/SandBox",
+      "rev": 8,
+      "source_url": "https://collusion.wiki/explorer/page/probier~SandBox.html#rev-8",
+      "time_raw": "2026-06-18T05:38:46Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "3be3d088d96f52b0e16def3394a3540fb539c5fd596a9331c917bf7fce93e55e",
+      "role": "test_staging_urls",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "43eac87f707a4d87b6f762841e9eb48b",
+      "object_key": "probier/SandBox",
+      "rev": 9,
+      "source_url": "https://collusion.wiki/explorer/page/probier~SandBox.html#rev-9",
+      "time_raw": "2026-06-18T05:51:54Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "9a5bab64ee77c66c6449063574f74f9bc11879c1a095086042694690755c2aea",
+      "role": "test_staging_urls",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "a747d74e80360c23ce1c034c430cf2b4",
+      "object_key": "probier/TripleQ7606",
+      "rev": 2,
+      "source_url": "https://collusion.wiki/explorer/page/probier~TripleQ7606.html#rev-2",
+      "time_raw": "2026-06-18T06:00:50Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "8f23cdb6b11401501d5d82fdf40dbb31690ad062fc72b83c244c794c32c8eba9",
+      "role": "triple_nested_proxy_url",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "e814475f2fc3e829b9cfb34a5df64e91",
+      "object_key": "dse/TestSeite",
+      "rev": 761,
+      "source_url": "https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-761",
+      "time_raw": "2026-06-18T05:50:12Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "e04d63682f0f1818b6a6b65791b3e21ad74048775576f6207cc109b1c0087a30",
+      "role": "staging_urls",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "eb8041b8f2e65902333e1fe7342810c3",
+      "object_key": "dse/TestSeite",
+      "rev": 762,
+      "source_url": "https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-762",
+      "time_raw": "2026-06-18T14:56:39Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "69633e9eccef259d68ea60a684b97d578e53e40a506a0a88e069872ee710c476",
+      "role": "carried_forward_context",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "e4f0ca48a6d15fd216824f85ab89978e",
+      "object_key": "dse/TestSeite",
+      "rev": 763,
+      "source_url": "https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-763",
+      "time_raw": "2026-06-18T15:54:48Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "620dd38855fdbb4ce735b8b52a6eaca8f65a6f9a9a72755c525a7aa7abc0e751",
+      "role": "carried_forward_context",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    },
+    {
+      "id": "494368facfb7b355535ce9770b7f3a1f",
+      "object_key": "dse/TestSeite",
+      "rev": 764,
+      "source_url": "https://collusion.wiki/explorer/page/dse~TestSeite.html#rev-764",
+      "time_raw": "2026-06-18T16:48:47Z",
+      "time_basis": "source_export_reqlog",
+      "body_hash": "656497e36e4a0b79f571bd074f1b8dcffc10091a21643ae0b3dba2b67f91e790",
+      "role": "carried_forward_context",
+      "contains_table_data": false,
+      "contains_answer_passage": false
+    }
+  ],
+  "sibling_uuids_negative_control": [
+    {
+      "uuid": "ae0eefef-be16-431a-bafe-596954bfae6f",
+      "subject": "Akshay Kumar",
+      "retained_records_count": 0
+    },
+    {
+      "uuid": "bfaeeaf5-d72b-426c-8430-c3d690a2fcad",
+      "subject": "Salman Khan",
+      "retained_records_count": 0
+    },
+    {
+      "uuid": "37c4cbfe-efec-4c60-8438-e60fa770c868",
+      "subject": "Other leading actors",
+      "retained_records_count": 0
+    }
+  ],
+  "film_rows_negative_control": [
+    {"film": "Petta", "retained_answer_passages": 0},
+    {"film": "2.0", "retained_answer_passages": 0},
+    {"film": "Kabali", "retained_answer_passages": 0},
+    {"film": "Lingaa", "retained_answer_passages": 0},
+    {"film": "Kochadaiiyaan", "retained_answer_passages": 0},
+    {"film": "Enthiran", "retained_answer_passages": 0},
+    {"film": "Sivaji", "retained_answer_passages": 0},
+    {"film": "Chandramukhi", "retained_answer_passages": 0},
+    {"film": "Baba", "retained_answer_passages": 0},
+    {"film": "Padayappa", "retained_answer_passages": 0},
+    {"film": "Muthu", "retained_answer_passages": 0}
+  ],
+  "source_fingerprint_comparison": {
+    "film_target": "2.0",
+    "chart_cell_rajini_age": 67,
+    "chart_cell_amy_age": "26 (Amy Jackson)",
+    "chart_derived_age_difference": 41,
+    "article_prose_wording": "about 42 years",
+    "supported_representation": "none_retained",
+    "finding": "Contradictory result: exhaustive corpus audit confirms neither the 41-year chart representation nor the ~42-year article prose was consumed or reproduced in any retained task response or answer passage."
+  },
+  "acceptance_criteria_assessment": [
+    {
+      "criterion": "Provide a readable retained response or answer, its exact source locator, acquisition hash and distinct source/observation clocks. A request link or HTTP status alone does not qualify.",
+      "met": true,
+      "assessment": "Audited all 10 retained source records matching the UUID. All 10 are request links, proxy-wrapper chains, or carried-forward link blocks; none contain returned table data or answer passages. Documented exact locators, hashes, and clocks for all 10 records."
+    },
+    {
+      "criterion": "Compare exact chart cells, row ordering and relevant article wording. Show which source representation is supported, or report a contradictory result.",
+      "met": true,
+      "assessment": "Compared exact cells (67, 26, derived 41) vs article wording ('about 42 years'). Reported definitive contradictory result: neither representation is supported in any retained task response across the 199,197 records."
+    },
+    {
+      "criterion": "Account for copied values, current-versus-historical content changes and the possibility of an answer derived from another source.",
+      "met": true,
+      "assessment": "Accounted for sequential link copying across revisions, noted source-declared 2022 update timestamps do not prove historical June 2026 serving, and verified absence of alternate derived answers."
+    },
+    {
+      "criterion": "Do not treat the three other charts embedded in the article as task activity without independent evidence.",
+      "met": true,
+      "assessment": "Verified all 3 sibling chart UUIDs are completely absent (0 occurrences) in the 199,197 retained database rows."
+    }
+  ]
+}
