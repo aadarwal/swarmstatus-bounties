@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "timestamp_utc": "2026-09-05T22:13:08.485889+00:00",
+  "issue_ref": 46,
+  "files_verified_count": 11,
+  "content_verification": {
+    "exact_clark_url_verified": true,
+    "anchor_text": "Archive reading",
+    "published_val": "2026-06-01T15:03:22.012084+00:00",
+    "modified_val": "2026-06-01T15:31:10.118407+00:00"
+  },
+  "warc_verification": {
+    "warc_target_uri": "https://jotspot.io/j/sxt2xy8q",
+    "warc_date": "2026-06-08T05:02:17Z",
+    "warc_record_id": "<urn:uuid:835ccffc-7329-41c8-825d-29d73c3d44d1>",
+    "warc_payload_digest": "sha1:NMEUZKRO76OMA6AIP4ISFWEMQSEB3ULR",
+    "payload_bytes": 13274
+  },
+  "clock_separation": {
+    "archive_observation_utc": "2026-06-08T05:02:17Z",
+    "site_published_utc": "2026-06-01T15:03:22.012084+00:00",
+    "site_modified_utc": "2026-06-01T15:31:10.118407+00:00",
+    "delta_seconds_obs_minus_mod": 567067,
+    "delta_human": "6 days, 13 hours, 31 minutes, 7 seconds",
+    "bounds_verdict": "Verified upper bound established at 2026-06-08T05:02:17Z"
+  },
+  "negative_controls": {
+    "negative_controls_total": 5,
+    "negative_controls_passed": 5
+  }
+}

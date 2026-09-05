@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "package_id": "jotspot46-clark-body-date-v1",
+  "refs": [
+    46
+  ],
+  "publication_status": "draft",
+  "files": {
+    "README.md": {
+      "bytes": 10540,
+      "sha256": "eb07bf5626d3119b7104f0a6364dbfc20d7dac0e17f7af9bd91cce8b45c55db8"
+    },
+    "body-clock-provenance.csv": {
+      "bytes": 2487,
+      "sha256": "9e6f14ac9e5149d9a80d78a27481f7b40b82747ce22a15796be6dc756097ce72"
+    },
+    "evidence/bodies/live-20260905.html": {
+      "bytes": 13274,
+      "sha256": "083a91cc0c35fd4c3de04272bf30e9a06fb1c8d60060b85c41fe689ad1d911b7"
+    },
+    "evidence/bodies/warc-record-20260608.warc.gz": {
+      "bytes": 4990,
+      "sha256": "79db15cbbecf67a4940e39089266fb0ceb7d4dc99796d7a47ae252a4db2700df"
+    },
+    "evidence/bodies/wayback-20260608.html": {
+      "bytes": 13274,
+      "sha256": "f0849a91eeef2973f3c059274e66a8eb8a5e6632e24ea28df0bf70006f57d3bc"
+    },
+    "evidence/captures.json": {
+      "bytes": 3976,
+      "sha256": "bf23c96543b2fb7b1d7669efdc82ee8dbcb65d94893ed337d3c36f8f78c62000"
+    },
+    "evidence/claims.json": {
+      "bytes": 1623,
+      "sha256": "edb96828674bb5b9a81699f799c9e0116b10081a21a177a7cde369bf32995351"
+    },
+    "evidence/excerpts.json": {
+      "bytes": 737,
+      "sha256": "e187846d2dfc45f27efb96a9be67659995cee55f818ef1eaf7ed312444bedbdc"
+    },
+    "evidence/provenance.json": {
+      "bytes": 2558,
+      "sha256": "bff69f501bf6ec81ceb225b1df31a702d45a93f56ef251c50de125c5c9051e6f"
+    },
+    "updates-event-draft.json": {
+      "bytes": 1676,
+      "sha256": "c79b3b71d26682dcb123eb8d803f502d6145857a182ad005ff37887a982c5fc0"
+    },
+    "verify.py": {
+      "bytes": 11371,
+      "sha256": "b9065561d4a1c447f8d30f020a20f58827a056986c0836226638bc0a018116bc"
+    }
+  }
+}
