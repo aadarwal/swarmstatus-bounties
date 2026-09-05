@@ -1,0 +1,4 @@
+Madagascar: Pop 25976.44, co2emiss 4156, pcco2 0.16
+Bangladesh: Pop 165777.39, co2emiss 84712, pcco2 0.51
+Indonesia: Pop 263570.58, co2emiss 511327, pcco2 1.94
+France: Pop 65037.15, co2emiss 338193, pcco2 5.2

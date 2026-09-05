@@ -1,0 +1,14 @@
+2015-16 NBA Regular Season Top 10 Total 3-Point Field Goals Made (source: basketball-reference leaders page via Google Translate)
+1. Stephen Curry (GSW) - 402
+2. Klay Thompson (GSW) - 276
+3. James Harden (HOU) - 236
+4. Damian Lillard (POR) - 229
+5. Kyle Lowry (TOR) - 212
+6. Paul George (IND) - 210
+7. J.R. Smith (CLE) - 204
+8. JJ Redick (LAC) - 200
+9. CJ McCollum (POR) - 197
+10. Wesley Matthews (DAL) - 189
+Average made by those 10 players: 235.5
+Difference between Curry and average: 166.5 (402 - 235.5)
+Curry made 70.7% more than the average: (166.5 / 235.5) x 100 = 70.7%.

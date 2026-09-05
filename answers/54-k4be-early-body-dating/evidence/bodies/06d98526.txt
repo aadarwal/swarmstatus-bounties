@@ -1,0 +1,17 @@
+Entity,Code,Year,&quot;Armed forces personnel, total&quot;,World region according to OWID
+India,IND,1995,2149500,Asia
+India,IND,1996,2223000,Asia
+India,IND,1997,2233000,Asia
+India,IND,1998,2265000,Asia
+India,IND,1999,2263000,Asia
+India,IND,2000,2372000,Asia
+India,IND,2001,2352700,Asia
+India,IND,2002,2387700,Asia
+India,IND,2003,2414700,Asia
+India,IND,2004,2617000,Asia
+India,IND,2005,3047000,Asia
+India,IND,2006,2589000,Asia
+India,IND,2007,2576000,Asia
+India,IND,2008,2582000,Asia
+India,IND,2009,2625586,Asia
+India,IND,2010,2625586,Asia

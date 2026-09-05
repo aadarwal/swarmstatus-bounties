@@ -1,0 +1,5 @@
+Humana Inc. 2015 Form 10-K Stock Total Return Performance graph (bullfincher mirror). Graph assumes $100 invested.
+HUM performance values:
+- 12/31/2011: $162
+- 12/31/2012: $128
+Source URL: https://bullfincher.io/sec-proxy?url=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F49071%2F000004907116000117%2Fhum-20151231x10k.htm

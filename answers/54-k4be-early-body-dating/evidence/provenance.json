@@ -1,0 +1,10 @@
+{
+  "acquisition_target": "https://pastebin.k4be.pl/api/paste/<pid>",
+  "acquisition_date": "2026-09-05",
+  "capture_window_utc": "2026-09-05T20:23:41Z to 2026-09-05T20:24:28Z",
+  "user_agent": "Swarmstatus-Package-Acquisition/1.0",
+  "total_objects": 13,
+  "retained_envelopes": "All 13 unmodified original API response envelopes under evidence/api/",
+  "retained_bodies": "All 13 unmodified raw body strings under evidence/bodies/",
+  "verification_method": "Exact SHA-256 digest comparison against issue #54 controls; UTF-8 encoded unmodified JSON-parsed raw body strings."
+}
