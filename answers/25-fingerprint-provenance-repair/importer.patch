@@ -1,0 +1,25 @@
+--- a/tools/build_database.py
++++ b/tools/build_database.py
+@@ -322,11 +322,19 @@
+             db.execute('INSERT OR REPLACE INTO source_claims VALUES(?,?,?,?,?,?)',('new_search::'+f.stem+'::'+str(i),'search_finding',r.get('observation') or r.get('summary') or dump(r),r.get('source_url',''),r.get('confidence') or 'candidate',dump(r)))
+     f=WORK/'database-research/fingerprint_hits.jsonl'
+     if f.exists():
+-        lookup={(path,key):rid for rid,path,key in db.execute('SELECT r.id,s.path,r.record_key FROM records r JOIN sources s ON s.id=r.source_id')}
++        # Physical/source row coordinates are provenance, never record identity.
+         for line in f.open():
+             r=json.loads(line);path=r.get('local_source','');ln=r.get('line')
+-            rid=lookup.get((path,str(ln))) if ln else None
+-            db.execute('INSERT INTO fingerprint_observations(fingerprint,record_id,source_path,source_line,metadata_json) VALUES(?,?,?,?,?)',(r.get('fingerprint',''),rid,path,ln,dump(r)))
++            db.execute('INSERT INTO fingerprint_observations(fingerprint,record_id,source_path,source_line,metadata_json) VALUES(?,?,?,?,?)',(r.get('fingerprint',''),None,path,ln,dump(r)))
++        from fingerprint_repair import resolve_observations
++        previous_factory=db.row_factory
++        try:
++            db.row_factory=sqlite3.Row
++            verified=resolve_observations(db,ROOT)
++        finally:
++            db.row_factory=previous_factory
++        for item in verified:
++            db.execute('UPDATE fingerprint_observations SET record_id=? WHERE id=?',(item['resolved_record_id'],item['observation_id']))
+     for number in [3,4]:
+         f=WORK/'hf_evidence'/f'discussion-{number}.json'
+         if f.exists():
