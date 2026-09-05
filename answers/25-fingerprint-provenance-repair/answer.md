@@ -1,6 +1,6 @@
 # Verified repair of fingerprint-to-shortener provenance
 
-Answer to [bounty #25](https://github.com/aadarwal/swarmstatus-bounties/issues/25). Review date: 2026-09-05. The repair has been applied to **new local copies only**; publication and replacement of the live databases require maintainer review.
+Answer to [bounty #25](https://github.com/aadarwal/swarmstatus-bounties/issues/25). Review date: 2026-09-05. Maintainer review is complete. The repair was reproduced on new copies, then installed in the full and focused databases on September 5 at 18:55 UTC after preserving the original snapshots. See [installation review](review.md).
 
 Both the full acquisition database and the focused database contain 2,435 fingerprint observations. Exhaustive verification found exactly **107 incorrect shortener attachments**, with **2,328 correctly attached wiki observations**. Each repaired link resolves by source path, source checksum and stable alias, then passes an exact comparison of the complete raw destination, original CSV fields, retained body and source-qualified record ID. No source row, observation ID, source declaration or timestamp was rewritten.
 
