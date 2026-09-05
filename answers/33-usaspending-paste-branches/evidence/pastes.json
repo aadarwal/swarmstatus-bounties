@@ -1,0 +1,259 @@
+[
+  {
+    "paste_id": "7d012d32",
+    "title": "RefAP",
+    "source_url": "https://paste.linuxiarz.pl/view/7d012d32",
+    "capture_id": "refap-page",
+    "body_path": "evidence/bodies/7d012d32.txt",
+    "body_sha256": "5cf58fbb41910d29c900b8a7bd920670d86d0399e03f60e4e07db929dd871a27",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "7d012d32:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": "https://paste.linuxiarz.pl/view/34cb12da",
+    "full_corpus_record_ids": [
+      "5f4adaa5c03919ca55231fad7800bfcc"
+    ],
+    "focused_corpus_record_ids": [
+      "5f4adaa5c03919ca55231fad7800bfcc"
+    ],
+    "corpus_status": "present full and focused",
+    "ordered_links": [
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/075-8005/",
+        "label": "ACCGET"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/075-8005/?fiscal_year=2023",
+        "label": "ACCGET23"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/5599/fiscal_year_snapshot/2023/",
+        "label": "SNAP23"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v1/tas/balances/quarters/total/",
+        "label": "QEND"
+      }
+    ],
+    "parent_excerpt_id": "7d012d32:native_parent_assertion"
+  },
+  {
+    "paste_id": "b0924d89",
+    "title": "RefAP2",
+    "source_url": "https://paste.linuxiarz.pl/view/b0924d89",
+    "capture_id": "refap2-page",
+    "body_path": "evidence/bodies/b0924d89.txt",
+    "body_sha256": "5cf58fbb41910d29c900b8a7bd920670d86d0399e03f60e4e07db929dd871a27",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "b0924d89:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "full_corpus_record_ids": [
+      "be8776ed5c8b92e805c040b19372b39e"
+    ],
+    "focused_corpus_record_ids": [
+      "be8776ed5c8b92e805c040b19372b39e"
+    ],
+    "corpus_status": "present full and focused",
+    "ordered_links": [
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/075-8005/",
+        "label": "ACCGET"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/075-8005/?fiscal_year=2023",
+        "label": "ACCGET23"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v2/federal_accounts/5599/fiscal_year_snapshot/2023/",
+        "label": "SNAP23"
+      },
+      {
+        "url": "https://api.usaspending.gov/api/v1/tas/balances/quarters/total/",
+        "label": "QEND"
+      }
+    ],
+    "parent_excerpt_id": "b0924d89:native_parent_assertion"
+  },
+  {
+    "paste_id": "34cb12da",
+    "title": "Untitled",
+    "source_url": "https://paste.linuxiarz.pl/view/34cb12da",
+    "capture_id": "refap-parent",
+    "body_path": "evidence/bodies/34cb12da.txt",
+    "body_sha256": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "34cb12da:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": null,
+    "full_corpus_record_ids": [],
+    "focused_corpus_record_ids": [],
+    "corpus_status": "absent full and focused before this acquisition",
+    "ordered_links": [],
+    "reply_heading_excerpt_id": "34cb12da:native_replies_heading",
+    "reply_table_excerpt_id": "34cb12da:native_replies_table",
+    "reply_table_context": "Selected table occurs inside div.replies in original whole HTML; contextual selection verified at packaging, not reconstructable from excerpt alone."
+  },
+  {
+    "paste_id": "89a3961d",
+    "title": "Filler8",
+    "source_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "capture_id": "refap2-parent",
+    "body_path": "evidence/bodies/89a3961d.txt",
+    "body_sha256": "07dd7893c51017685f1b46cb89038c6e4962c7655a772c591dc7bec91984378b",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "89a3961d:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": null,
+    "full_corpus_record_ids": [
+      "caf81e6954db5f753aa7ef8533c49d81"
+    ],
+    "focused_corpus_record_ids": [],
+    "corpus_status": "present full, absent focused",
+    "ordered_links": [],
+    "reply_heading_excerpt_id": "89a3961d:native_replies_heading",
+    "reply_table_excerpt_id": "89a3961d:native_replies_table",
+    "reply_table_context": "Selected table occurs inside div.replies in original whole HTML; contextual selection verified at packaging, not reconstructable from excerpt alone."
+  },
+  {
+    "paste_id": "d379207f",
+    "title": "RefQ3",
+    "source_url": "https://paste.linuxiarz.pl/view/d379207f",
+    "capture_id": "refq3-page",
+    "body_path": "evidence/bodies/d379207f.txt",
+    "body_sha256": "1d118617bd67c287e69b813660b9b586debddafeb7570e8162b31918131eabe5",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "d379207f:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": "https://paste.linuxiarz.pl/view/34cb12da",
+    "full_corpus_record_ids": [
+      "0d58fae455d31c70235a33212f25d566"
+    ],
+    "focused_corpus_record_ids": [
+      "0d58fae455d31c70235a33212f25d566"
+    ],
+    "corpus_status": "present full and focused",
+    "ordered_links": [
+      {
+        "url": "https://markdown.new/portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2MDSCHEMELESS"
+      },
+      {
+        "url": "https://markdown.new/portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2398882076.pdf",
+        "label": "Q3MDSCHEMELESS"
+      },
+      {
+        "url": "https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2DIRECT"
+      },
+      {
+        "url": "https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2398882076.pdf",
+        "label": "Q3DIRECT"
+      },
+      {
+        "url": "https://markdown.new/https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2MDFULL"
+      },
+      {
+        "url": "https://test.cors.workers.dev/?https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2CORS"
+      },
+      {
+        "url": "https://allorigins.hexlet.app/raw?url=https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2AO"
+      }
+    ],
+    "parent_excerpt_id": "d379207f:native_parent_assertion"
+  },
+  {
+    "paste_id": "59c84c78",
+    "title": "RefQ0",
+    "source_url": "https://paste.linuxiarz.pl/view/59c84c78",
+    "capture_id": "refq0-page",
+    "body_path": "evidence/bodies/59c84c78.txt",
+    "body_sha256": "1d118617bd67c287e69b813660b9b586debddafeb7570e8162b31918131eabe5",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "59c84c78:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "full_corpus_record_ids": [
+      "d4f4dd52b4f7b87470b56384561e58a0"
+    ],
+    "focused_corpus_record_ids": [
+      "d4f4dd52b4f7b87470b56384561e58a0"
+    ],
+    "corpus_status": "present full and focused",
+    "ordered_links": [
+      {
+        "url": "https://markdown.new/portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2MDSCHEMELESS"
+      },
+      {
+        "url": "https://markdown.new/portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2398882076.pdf",
+        "label": "Q3MDSCHEMELESS"
+      },
+      {
+        "url": "https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2DIRECT"
+      },
+      {
+        "url": "https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2398882076.pdf",
+        "label": "Q3DIRECT"
+      },
+      {
+        "url": "https://markdown.new/https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2MDFULL"
+      },
+      {
+        "url": "https://test.cors.workers.dev/?https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2CORS"
+      },
+      {
+        "url": "https://allorigins.hexlet.app/raw?url=https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2374423602.pdf",
+        "label": "Q2AO"
+      }
+    ],
+    "parent_excerpt_id": "59c84c78:native_parent_assertion"
+  },
+  {
+    "paste_id": "a43cd523",
+    "title": "RefNX",
+    "source_url": "https://paste.linuxiarz.pl/view/a43cd523",
+    "capture_id": "refnx-page",
+    "body_path": "evidence/bodies/a43cd523.txt",
+    "body_sha256": "68e4446b95be44481238083dd67106207d0a530bbe448dd948f9f0df9cf2f4ab",
+    "body_extraction": "One HTML entity decode of textarea#code contents; no percent decoding, URL fetching or execution.",
+    "textarea_excerpt_id": "a43cd523:textarea_code",
+    "displayed_relative_age": "3 Months ago",
+    "publication_time_utc": null,
+    "native_parent_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "full_corpus_record_ids": [
+      "10b5ccacfb53f38353fb92582b8a7180"
+    ],
+    "focused_corpus_record_ids": [
+      "10b5ccacfb53f38353fb92582b8a7180"
+    ],
+    "corpus_status": "present full and focused",
+    "ordered_links": [
+      {
+        "url": "https://allorigins.hexlet.app/raw?url=https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2346466741.xlsx",
+        "label": "HHSXAO"
+      },
+      {
+        "url": "https://allorigins.hexlet.app/raw?url=https://portal.max.gov/portal/document/SF133/Budget/attachments/2346466575/2354357208.zip",
+        "label": "HHSZIP"
+      },
+      {
+        "url": "https://docs.google.com/gview?embedded=1%26url=https%3A%2F%2Fportal.max.gov%2Fportal%2Fdocument%2FSF133%2FBudget%2Fattachments%2F2346466575%2F2354356491.xlsx",
+        "label": "GVIEWQ"
+      }
+    ],
+    "parent_excerpt_id": "a43cd523:native_parent_assertion"
+  }
+]

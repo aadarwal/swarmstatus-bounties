@@ -1,0 +1,93 @@
+[
+  {
+    "paste_id": "7d012d32",
+    "source_url": "https://paste.linuxiarz.pl/view/7d012d32",
+    "capture_id": "refap-page",
+    "acquired_at_utc": "2026-09-05T18:45:34.753419+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/7d012d32",
+    "whole_capture_bytes": 22205,
+    "whole_capture_sha256": "41b4f6d40ac13d3d5658b5fd24a1214007fe62d05a966c828e454aaa6ee12305",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "b0924d89",
+    "source_url": "https://paste.linuxiarz.pl/view/b0924d89",
+    "capture_id": "refap2-page",
+    "acquired_at_utc": "2026-09-05T18:45:34.753859+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/b0924d89",
+    "whole_capture_bytes": 22197,
+    "whole_capture_sha256": "00c871d8d6d497f41a93e47742f53e26817841792941785f64de9e22a91dff57",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "34cb12da",
+    "source_url": "https://paste.linuxiarz.pl/view/34cb12da",
+    "capture_id": "refap-parent",
+    "acquired_at_utc": "2026-09-05T18:47:47.008838+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/34cb12da",
+    "whole_capture_bytes": 20357,
+    "whole_capture_sha256": "bdc27b2f4d87d7e9bf5d9ade6a04f360e1b69a6bad2b42bdf7796d0aa2c5973f",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "89a3961d",
+    "source_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "capture_id": "refap2-parent",
+    "acquired_at_utc": "2026-09-05T18:47:47.009284+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/89a3961d",
+    "whole_capture_bytes": 20553,
+    "whole_capture_sha256": "242cf3f37c4c8244abe52e7070c641d1210401e4d8b461902d5479c75609d6f8",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "d379207f",
+    "source_url": "https://paste.linuxiarz.pl/view/d379207f",
+    "capture_id": "refq3-page",
+    "acquired_at_utc": "2026-09-05T18:49:03.624804+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/d379207f",
+    "whole_capture_bytes": 26855,
+    "whole_capture_sha256": "a3686788284fdbdf5e28e690670670e20f7b77a832661d579f1ef6225165f2a4",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "59c84c78",
+    "source_url": "https://paste.linuxiarz.pl/view/59c84c78",
+    "capture_id": "refq0-page",
+    "acquired_at_utc": "2026-09-05T18:49:03.625141+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/59c84c78",
+    "whole_capture_bytes": 25271,
+    "whole_capture_sha256": "daabf3c9fcecef092779db5c12b0723a21c2271b6a077cda1997bab4eb6d834b",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  },
+  {
+    "paste_id": "a43cd523",
+    "source_url": "https://paste.linuxiarz.pl/view/a43cd523",
+    "capture_id": "refnx-page",
+    "acquired_at_utc": "2026-09-05T18:49:03.625254+00:00",
+    "http_status": 200,
+    "final_url": "https://paste.linuxiarz.pl/view/a43cd523",
+    "whole_capture_bytes": 21737,
+    "whole_capture_sha256": "a3895d8f3e2b06f7b16d105f0daef111df0c99336fb40bee8a1a14e0297b15bb",
+    "whole_capture_included": false,
+    "source_publication_time_utc": null,
+    "source_time_description": "Only relative age 3 Months ago displayed; not converted to an absolute date."
+  }
+]

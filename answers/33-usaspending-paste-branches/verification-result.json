@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "manifest_files": 11,
+  "pastes": 7,
+  "exact_excerpts": 16,
+  "native_relations": 5,
+  "exact_body_pairs": 2,
+  "filler_controls": 2,
+  "body_bytes": {
+    "7d012d32": 373,
+    "b0924d89": 373,
+    "34cb12da": 1,
+    "89a3961d": 6,
+    "d379207f": 913,
+    "59c84c78": 913,
+    "a43cd523": 478
+  },
+  "scope": "Verifies retained excerpts, their local hashes/ranges, literal decoded bodies and declared corpus scope. Cannot independently verify omitted whole HTML hashes, selection context or absent full corpus. No network/file writes.",
+  "negative_controls": {
+    "rejected": 10,
+    "cases": [
+      "tampered retained bytes",
+      "swapped native parent",
+      "altered reciprocal reply row",
+      "altered account ID",
+      "altered attachment ID",
+      "URL label order swapped",
+      "different ordinary-document account/year example",
+      "filler promoted to task packet",
+      "distinct RefNX falsely paired",
+      "embedded encoded delimiter rewritten"
+    ],
+    "method": "Synthetic in-memory alterations; does not fetch sources or modify package files."
+  }
+}
