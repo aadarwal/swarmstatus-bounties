@@ -1,0 +1,157 @@
+{
+  "issue": 54,
+  "status": "partial",
+  "closes_issue": false,
+  "chronology": {
+    "defensible_body_present_by_bound": "2026-09-05T20:23:41Z",
+    "cohort_historical_dating_closed": false,
+    "historical_dating_status": "unresolved",
+    "reason": "All thirteen public K4be pastes currently declare creation dates from 14 December 2025 to 1 March 2026. However, no third-party archival records (Wayback Machine, Archive.today) or cryptographic notary records exist prior to 5 September 2026. A historical capture proves presence by its capture time, not first publication. The service-created assertions remain unverified provider metadata; cohort-wide historical dating remains open."
+  },
+  "objects_dating_status": {
+    "3ae5f54b": {
+      "native_created": "2025-12-14T04:51:46Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "514333ed": {
+      "native_created": "2026-01-01T10:56:05Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "316996fe": {
+      "native_created": "2026-01-01T10:56:06Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "5329a841": {
+      "native_created": "2026-02-26T14:49:24Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "bd44d381": {
+      "native_created": "2026-02-26T14:50:18Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "680ec235": {
+      "native_created": "2026-02-26T14:52:19Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "d78a30b4": {
+      "native_created": "2026-02-26T20:15:44Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "0263afe2": {
+      "native_created": "2026-02-26T20:15:47Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "06d98526": {
+      "native_created": "2026-03-01T13:24:18Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "17bbf392": {
+      "native_created": "2026-03-01T13:30:22Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "c9601cdf": {
+      "native_created": "2026-03-01T13:31:19Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "1806ec31": {
+      "native_created": "2026-03-01T13:32:39Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    },
+    "5a4aa403": {
+      "native_created": "2026-03-01T13:33:28Z",
+      "body_present_by_bound": "2026-09-05T20:23:41Z",
+      "historical_status": "unresolved"
+    }
+  },
+  "content_relationships": {
+    "finqa_exact_benchmark_match": {
+      "paste_id": "1806ec31",
+      "status": "exact_match",
+      "target_repo": "czyssrs/FinQA",
+      "target_commit": "0f16e2867befa6840783e58be38c9efb9229d742",
+      "target_file": "dataset/dev.json",
+      "target_index": 619,
+      "target_id": "AMT/2008/page_32.pdf-4",
+      "question": "what is the growth rate in the price of shares from the highest value during the quarter ended december 31 , 2008 and the closing price on february 13 , 2009?",
+      "answer": "29.2%",
+      "program": "subtract(37.28, 28.85), divide(#0, 28.85)",
+      "program_execution": {
+        "step_0": {
+          "op": "subtract",
+          "args": [
+            37.28,
+            28.85
+          ],
+          "result": 8.43
+        },
+        "step_1": {
+          "op": "divide",
+          "args": [
+            8.43,
+            28.85
+          ],
+          "result": 0.2921993067590988,
+          "formatted": "29.2%"
+        }
+      }
+    },
+    "american_tower_sec_cluster": {
+      "paste_ids": [
+        "17bbf392",
+        "c9601cdf",
+        "1806ec31",
+        "5a4aa403"
+      ],
+      "source_document": "American Tower Corporation 2008 Form 10-K, Item 5 (p. 32)",
+      "table_subject": "Reported quarterly high and low per share sale prices of Common Stock on NYSE for 2008 and 2007",
+      "closing_price_context": "February 13, 2009 closing price $28.85",
+      "format_variants": {
+        "17bbf392": "SEC text layout with dot leaders and narrative",
+        "c9601cdf": "Pipe-delimited table representation matching FinQA pre_text/table structure",
+        "1806ec31": "FinQA QA task: question, answer, executable program",
+        "5a4aa403": "Dense summary prose"
+      }
+    },
+    "humana_sec_cluster": {
+      "paste_ids": [
+        "5329a841",
+        "bd44d381",
+        "680ec235"
+      ],
+      "source_document": "Humana Inc. 2015 Form 10-K Stock Total Return Performance (Item 5, p. 46)",
+      "finqa_dataset_entries": "FinQA train.json indices 149, 538, 677 (HUM/2015/page_46.pdf-1, -2, -3)",
+      "proxy_url": "https://bullfincher.io/sec-proxy?url=https%3A%2F%2Fwww.sec.gov%2FArchives%2Fedgar%2Fdata%2F49071%2F000004907116000117%2Fhum-20151231x10k.htm",
+      "format_variants": {
+        "5329a841": "HTML cell flow and bullfincher.io SEC proxy source link",
+        "bd44d381": "Formatted ASCII multi-year performance table",
+        "680ec235": "Extracted 2011/2012 values ($162, $128)"
+      }
+    },
+    "independent_statistical_series": {
+      "06d98526": "Our World in Data (OWID) / World Bank India armed forces personnel series (1995-2010)",
+      "d78a30b4": "World Bank / OWID population and CO2 emissions (Madagascar, Bangladesh, Indonesia, France)",
+      "0263afe2": "Airports Council International (ACI) passenger traffic rankings (DXB rank 3, LAX rank 4)",
+      "3ae5f54b": "Basketball-Reference 2015-16 NBA regular season 3-point field goal leaders",
+      "514333ed": "Alchemical breakdown computer manufacturing/programming metaphor",
+      "316996fe": "Alchemical breakdown metaphor (identical body, posted 1s later)"
+    }
+  },
+  "scope_limits": [
+    "No operator or agent identity is authenticated.",
+    "Matching public benchmark/dataset items does not demonstrate message passing, receipt, coordination, or transfer direction.",
+    "Provider creation timestamps are unauthenticated service assertions, not independently verified historical events.",
+    "Issue #54 remains open pending discovery of pre-September 2026 independent archival captures for all thirteen objects."
+  ]
+}

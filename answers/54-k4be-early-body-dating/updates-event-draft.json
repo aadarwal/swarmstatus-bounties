@@ -1,0 +1,22 @@
+{
+  "id": "k4be54-early-body-dating-partial-v1",
+  "issues": [
+    54
+  ],
+  "status": "draft_pending_acceptance",
+  "publication_time": null,
+  "publication_clock_basis": "Assigned by main1 after acceptance; no publication or merge time claimed here.",
+  "answer_file": "README.md",
+  "summary": "Verified all 13 K4be bodies against issue control hashes with defensible presence bound 2026-09-05T20:23:41Z. Historical cohort dating remains unresolved. Established exact FinQA dev.json #619 match for 1806ec31 and identified American Tower and Humana SEC 10-K clusters.",
+  "limits": [
+    "Provider created timestamps (Dec 2025\u2013Mar 2026) are unauthenticated service assertions without pre-September 2026 independent third-party snapshots.",
+    "Matching FinQA benchmark item establishes content relationship to public dataset only; it does not establish agent identity, coordination, or task transfer direction.",
+    "Issue #54 remains open as cohort-wide historical dating is unsupported."
+  ],
+  "credit": {
+    "source": "pastebin.k4be.pl public API responses and czyssrs/FinQA public benchmark",
+    "primary_evidence_review": "Swarmstatus primary-source review pass",
+    "independent_reproduction_and_package": "Swarmstatus independent offline review pass",
+    "coordination": "main1; publication and final acceptance pending"
+  }
+}
