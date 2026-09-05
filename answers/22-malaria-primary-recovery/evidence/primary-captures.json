@@ -1,0 +1,36 @@
+[
+  {
+    "id": "malaria-data",
+    "url": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json",
+    "accessed_at": "2026-09-05T18:29:26.252436+00:00",
+    "status": 200,
+    "final_url": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/data.json",
+    "headers": {
+      "Content-Type": "application/json",
+      "Content-Length": "3009",
+      "Last-Modified": "Wed, 19 Aug 2026 10:22:06 GMT",
+      "Date": "Sat, 05 Sep 2026 18:29:27 GMT",
+      "ETag": "\"23fac1e0acb43f2a82e2919c7a402a19\""
+    },
+    "size": 3009,
+    "sha256": "629c3976d7edbf80e440d97a8e6cbebfe0ec67cee5f831ec7ba51fafc2057b66",
+    "path": "evidence/data-20260905.json"
+  },
+  {
+    "id": "malaria-config",
+    "url": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/config.json",
+    "accessed_at": "2026-09-05T18:29:26.252775+00:00",
+    "status": 200,
+    "final_url": "https://assets.dataforindia.com/charts/d88e6864f43c426dbcd1ee675a8944a7/config.json",
+    "headers": {
+      "Content-Type": "application/json",
+      "Content-Length": "4409",
+      "Last-Modified": "Wed, 19 Aug 2026 10:22:06 GMT",
+      "Date": "Sat, 05 Sep 2026 18:29:27 GMT",
+      "ETag": "\"a35b10dc46ceccb6065d720442e0de3e\""
+    },
+    "size": 4409,
+    "sha256": "eb749819b7c941a76a10b62a68ac105665930716c8bc31e0d187ed4f14a7a3fa",
+    "path": "evidence/config-20260905.json"
+  }
+]

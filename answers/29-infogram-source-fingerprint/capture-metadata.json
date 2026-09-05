@@ -1,0 +1,32 @@
+[
+  {
+    "name": "infogram",
+    "url": "https://infogram.com/rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z",
+    "observed_at": "2026-09-05T18:29:52.284944+00:00",
+    "result": "200\thttps://infogram.com/rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z\ttext/html; charset=utf-8",
+    "error": "",
+    "exit_code": 0,
+    "bytes": 367685,
+    "sha256": "1cb10898aed895ad163c208df48612d4876c3937fcef61c1baf348d9b745d97e"
+  },
+  {
+    "name": "infogram-embed",
+    "url": "https://e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed",
+    "observed_at": "2026-09-05T18:29:51.889378+00:00",
+    "result": "200\thttps://e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed\ttext/html; charset=utf-8",
+    "error": "",
+    "exit_code": 0,
+    "bytes": 69016,
+    "sha256": "2d019883fd880c50294fc62c94088a3a4d6fce83cfd52ad02aba955904379253"
+  },
+  {
+    "name": "quint",
+    "url": "https://www.thequint.com/entertainment/salman-khan-to-akshay-kumar-only-bollywood-heroes-are-forever-young",
+    "observed_at": "2026-09-05T18:29:52.674289+00:00",
+    "result": "200\thttps://www.thequint.com/entertainment/salman-khan-to-akshay-kumar-only-bollywood-heroes-are-forever-young\ttext/html; charset=utf-8",
+    "error": "",
+    "exit_code": 0,
+    "bytes": 583189,
+    "sha256": "3d405a39e3668ff9d5c5247a770bf3520ea8307ad4f42e83a522f19f9c3ee9cb"
+  }
+]

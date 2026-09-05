@@ -1,0 +1,12 @@
+{
+  "root": "work/repos",
+  "scanned_files": 3006,
+  "needle_hits": {
+    "dfi_15_de514": [],
+    "dfi_6_caofdev5": [],
+    "Change in share of deaths due to malaria across age groups": [],
+    "5f944fe0-14b7-44d3-afe6-d5a5a43f19c1": []
+  },
+  "errors": [],
+  "scope": "Six frozen source repositories; gzip artifacts decoded as inert bytes, other files tested literally."
+}

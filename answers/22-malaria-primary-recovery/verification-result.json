@@ -1,0 +1,54 @@
+{
+  "status": "PASS",
+  "manifest_files_verified": 10,
+  "archive_date": "2026-06-13T11:59:01Z",
+  "historical_publisher_citation_verified": true,
+  "current_semantics": {
+    "years": [
+      "2005",
+      "2008",
+      "2012",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2021",
+      "2022"
+    ],
+    "age_series": 8,
+    "numeric_cells": 88,
+    "unit": "%",
+    "geography": "India",
+    "cause": "Malaria",
+    "generic_data_label": "Sum Deaths",
+    "historical_numeric_values_proven": false
+  },
+  "historical_data_or_config_recovered": false,
+  "new_task_staging_verified": false,
+  "issue": 22,
+  "submission": "Advances #22; does not close it",
+  "negative_controls": [
+    {
+      "name": "altered archive chart ID",
+      "rejected": true,
+      "reason": "Expected exact chart iframe ID once in historical article"
+    },
+    {
+      "name": "altered config chart ID",
+      "rejected": true,
+      "reason": "Configuration chart identifier mismatch"
+    },
+    {
+      "name": "altered compressed WARC byte/hash",
+      "rejected": true,
+      "reason": "Compressed WARC SHA256 mismatch"
+    },
+    {
+      "name": "treat generic Sum Deaths as count unit",
+      "rejected": true,
+      "reason": "Chart unit must be percentage"
+    }
+  ]
+}

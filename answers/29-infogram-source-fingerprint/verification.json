@@ -1,0 +1,22 @@
+{
+  "film_rows": 11,
+  "derived_2_0_gap": 41,
+  "canonical_embed_equal": true,
+  "publisher_embeds_exact_uuid": true,
+  "publisher_chart_ids": [
+    "30fb5bf2-e757-4504-a1b6-913a2a571864",
+    "0f6310ce-d34e-4529-a74b-01f460cb636e",
+    "c377c764-b80f-458c-9948-30492ca8a49f",
+    "55eeebff-2501-4b78-979d-1c7c1e5c4f74"
+  ],
+  "altered_id_and_cell_rejected": true,
+  "executed_page_code": false,
+  "source_sha256": {
+    "canonical": "1cb10898aed895ad163c208df48612d4876c3937fcef61c1baf348d9b745d97e",
+    "embed": "2d019883fd880c50294fc62c94088a3a4d6fce83cfd52ad02aba955904379253",
+    "publisher": "3d405a39e3668ff9d5c5247a770bf3520ea8307ad4f42e83a522f19f9c3ee9cb"
+  },
+  "capture_hashes_match": true,
+  "source_declared_dates_checked": true,
+  "altered_declared_date_rejected": true
+}

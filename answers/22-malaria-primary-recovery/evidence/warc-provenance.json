@@ -1,0 +1,31 @@
+{
+  "url": "https://data.commoncrawl.org/crawl-data/CC-MAIN-2026-25/segments/1780687572877.37/warc/CC-MAIN-20260613112816-20260613142816-00967.warc.gz",
+  "accessed_at": "2026-09-05T18:32:13.836574+00:00",
+  "range": "bytes=596893392-596920190",
+  "status": 206,
+  "content_range": "bytes 596893392-596920190/902956250",
+  "index_record": {
+    "urlkey": "com,dataforindia)/malaria-in-india",
+    "timestamp": "20260613115901",
+    "url": "https://www.dataforindia.com/malaria-in-india/",
+    "mime": "text/html",
+    "mime-detected": "text/html",
+    "status": "200",
+    "digest": "WSOE24AD5OAJSDAQSC7ZGNA2CKULHMCY",
+    "length": "26799",
+    "offset": "596893392",
+    "filename": "crawl-data/CC-MAIN-2026-25/segments/1780687572877.37/warc/CC-MAIN-20260613112816-20260613142816-00967.warc.gz",
+    "languages": "eng",
+    "encoding": "UTF-8"
+  },
+  "compressed_size": 26799,
+  "compressed_sha256": "f012462b4d6031ceea994fa28549f2c52a24bf1a135e70e0f7cf7073cafb79bc",
+  "warc_sha256": "c35d88392955b96a81549a3f42c0eee772a0bec78db2ea0c184abe9e946db967",
+  "html_size": 135266,
+  "html_sha256": "5a80881b41be315708f88cfb76971ac901b3dce508dcf5e1c93200f36ae17739",
+  "contains_exact_chart_id": true,
+  "payload_sha1_base32": "WSOE24AD5OAJSDAQSC7ZGNA2CKULHMCY",
+  "block_sha1_base32": "CX4IJEW53UMLJV2J5AIAWP47OW5REMLH",
+  "payload_digest_verified": true,
+  "block_digest_verified": true
+}
