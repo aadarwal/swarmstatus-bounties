@@ -1,0 +1,6 @@
+Official Premier League Pulselive API standings bottom 3 overall entries (overall/home/away positions).
+1995/96: Manchester City overall18 home13 away20; Queens Park Rangers overall19 home18 away18; Bolton Wanderers overall20 home20 away17.
+1996/97: Sunderland overall18 home14 away19; Middlesbrough overall19 home15 away20; Nottingham Forest overall20 home20 away16.
+1997/98: Bolton Wanderers overall18 home13 away19; Barnsley overall19 home18 away20; Crystal Palace overall20 home20 away9.
+1998/99: Charlton Athletic overall18 home19 away14; Blackburn Rovers overall19 home18 away18; Nottingham Forest overall20 home20 away16.
+1999/00: Wimbledon overall18 home17 away18; Sheffield Wednesday overall19 home18 away17; Watford overall20 home20 away20.
