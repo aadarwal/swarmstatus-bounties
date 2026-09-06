@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "issue": 59,
+  "files": {
+    "README.md": {
+      "bytes": 6610,
+      "sha256": "3fc49d18c9367195e51f46750f0db5da64e4cb45d36c30ddf008ba58d85c7a88"
+    },
+    "evidence.json": {
+      "bytes": 14251,
+      "sha256": "7dcf9266fee3cc01b0d9e33a3cfc435a726c1cde19a2eea825fc647cfca8d479"
+    },
+    "verify.py": {
+      "bytes": 8717,
+      "sha256": "05200b5a55bef11ccf1cfe115c3cb3906b34eb9f2c4957c20c1ef7f4a129ad4e"
+    }
+  }
+}
