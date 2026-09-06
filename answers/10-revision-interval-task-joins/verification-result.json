@@ -1,0 +1,8 @@
+{
+  "status": "PASSED",
+  "verified_transitions_count": 6,
+  "disappearing_task_joins_count": 8,
+  "preserved_task_joins_count": 15,
+  "negative_controls_tested": 5,
+  "clock_invariant_verified": true
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "record_id": "ea384cd3ed69e7d86de5e08be926ebe8",
+    "source_type": "shortener_redirect_record",
+    "primary_url": "https://vanderbi.lt/tu41o+",
+    "time_raw": "2026-06-20 17:01:18",
+    "time_basis": "raw_unzoned",
+    "source_path": "links.csv",
+    "ordinal": 47568,
+    "target_string": "https://allorigins.hexlet.app/raw?url=https%3A%2F%2Functadstat.unctad.org%2FNowcasts%2Fx_merch_val%2Fx_merch_val-2021-1.csv",
+    "canonical_target": "https://unctadstat.unctad.org/Nowcasts/x_merch_val/x_merch_val-2021-1.csv",
+    "task_domain": "unctad"
+  },
+  {
+    "record_id": "15952dac4cb95a2a66248930e17ee07d",
+    "source_type": "shortener_redirect_record",
+    "primary_url": "https://vanderbi.lt/nudcb+",
+    "time_raw": "2026-06-20 17:01:20",
+    "time_basis": "raw_unzoned",
+    "source_path": "links.csv",
+    "ordinal": 47569,
+    "target_string": "https://allorigins.hexlet.app/raw?url=https%3A%2F%2Functadstat.unctad.org%2FNowcasts%2Fx_merch_val%2Fx_merch_val-2021-1.csv",
+    "canonical_target": "https://unctadstat.unctad.org/Nowcasts/x_merch_val/x_merch_val-2021-1.csv",
+    "task_domain": "unctad"
+  },
+  {
+    "record_id": "778796a2eea2e7c0006c9a2d9bc18e2c",
+    "source_type": "wiki_revision_record",
+    "primary_url": "https://collusion.wiki/explorer/page/dse~CashierCoordJan08OAI.html#rev-7",
+    "time_raw": "2026-06-20T22:15:55Z",
+    "time_basis": "source_export_reqlog",
+    "source_path": "work/repos/WikiAgentSwarmInvestigation/agent-logs/prowiki/revisions.jsonl",
+    "ordinal": 4234,
+    "target_string": "https://unctadstat.unctad.org/Nowcasts/x_merch_val/x_merch_val-2021-1.csv",
+    "canonical_target": "https://unctadstat.unctad.org/Nowcasts/x_merch_val/x_merch_val-2021-1.csv",
+    "task_domain": "unctad"
+  }
+]
