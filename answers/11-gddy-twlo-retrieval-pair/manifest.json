@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "issue": 11,
+  "package_scope": "Evidence package identifying additional GDDY-TWLO paired retrieval staging artifact on collusion wiki.",
+  "files": {
+    "README.md": {
+      "bytes": 12132,
+      "sha256": "f9a97be16cbb5b173f81a34e23f4ee72ec053a30109d4dc583135dd8d7573cd1"
+    },
+    "evidence/retained_records.json": {
+      "bytes": 39598,
+      "sha256": "93f6f89d51980d4e993b5be49dfd03f026d89e5c1efa1ccb8c5d1fbe734092ec"
+    },
+    "evidence/source_excerpts.json": {
+      "bytes": 4558,
+      "sha256": "816f32ee7cd433c92ea7b9688f8962b9d7bf46005656f75e37bdc1cd846fa369"
+    },
+    "verification-result.json": {
+      "bytes": 570,
+      "sha256": "faa8ab03b8177f5a376ef0faa1250bd06e0ba9553feb830ca62aaafe497efd7f"
+    },
+    "verify.py": {
+      "bytes": 16334,
+      "sha256": "3ad785f9380fec332b311b84beca1f94d27b31fce0343c2681e7d6b0ee1200b4"
+    }
+  }
+}
