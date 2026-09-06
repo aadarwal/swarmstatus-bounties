@@ -1,0 +1,38 @@
+{
+  "package": "10-revision-interval-task-joins",
+  "issue": 10,
+  "description": "Quantification of task joins under whole-object vs revision-interval grouping",
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 13570,
+      "sha256": "c26b4e24f7f632b28a25bf7232cfd7f432bc8d99d0a3edba47b4c21352f603e1"
+    },
+    {
+      "file": "evidence/external_records.json",
+      "bytes": 1752,
+      "sha256": "ea552db168f2f007387fbd8eef580ed652d7df97ff412aaab573bb38a48538ee"
+    },
+    {
+      "file": "evidence/task_joins.json",
+      "bytes": 2971,
+      "sha256": "ab7dc9c7f146b4c282702c23caa3e887b89c2256be2409c1c9ee80338fb1cd27"
+    },
+    {
+      "file": "evidence/transitions.json",
+      "bytes": 23539,
+      "sha256": "deb563cc53fa13008f2fdb882c2f0e413f4a49827cd3cd49400b3e0d31872191"
+    },
+    {
+      "file": "verification-result.json",
+      "bytes": 202,
+      "sha256": "76f907e9703192463923bc7dd848f7dd6cff649331f3055a976ca169875f8db4"
+    },
+    {
+      "file": "verify.py",
+      "bytes": 9637,
+      "sha256": "4754f81da6faa81e34c311220eb455886bffb06b9b613cc3f614fd3e5ad804ea"
+    }
+  ],
+  "note": "Package is fully reproducible offline. No external network access or unzoned clock adjustments required."
+}

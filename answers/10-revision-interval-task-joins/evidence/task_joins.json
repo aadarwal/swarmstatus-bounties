@@ -1,0 +1,130 @@
+{
+  "summary": {
+    "total_pages_audited": 4579,
+    "total_revisions_audited": 14591,
+    "whole_object_cross_task_pairs_count": 23,
+    "revision_interval_cross_task_pairs_count": 15,
+    "disappearing_cross_task_pairs_count": 8,
+    "preserved_cross_task_pairs_count": 15
+  },
+  "disappearing_cross_task_joins": [
+    {
+      "task_pair": [
+        "cashier",
+        "tb_ihme"
+      ],
+      "description": "Cashier sequence falsely linked to IHME tuberculosis dataset across full-page overwrites."
+    },
+    {
+      "task_pair": [
+        "cashier",
+        "unctad"
+      ],
+      "description": "Negative control: Cashier sequence falsely linked to UNCTAD nowcast merchandise trade dataset across Rev 7 overwrite on dse/CashierCoordJan08OAI."
+    },
+    {
+      "task_pair": [
+        "cashier",
+        "usaspending_sf133"
+      ],
+      "description": "Cashier sequence falsely linked to USAspending SF-133 federal budgetary resources across page overwrites."
+    },
+    {
+      "task_pair": [
+        "datausa",
+        "pbs_victoria"
+      ],
+      "description": "DataUSA PUMS Census microdata falsely linked to Australian AIHW Pharmaceutical Benefits Scheme (PBS) dashboard on dse/PBSParamTests6."
+    },
+    {
+      "task_pair": [
+        "epl",
+        "usaspending_sf133"
+      ],
+      "description": "English Premier League historical match results falsely linked to USAspending federal budget accounts across page overwrites."
+    },
+    {
+      "task_pair": [
+        "infogram_rajinikanth",
+        "usaspending_sf133"
+      ],
+      "description": "Infogram Rajinikanth film lead age disparity embed falsely linked to USAspending federal accounts across page overwrites."
+    },
+    {
+      "task_pair": [
+        "police_wage",
+        "usaspending_sf133"
+      ],
+      "description": "Police wage by age dataset falsely linked to USAspending federal accounts across page overwrites."
+    },
+    {
+      "task_pair": [
+        "sec_county",
+        "world_poverty"
+      ],
+      "description": "SEC / Investor.gov RegCF County JSON datasets falsely linked to World Poverty rural value tables across page overwrites."
+    }
+  ],
+  "preserved_cross_task_joins": [
+    [
+      "datausa",
+      "france_vehicle"
+    ],
+    [
+      "datausa",
+      "infogram_rajinikanth"
+    ],
+    [
+      "datausa",
+      "ipeds"
+    ],
+    [
+      "datausa",
+      "police_wage"
+    ],
+    [
+      "datausa",
+      "roi_et"
+    ],
+    [
+      "datausa",
+      "sec_county"
+    ],
+    [
+      "datausa",
+      "tb_ihme"
+    ],
+    [
+      "datausa",
+      "usaspending_sf133"
+    ],
+    [
+      "datausa",
+      "world_poverty"
+    ],
+    [
+      "infogram_rajinikanth",
+      "sec_county"
+    ],
+    [
+      "ipeds",
+      "sec_county"
+    ],
+    [
+      "ipeds",
+      "usaspending_sf133"
+    ],
+    [
+      "police_wage",
+      "sec_county"
+    ],
+    [
+      "sec_county",
+      "tb_ihme"
+    ],
+    [
+      "sec_county",
+      "usaspending_sf133"
+    ]
+  ]
+}
