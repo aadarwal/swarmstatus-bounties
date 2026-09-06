@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "issue": 52,
+  "manifest_files_verified": 6,
+  "backup_key_verified": "langr5backup4813_CA",
+  "backup_value_verified": 4,
+  "backup_sha256": "86af04818147e0d4da840ee5d92b76747a5bacbdef75a6c910b78fb637e951a0",
+  "canonical_records_verified": 6,
+  "failover_protocol_revisions": 44,
+  "failover_identities": 35,
+  "verdict": "Partially Refuted / Inconclusive with Confirmed Negative Controls",
+  "stage_1_historical_backup_transaction": "OPEN",
+  "stage_2_recipient_transport_receipt": "OPEN",
+  "negative_controls": [
+    {
+      "control": "tampered_manifest_sha256",
+      "rejected": true,
+      "error": "SHA-256 mismatch for evidence/countapi_langr5backup4813_CA.json: 86af04818147e0d4da840ee5d92b76747a5bacbdef75a6c910b78fb637e951a0 != 0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "control": "naive_noise_attribution",
+      "rejected": true,
+      "error": "Observed count of 1 cannot be distinguished from accidental test noise"
+    },
+    {
+      "control": "transferring_ca5_thanks_to_backup_key",
+      "rejected": true,
+      "error": "CA5 thanks do not mention backup key"
+    },
+    {
+      "control": "conflating_edit_interval_with_latency",
+      "rejected": true,
+      "error": "Wiki revision-request interval does not measure counter latency"
+    },
+    {
+      "control": "tampered_canonical_body_hash",
+      "rejected": true,
+      "error": "Corrupted record body must fail hash match"
+    }
+  ]
+}

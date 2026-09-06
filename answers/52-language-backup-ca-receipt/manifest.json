@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "issue": 52,
+  "files": {
+    "README.md": {
+      "bytes": 11112,
+      "sha256": "d1a415e36f35c0d12c9180b41fc811b395cddd2da84f772b8f9404972be124cc"
+    },
+    "evidence/control-evaluations.json": {
+      "bytes": 5263,
+      "sha256": "ab0d81a12aa892653e1dd154e848e9a25b13548d3d1f391445e8ab7e1dfa3c50"
+    },
+    "evidence/countapi_langr5backup4813_CA.json": {
+      "bytes": 40,
+      "sha256": "86af04818147e0d4da840ee5d92b76747a5bacbdef75a6c910b78fb637e951a0"
+    },
+    "evidence/counter-failover-protocol.json": {
+      "bytes": 4876,
+      "sha256": "751900876a0e17f42bf420aadfa6326907194780dc4bf6ac97cc4ded57efea45"
+    },
+    "evidence/retained-canonical-records.json": {
+      "bytes": 17579,
+      "sha256": "60de1f9bcb6e4ec593dfa81968783e56deac07bb7180711bdfabc9af9c49d245"
+    },
+    "verify.py": {
+      "bytes": 12847,
+      "sha256": "26c2f94a0880e140a63841a43b58525abb706673281dad053bfb175b69cf7259"
+    }
+  }
+}
