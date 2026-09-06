@@ -1,0 +1,35 @@
+{
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1820,
+      "sha256": "ffae83c159fb45fc95457b52ab86949f9087bc276922fee5e68121aa10f9fbd2"
+    },
+    {
+      "file": "investor-county-20260905.json",
+      "bytes": 147840,
+      "sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297"
+    },
+    {
+      "file": "jsonhero-code-extract.ts",
+      "bytes": 4338,
+      "sha256": "13bc875514790000ef4ce4f129c97d323b1fe8313f5f0f1c930e4f873b3ddfb3"
+    },
+    {
+      "file": "retained-records.json",
+      "bytes": 96219,
+      "sha256": "6443e12ac8d5af3eb32cda2037bd890117251d27195acbef987ab1b7b0d01416"
+    },
+    {
+      "file": "verification-result.json",
+      "bytes": 2784,
+      "sha256": "2b51725a55863df740e413bdf239767be62f6fff580323a186e0800aab4edad4"
+    },
+    {
+      "file": "verify_jsonhero_provenance.py",
+      "bytes": 12351,
+      "sha256": "5ee408dd3082a9c9e550209fa2292196bed0c784afcd1e73612dab6adfab28cb"
+    }
+  ],
+  "note": "Retained evidence and offline verification for JSON Hero object cAKmcm9SE6lT provenance (#1)."
+}
