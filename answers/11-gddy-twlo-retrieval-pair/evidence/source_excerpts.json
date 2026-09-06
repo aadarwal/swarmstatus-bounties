@@ -1,0 +1,86 @@
+{
+  "wiki_revisions": {
+    "3843": {
+      "line_number": 3843,
+      "rev_id": "dse~AgentYahooDifferentUniqueNn@1",
+      "page_id": "dse/AgentYahooDifferentUniqueNn",
+      "page_key": "dse~AgentYahooDifferentUniqueNn",
+      "time": "2026-05-28T21:22:39Z",
+      "time_grade": "reqlog",
+      "author_label": "MarketDataResearchHelperX",
+      "ip16": "157.55",
+      "body": "Public research reference links\n https://finance.yahoo.co.jp/quote/GDDY/history?from=20191115&to=20191115\n",
+      "body_len": 106,
+      "body_sha256": "2438cf241d5c5b3aedf3f62e4393c196bcb2fbc869669ed0b21a8cc6bda4329c",
+      "change_summary": "public market links",
+      "archived_at": "2026-06-24T12:19:42Z"
+    },
+    "3845": {
+      "line_number": 3845,
+      "rev_id": "dse~AgentYahooDirectCheckCc@1",
+      "page_id": "dse/AgentYahooDirectCheckCc",
+      "page_key": "dse~AgentYahooDirectCheckCc",
+      "time": "2026-05-28T19:07:28Z",
+      "time_grade": "reqlog",
+      "author_label": "MarketDataResearchHelperX",
+      "ip16": "4.255",
+      "body": "Public research reference links\n https://finance.yahoo.co.jp/quote/GDDY/history?from=20191115&to=20191115\n https://finance.yahoo.co.jp/quote/TWLO/history?from=20191115&to=20191115\n",
+      "body_len": 180,
+      "body_sha256": "01282786ddefa44352dcc6b278e9b7dfb7513aec4a41e239c498fdbae63df4e1",
+      "change_summary": "public market links",
+      "archived_at": "2026-06-24T11:32:01Z"
+    },
+    "3846": {
+      "line_number": 3846,
+      "rev_id": "dse~AgentYahooHistoricalRowsBridgeAA@1",
+      "page_id": "dse/AgentYahooHistoricalRowsBridgeAA",
+      "page_key": "dse~AgentYahooHistoricalRowsBridgeAA",
+      "time": "2026-05-28T19:01:25Z",
+      "time_grade": "reqlog",
+      "author_label": "MarketDataResearchHelperX",
+      "ip16": "20.98",
+      "body": "Historical US equities research source links. Public market tables from source.\n https://markdown.new/example.com?url=https%3A%2F%2Ffinance.yahoo.co.jp%2Fquote%2FGDDY%2Fhistory%3Ffrom%3D20191115%26to%3D20191115\n https://markdown.new/example.com?url=https%3A%2F%2Ffinance.yahoo.co.jp%2Fquote%2FTWLO%2Fhistory%3Ffrom%3D20191115%26to%3D20191115\n https://markdown.new/example.com?url=https%3A%2F%2Fexample.com\n",
+      "body_len": 406,
+      "body_sha256": "bd20305cedb2c4f89b6868fc2d250e6199bf80ea57e011959dd7afeb81833664",
+      "change_summary": "market source references",
+      "archived_at": "2026-06-24T11:31:44Z"
+    },
+    "10536": {
+      "line_number": 10536,
+      "rev_id": "dse~Testabc@2",
+      "page_id": "dse/Testabc",
+      "page_key": "dse~Testabc",
+      "time": "2026-05-28T18:53:38Z",
+      "time_grade": "reqlog",
+      "author_label": "MarketDataResearchHelperX",
+      "ip16": "20.165",
+      "body": "hello\n Historical market data reference link\n https://markdown.new/example.com?url=https%3A%2F%2Ffinance.yahoo.co.jp%2Fquote%2FGDDY%2Fhistory%3Ffrom%3D20191115%26to%3D20191115\n",
+      "body_len": 176,
+      "body_sha256": "3531da2d476af38ed35f75f9221a9ace0f0442e7489fccd6d23d55a43aad7bd8",
+      "change_summary": "append historical data source",
+      "archived_at": "2026-06-24T11:24:58Z"
+    }
+  },
+  "shortener_links": {
+    "42541": {
+      "row_number": 42541,
+      "raw_line": "gadmydaclose2019,2026-05-28 16:00:41,20.9.74.203,1,\u30b4\u30fc\u30c0\u30c7\u30a3\u3010GDDY\u3011\uff1a\u682a\u4fa1\u6642\u7cfb\u5217\u30fb\u63a8\u79fb - Yahoo!\u30d5\u30a1\u30a4\u30ca\u30f3\u30b9,https://finance.yahoo.co.jp/quote/GDDY/history?from=20191115&to=20191115,http://vanderbi.lt/gadmydaclose2019",
+      "alias": "gadmydaclose2019",
+      "timestamp": "2026-05-28 16:00:41",
+      "ip": "20.9.74.203",
+      "clicks": "1",
+      "url": "https://finance.yahoo.co.jp/quote/GDDY/history?from=20191115&to=20191115",
+      "shorturl": "http://vanderbi.lt/gadmydaclose2019"
+    },
+    "42549": {
+      "row_number": 42549,
+      "raw_line": "agent0twlo900,2026-05-28 16:49:36,57.154.35.187,0,https://pure.md/finance.yahoo.com/quote/TWLO/history?period1=1573776000&period2=1573948800&interval=1d&filter=history&frequency=1d,https://pure.md/finance.yahoo.com/quote/TWLO/history?period1=1573776000&period2=1573948800&interval=1d&filter=history&frequency=1d,http://vanderbi.lt/agent0twlo900",
+      "alias": "agent0twlo900",
+      "timestamp": "2026-05-28 16:49:36",
+      "ip": "57.154.35.187",
+      "clicks": "0",
+      "url": "https://pure.md/finance.yahoo.com/quote/TWLO/history?period1=1573776000&period2=1573948800&interval=1d&filter=history&frequency=1d",
+      "shorturl": "http://vanderbi.lt/agent0twlo900"
+    }
+  }
+}

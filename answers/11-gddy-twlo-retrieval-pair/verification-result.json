@@ -1,0 +1,18 @@
+{
+  "status": "pass",
+  "timestamp_utc": "2026-09-06T05:11:36.088696+00:00",
+  "issue": 11,
+  "primary_discovery_record_id": "f414a88d104b819f0035cd062f63f58e",
+  "primary_staging_page": "dse/AgentYahooDirectCheckCc",
+  "secondary_discovery_record_id": "9ff52811332044d48bcad4a2c8726cc7",
+  "checks": {
+    "checked_records": 6,
+    "derived_ids_matched": 6,
+    "body_hashes_matched": 4,
+    "query_bundles_verified": 4,
+    "ordering_verified": true,
+    "copied_block_distinction_verified": true,
+    "clock_bases_verified": 6,
+    "negative_controls_passed": 5
+  }
+}
