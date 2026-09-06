@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "package_id": "police65-deletion-intermediate-body-v1",
+  "refs": [
+    65
+  ],
+  "publication_status": "draft",
+  "files": {
+    "README.md": {
+      "bytes": 11341,
+      "sha256": "3815ca7916f18bf574b65b9c1cad2b235b29abec16a1904ff0724cf62727bbe2"
+    },
+    "evidence/archive-requests.json": {
+      "bytes": 1073,
+      "sha256": "2e925ff0c1d04763aa38ea42163fe446e4793d4dda8ebbd4c1a0078bf33fe8ee"
+    },
+    "evidence/candidates.json": {
+      "bytes": 1711,
+      "sha256": "5a3fadd737900c3ef9150b1e49d5746869241947023dd7c75bb6d635157146f2"
+    },
+    "evidence/observations.json": {
+      "bytes": 5360,
+      "sha256": "d6a492641ff2276e544e8ecc6fe7db15aecaa4760b5c4e18167c297b470e66c8"
+    },
+    "evidence/revisions.json": {
+      "bytes": 7038,
+      "sha256": "0c4eb987a0e7ff54c57c51a203c42655aee4190eeb06b2c0d46d4751aacd54c7"
+    },
+    "verification-result.json": {
+      "bytes": 1864,
+      "sha256": "f3bd9a67acf98287efae4556a9cad916ef4d0ce74d50771d864de10fd4a1d6f8"
+    },
+    "verify.py": {
+      "bytes": 10717,
+      "sha256": "e3c5cdc99d72563b7166be4236092d5fb1577ade27d5742ea8b3533add763492"
+    }
+  }
+}

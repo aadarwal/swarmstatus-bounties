@@ -1,0 +1,29 @@
+{
+  "candidate_a_single_append": {
+    "name": "Candidate A: Single Section Append (2,388 bytes)",
+    "byte_length": 2388,
+    "sha256": "5be8b60d3ff128365eac7238ec7b8f760cdb566b4fa7031fb52e4aba20ea6cfc",
+    "lines": 21,
+    "composition": "179-byte stub + 1 copy of 2,209-byte section",
+    "consistency": "Mechanically consistent with native revision 2 write and subsequent stale section append at 03:45:08 UTC.",
+    "transformation_to_r50": "Second form-save at 03:45:08 UTC using stale edit context from revision 49 appends the 2,209-byte section again, yielding 2,388 + 2,209 = 4,597 bytes."
+  },
+  "candidate_b_unwritten_noop": {
+    "name": "Candidate B: Unwritten / Suped-out / No-op (179 bytes)",
+    "byte_length": 179,
+    "sha256": "76ed43284defaaa999af2e74efd979763ff169f3adc2c356f34355fe312e1d40",
+    "lines": 2,
+    "composition": "Identical to revision 49 stub",
+    "consistency": "Requires first save to fail silently or write no new content; no error or rollback record is preserved in native logs.",
+    "transformation_to_r50": "Second form-save at 03:45:08 UTC submits payload already containing two copies (4,418 bytes) appended to stub."
+  },
+  "candidate_c_early_duplication": {
+    "name": "Candidate C: Early Client Duplication (4,597 bytes)",
+    "byte_length": 4597,
+    "sha256": "41444dfd5efb442f6e7c0b2920927e6f1945d2c6e463890044b7f88212b2aecb",
+    "lines": 40,
+    "composition": "Identical to revision 50 final body",
+    "consistency": "Requires first save payload to already contain both copies; second save at 03:45:08 UTC would be an idempotent rewrite/no-op.",
+    "transformation_to_r50": "Second form-save overwrites or confirms identical 4,597-byte content."
+  }
+}
