@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 1615,
+      "sha256": "30382b83adae2a2faffdf46a9f7708ab28b49c6ac87e48ad18eb4822f003eed7"
+    },
+    {
+      "file": "cached-wiki-table.json",
+      "bytes": 2354,
+      "sha256": "aa58720d725752f9a460d2a55aba96eb8319983004f013d7aa8ecd35963fe11e"
+    },
+    {
+      "file": "investor-county-20260905.json",
+      "bytes": 147840,
+      "sha256": "19f21855d65a95e4fecd49ee1dd0127748dbebb1eb218c4c877efbc707093297"
+    },
+    {
+      "file": "primary-doc-0001746059-19-000072.xml",
+      "bytes": 9205,
+      "sha256": "d9cd7a5c950372f4b38a011b8cc19b2e766ddc4b0acbd280d399e38dca11500e"
+    },
+    {
+      "file": "primary-doc-0001746059-20-000069.xml",
+      "bytes": 9422,
+      "sha256": "1a4ec0d324e0a5ef94e3b1e510d0d450be407aa4653ccea085dae43d4f506a37"
+    },
+    {
+      "file": "submissions-CIK0001793545.json",
+      "bytes": 1987,
+      "sha256": "03a47b389cadc3a855cab26a4796f2fe8600ef6bf082e23ef938a7221766be5f"
+    },
+    {
+      "file": "verification-result.json",
+      "bytes": 835,
+      "sha256": "74bdaec1fedf0d305bfc4959e5a0f12c23afe417013946a5573266eeed71c808"
+    },
+    {
+      "file": "verify_ma760_provenance.py",
+      "bytes": 11309,
+      "sha256": "4a9d2ed431d15c0c6af050ab9a5280fbf6ad8f1922735c9081b1ed4165ed5596"
+    }
+  ],
+  "note": "Retained primary SEC Form C/C-U filings and county dataset verifying the provenance of us-ma-760."
+}

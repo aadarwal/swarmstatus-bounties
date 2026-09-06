@@ -1,0 +1,15 @@
+{
+  "id": "4cc89598bf23a4b21b771b7d26862b26",
+  "source_id": 5,
+  "record_key": "196",
+  "source_url": "https://www.wikiservice.at/fractal/wiki.cgi?action=browse&id=SecCountyDataExtractH619Table",
+  "time_raw": "2026-06-18T20:48:09+01:00",
+  "time_basis": "clock_conflict_site_offset",
+  "body": "Official SEC county raw relevant codes (research)Source  https://www.sec.gov/files/county.json\nMethodology as filed Form C-U. Extract of Massachusetts codes for accessibility.\n{regCF county 2019}?code us-ma-005 | offerings 1.0 | usd 48600.0\ncode us-ma-009 | offerings 3.0 | usd 143800.0\ncode us-ma-013 | offerings 1.0 | usd 80700.0\ncode us-ma-017 | offerings 6.0 | usd 381150.0\ncode us-ma-021 | offerings 4.0 | usd 708300.0\ncode us-ma-025 | offerings 11.0 | usd 749960.0\n{regCF county 2020}?code us-ma-005 | offerings 1.0 | usd 123660.0\ncode us-ma-009 | offerings 2.0 | usd 65170.0\ncode us-ma-011 | offerings 1.0 | usd 22200.0\ncode us-ma-013 | offerings 2.0 | usd 24300.0\ncode us-ma-017 | offerings 10.0 | usd 1418140.0\ncode us-ma-021 | offerings 1.0 | usd 107000.0\ncode us-ma-023 | offerings 3.0 | usd 223300.0\ncode us-ma-025 | offerings 11.0 | usd 2540000.0\ncode us-ma-760 | offerings 1.0 | usd 14300.0\ncode us-ma-027 | offerings 2.0 | usd 52500.0\n{regCF county 2021}?code us-ma-001 | offerings 2.0 | usd 732088.118791579\ncode us-ma-009 | offerings 2.0 | usd 107811.2833201884\ncode us-ma-013 | offerings 1.0 | usd 15399.9999165534\ncode us-ma-015 | offerings 1.0 | usd 50000.000745057994\ncode us-ma-017 | offerings 13.0 | usd 3942526.530474411\ncode us-ma-021 | offerings 5.0 | usd 752266.2598639721\ncode us-ma-023 | offerings 3.0 | usd 160820.00546157348\ncode us-ma-025 | offerings 11.0 | usd 5377552.250400165\ncode us-ma-027 | offerings 1.0 | usd 256461.322307586\nCounty code reference: 001 Barnstable;003 Berkshire;005 Bristol;007 Dukes;009 Essex;011 Franklin;013 Hampden;015 Hampshire;017 Middlesex;019 Nantucket;021 Norfolk;023 Plymouth;025 Suffolk;027 Worcester.",
+  "body_hash": "2c673703a05c9bc28878948f0c625e73981c45ec798f47962fb2be35e57f3aaf",
+  "native_revision_id": "fractal~SecCountyDataExtractH619Table@1",
+  "body_availability": "head_only",
+  "archived_at": "2026-09-05T01:20:22+00:00",
+  "body_encoding": "html_stripped_utf8",
+  "source_kind": "One retained wiki body; copies are not independent corroboration"
+}

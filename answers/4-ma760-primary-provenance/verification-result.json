@@ -1,0 +1,25 @@
+{
+  "verdict": "SUPPORTED",
+  "primary_filing": {
+    "cik": "0001793545",
+    "accession": "0001746059-20-000069",
+    "issuer": "Tipsy Cupcakes RVA LLC",
+    "jurisdiction": "VA",
+    "address": {
+      "street": "3423 W CARY ST.",
+      "city": "RICHMOND",
+      "state_reported": "MA",
+      "zip": "23221"
+    },
+    "filing_date": "2020-03-05",
+    "acceptance_datetime_utc": "2020-03-05T10:34:10.000Z",
+    "reported_amount_usd": 14300.0
+  },
+  "target_row": {
+    "code": "us-ma-760",
+    "offerings": 1.0,
+    "usd": 14300.0,
+    "color_code": 1.0
+  },
+  "derivation_explanation": "Primary clerical error: filer reported state MA with Richmond VA 23221 address. Automated SEC pipeline concatenated state prefix 'us-ma' with Richmond independent city FIPS county component 760, creating nonstandard orphaned code us-ma-760."
+}
