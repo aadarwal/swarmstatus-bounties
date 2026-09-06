@@ -1,0 +1,288 @@
+{
+  "schema_version": 1,
+  "issue": 59,
+  "target_series": {
+    "string": "Roi Et province (TH45) - Males not in labor force because of studies, Quarter 2\n2013: 46,308\n2014: 32,212\n2015: 35,083\n2016: 36,227\n2017: 40,810\n2018: 36,313\n2019: 35,040\n2020: 38,827\n2021: 37,842\n",
+    "bytes": 197,
+    "sha256": "d1fa02c2009b9bdc5f861a85dfb204c59c2dca2ff8b35b53d9f8395aa5e065f7"
+  },
+  "publisher": {
+    "agency_th": "สำนักงานสถิติแห่งชาติ (สถ.)",
+    "agency_en": "National Statistical Office of Thailand (NSO)",
+    "ministry_th": "กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม",
+    "ministry_en": "Ministry of Digital Economy and Society (MDES)",
+    "provincial_office_th": "สำนักงานสถิติจังหวัดร้อยเอ็ด",
+    "provincial_office_en": "Roi Et Provincial Statistical Office",
+    "portal_url": "https://www.nso.go.th/nsoweb/nso/statistical_system?nso_province_type1=707"
+  },
+  "selector_conjunction": {
+    "geography": {
+      "name_en": "Roi Et Province",
+      "name_th": "จังหวัดร้อยเอ็ด",
+      "iso_3166_2": "TH-45",
+      "nso_province_id": 707,
+      "region": "Northeastern (ภาคตะวันออกเฉียงเหนือ)"
+    },
+    "sex": {
+      "name_en": "Male",
+      "name_th": "ชาย"
+    },
+    "labor_force_status": {
+      "name_en": "Not in the labor force",
+      "name_th": "ผู้ไม่อยู่ในกำลังแรงงาน",
+      "category_code": "2"
+    },
+    "reason": {
+      "name_en": "Studies / Attending school",
+      "name_th": "เรียนหนังสือ",
+      "subcategory_code": "2.2"
+    },
+    "periodicity": {
+      "quarter_name_en": "Quarter 2 (April - June)",
+      "quarter_name_th": "ไตรมาสที่ 2 (เมษายน - มิถุนายน)",
+      "quarter_code": 2
+    },
+    "age_range": {
+      "description": "15 years and over (ประชากรอายุ 15 ปีขึ้นไป / ผู้มีอายุ 15 ปีขึ้นไป)",
+      "definition": "Standard working-age population definition in Thailand Labour Force Survey (LFS) since 2001 (revised from 13+ prior to 2001)"
+    },
+    "unit": {
+      "description": "Number of persons (คน)",
+      "scale": 1,
+      "aggregation": "Survey sampling weights applied to sample count, rounded to nearest whole person"
+    },
+    "series_version": {
+      "project_name_th": "สำรวจภาวะการทำงานของประชากร (ไตรมาส)",
+      "project_name_en": "Labour Force Survey (Quarterly)",
+      "table_standard_title": "Table 1: Population aged 15 years and over by labor force status and sex, Quarter 2 (ตาราง 1 ประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ)",
+      "issn": "0858-0200"
+    }
+  },
+  "records": [
+    {
+      "year": 2013,
+      "be_year": 2556,
+      "target_paste_str": "46,308",
+      "target_paste_value": 46308,
+      "table_value_raw": 46307.54,
+      "table_value_rounded": 46308,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 46307.54 to nearest integer",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตารางที่ 1 ประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ จังหวัดร้อยเอ็ด ไตรมาสที่ 2 (เมษายน - มิถุนายน) 2556",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AEJ2/file_th",
+      "source_sha256": "2ae6c021e34fe824797cbf52adf0861d723b54b71b9a22d438685d28cb9b0965",
+      "source_bytes": 23040,
+      "same_table_controls": {
+        "female_raw": 57819.81,
+        "female_rounded": 57820,
+        "total_raw": 104127.36,
+        "total_rounded": 104127
+      }
+    },
+    {
+      "year": 2014,
+      "be_year": 2557,
+      "target_paste_str": "32,212",
+      "target_paste_value": 32212,
+      "table_value_raw": 32212.34,
+      "table_value_rounded": 32212,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 32212.34 to nearest integer",
+      "source_sheet": "ตาราง1 (2)",
+      "table_title": "ตาราง 1 ประชากร จำแนกตามสถานภาพแรงงานและเพศ จังหวัดร้อยเอ็ด ไตรมาสที่ 2 (เมษายน - มิถุนายน) 2557",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 14,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/Az4X/file_th",
+      "source_sha256": "565f2384db08eaacf0d69ec5d6b8c817549ad8dbed5dfb1fd3aa439a1279dad0",
+      "source_bytes": 10791,
+      "same_table_controls": {
+        "female_raw": 38112.99,
+        "female_rounded": 38113,
+        "total_raw": 70325.33,
+        "total_rounded": 70325
+      }
+    },
+    {
+      "year": 2015,
+      "be_year": 2558,
+      "target_paste_str": "35,083",
+      "target_paste_value": 35083,
+      "table_value_raw": 35084.0,
+      "table_value_rounded": 35084,
+      "match_status": "1_unit_rounding_offset",
+      "transformation": "Published table provides 35084.0; paste records 35083 due to 1-unit sample weight rounding offset",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตารางที่ 1 จำนวนและร้อยละของประชากร จำแนกตามสถานภาพแรงงานและเพศ ไตรมาส 2/2558 (เมษายน - มิถุนายน 2558)",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AG4p/file_th",
+      "source_sha256": "229cd9731c667a82771116c977e0be410e961130aec0704ad1ebe3d1bfe93bcb",
+      "source_bytes": 24064,
+      "same_table_controls": {
+        "female_raw": 37655.0,
+        "female_rounded": 37655,
+        "total_raw": 72739.0,
+        "total_rounded": 72739
+      }
+    },
+    {
+      "year": 2016,
+      "be_year": 2559,
+      "target_paste_str": "36,227",
+      "target_paste_value": 36227,
+      "table_value_raw": 36227.25,
+      "table_value_rounded": 36227,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 36227.25 to nearest integer",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตารางที่ 1 จำนวนและร้อยละของประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงาน และเพศ จังหวัดร้อยเอ็ด ไตรมาส 2/2559 (เมษายน - มิถุนายน 2559)",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AIVN/file_th",
+      "source_sha256": "c90301e07e48275407d4665520c0c1f0313ccfff435f8e355269976b5f9b5fd9",
+      "source_bytes": 26112,
+      "same_table_controls": {
+        "female_raw": 40062.65,
+        "female_rounded": 40063,
+        "total_raw": 76289.89,
+        "total_rounded": 76290
+      }
+    },
+    {
+      "year": 2017,
+      "be_year": 2560,
+      "target_paste_str": "40,810",
+      "target_paste_value": 40810,
+      "table_value_raw": 40810,
+      "table_value_rounded": 40810,
+      "match_status": "exact_match",
+      "transformation": "Exact integer match from source table",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตาราง 1 จำนวนและร้อยละของประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ ไตรมาส 2/2560 (เมษายน - มิถุนายน 2560)",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AJCD/file_th",
+      "source_sha256": "e9783021d82baf7903caeac9ccc6b8c9060837a397fed5af26a89bd8b28a943c",
+      "source_bytes": 12593,
+      "same_table_controls": {
+        "female_raw": 42869.0,
+        "female_rounded": 42869,
+        "total_raw": 83679.0,
+        "total_rounded": 83679
+      }
+    },
+    {
+      "year": 2018,
+      "be_year": 2561,
+      "target_paste_str": "36,313",
+      "target_paste_value": 36313,
+      "table_value_raw": 36313,
+      "table_value_rounded": 36313,
+      "match_status": "exact_match",
+      "transformation": "Exact integer match from source table",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตาราง 1 จำนวนและร้อยละของประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ ไตรมาส 2/2561 (เมษายน - มิถุนายน 2561)",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AkEi/file_th",
+      "source_sha256": "b93b166f3e0a1095328105bbb26215f7260b056394fe55560e565b2551a56468",
+      "source_bytes": 12318,
+      "same_table_controls": {
+        "female_raw": 40715.0,
+        "female_rounded": 40715,
+        "total_raw": 77028.0,
+        "total_rounded": 77028
+      }
+    },
+    {
+      "year": 2019,
+      "be_year": 2562,
+      "target_paste_str": "35,040",
+      "target_paste_value": 35040,
+      "table_value_raw": 35039.81,
+      "table_value_rounded": 35040,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 35039.81 to nearest integer",
+      "source_sheet": "NE",
+      "table_title": "ตารางที่ 1 ประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ ภาคตะวันออกเฉียงเหนือ เป็นรายจังหวัด ไตรมาสที่ 2 (เมษายน-มิถุนายน) 2562",
+      "row_label": "ร้อยเอ็ด -> ชาย",
+      "row_index": 65,
+      "column_label": "เรียนหนังสือ",
+      "column_index": 11,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AQ6N/file_th",
+      "source_sha256": "8ebf14f479fe83db55d9d841351a83eafc44712db1bde3144c0e081cd010c18a",
+      "source_bytes": 56832,
+      "same_table_controls": {
+        "female_raw": 36903.31,
+        "female_rounded": 36903,
+        "total_raw": 71943.12,
+        "total_rounded": 71943
+      }
+    },
+    {
+      "year": 2020,
+      "be_year": 2563,
+      "target_paste_str": "38,827",
+      "target_paste_value": 38827,
+      "table_value_raw": 38827.24,
+      "table_value_rounded": 38827,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 38827.24 to nearest integer; cross-verified in roiet.nso.go.th/images/63.pdf page 30 Table 1 (38,827)",
+      "source_sheet": "ตาราง1",
+      "table_title": "ตาราง 1 จำนวนและร้อยละของประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ ไตรมาส 2/2563 (เมษายน - มิถุนายน 2563)",
+      "row_label": "2.2 เรียนหนังสือ",
+      "row_index": 13,
+      "column_label": "ชาย",
+      "column_index": 3,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/ARvE/file_th",
+      "source_sha256": "87fd5350aeda1b0524bdca0f1610ce4b0c5f0c7adf95f2cb131224dd5434aedd",
+      "source_bytes": 13082,
+      "same_table_controls": {
+        "female_raw": 38045.02,
+        "female_rounded": 38045,
+        "total_raw": 76872.26,
+        "total_rounded": 76872
+      }
+    },
+    {
+      "year": 2021,
+      "be_year": 2564,
+      "target_paste_str": "37,842",
+      "target_paste_value": 37842,
+      "table_value_raw": 37841.95,
+      "table_value_rounded": 37842,
+      "match_status": "exact_match",
+      "transformation": "Round raw survey-weighted estimate 37841.95 to nearest integer; cross-verified in roiet.nso.go.th/images/64.pdf page 29 Table 1 (37,842)",
+      "source_sheet": "NE",
+      "table_title": "ตารางที่ 1 ประชากรอายุ 15 ปีขึ้นไป จำแนกตามสถานภาพแรงงานและเพศ ภาคตะวันออกเฉียงเหนือ เป็นรายจังหวัด ไตรมาสที่ 2 (เมษายน - มิถุนายน) 2564",
+      "row_label": "ร้อยเอ็ด -> ชาย",
+      "row_index": 65,
+      "column_label": "เรียนหนังสือ",
+      "column_index": 11,
+      "download_url": "https://www.nso.go.th/nsoweb/downloadFile/stat_main_nso/AYc9/file_th",
+      "source_sha256": "6cfb401a9ca5c94ae918eb61a45cf4dcafaad7ba28db4e3c1923ffd7fae9bdea",
+      "source_bytes": 179200,
+      "same_table_controls": {
+        "female_raw": 36680.19,
+        "female_rounded": 36680,
+        "total_raw": 74522.14,
+        "total_rounded": 74522
+      }
+    }
+  ]
+}
