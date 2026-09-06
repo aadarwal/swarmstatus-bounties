@@ -1,0 +1,6 @@
+Official PL API 1995-1999 bottom-3 rankings (H/A ranks sorted points,GD,GF; listed all bottom3 and relegated R):
+1995/96 overall relegated: Man City(pos18), Queens Park Rangers(pos19), Bolton Wanderers(pos20). Home bottom3 ranks: QPR H18 (R), Bolton H20 (R), Wimbledon H19(not R). Away bottom3: QPR A18 (R), Man City A20 (R), Southampton A19(not R).
+1996/97 overall relegated: Sunderland 18, Middlesbrough 19, Nottingham Forest 20. Home bottom3: Nottingham Forest H20 (R), Coventry H19(not R), Everton H18(not R). Away bottom3: Middlesbrough A19 (R), Sunderland A20 (R), Blackburn A18(not R).
+1997/98 overall relegated: Bolton Wanderers 18, Barnsley 19, Crystal Palace 20. Home bottom3: Barnsley H18 (R), Crystal Palace H20 (R), Wimbledon H19(not R). Away bottom3: Bolton Wanderers A19 (R), Barnsley A20 (R), Sheffield Wednesday A18(not R).
+1998/99 overall relegated: Charlton Athletic 18, Blackburn Rovers 19, Nottingham Forest 20. Home bottom3: Blackburn Rovers H18 (R), Charlton Athletic H19 (R), Nottingham Forest H20 (R). Away bottom3: Blackburn Rovers A18 (R), Coventry A19(not R), Southampton A20(not R).
+1999/00 overall relegated: Wimbledon 18, Sheffield Wednesday 19, Watford 20. Home bottom3: Sheffield Wednesday H18 (R), Watford H20 (R), Derby County H19(not R). Away bottom3: Wimbledon A18 (R), Watford A20 (R), Coventry A19(not R).
