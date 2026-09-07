@@ -1,0 +1,15 @@
+{
+  "alias": "nrcnaepres9983",
+  "family_name": "NAEP Nation's Report Card (grade-12 science 2019)",
+  "report_citations": [
+    "subagent_reports/8_db_deepdive_asn_taskfamilies.md",
+    "subagent_reports/9_wide_websearch_unseen.md"
+  ],
+  "surfaces": [
+    "shortener:rmn.re",
+    "shortener:vanderbi.lt"
+  ],
+  "surfaces_count": 2,
+  "target_query_bundle": "www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?Year=2019&grade=12&jurisdiction=NP&stattype=MN%3AMN&subject=science&subscale=SRPUV&type=data&variable=HAOHTAIC",
+  "wiki_db_count": 0
+}
