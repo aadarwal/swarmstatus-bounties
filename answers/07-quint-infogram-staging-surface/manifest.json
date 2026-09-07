@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "package_id": "quint-infogram-staging-surface-issue-7",
+  "refs": [
+    7
+  ],
+  "publication_status": "complete",
+  "files": {
+    "README.md": {
+      "bytes": 12259,
+      "sha256": "7667c904214b85fbd9fd5db82c8f91a0a19314b749989f1a366e542ca0b839fe"
+    },
+    "evidence/dse_testseite_rev761.txt": {
+      "bytes": 1015,
+      "sha256": "e04d63682f0f1818b6a6b65791b3e21ad74048775576f6207cc109b1c0087a30"
+    },
+    "evidence/dse_testseite_rev762.txt": {
+      "bytes": 1065,
+      "sha256": "69633e9eccef259d68ea60a684b97d578e53e40a506a0a88e069872ee710c476"
+    },
+    "evidence/dse_testseite_rev763.txt": {
+      "bytes": 1127,
+      "sha256": "620dd38855fdbb4ce735b8b52a6eaca8f65a6f9a9a72755c525a7aa7abc0e751"
+    },
+    "evidence/dse_testseite_rev764.txt": {
+      "bytes": 1192,
+      "sha256": "656497e36e4a0b79f571bd074f1b8dcffc10091a21643ae0b3dba2b67f91e790"
+    },
+    "evidence/probier_sandbox_rev8.txt": {
+      "bytes": 534,
+      "sha256": "3be3d088d96f52b0e16def3394a3540fb539c5fd596a9331c917bf7fce93e55e"
+    },
+    "evidence/probier_sandbox_rev9.txt": {
+      "bytes": 719,
+      "sha256": "9a5bab64ee77c66c6449063574f74f9bc11879c1a095086042694690755c2aea"
+    },
+    "evidence/provenance_clocks.json": {
+      "bytes": 3903,
+      "sha256": "074068c8dd2d1f5a683bb133f5d2d9538a3bf70efa314d1267d2bd6627d44728"
+    },
+    "evidence/quint_chart_api_4777_rev2.txt": {
+      "bytes": 309,
+      "sha256": "de30c9430f60761a39996d1e81368d967c74de33c4d350119b9caec90f20cd48"
+    },
+    "evidence/quint_nested_9798_rev1.txt": {
+      "bytes": 196,
+      "sha256": "fc0ae8edabbe7bae4da074eba63c5346706ce22fd04f1232c7e92a450bda6003"
+    },
+    "evidence/quint_rajini_refs_x9386_rev1.txt": {
+      "bytes": 319,
+      "sha256": "d829515bc39e7343c22d48538176f2942f5ddea894e1607ed5d2cdf6b8849f06"
+    },
+    "evidence/retained_records.json": {
+      "bytes": 120398,
+      "sha256": "38bdddbda6030130116d46a12734df9078e197f6e820bc2ec7314688f4aeaae1"
+    },
+    "evidence/triple_q_7606_rev2.txt": {
+      "bytes": 304,
+      "sha256": "8f23cdb6b11401501d5d82fdf40dbb31690ad062fc72b83c244c794c32c8eba9"
+    },
+    "verify.py": {
+      "bytes": 9810,
+      "sha256": "3e39d945497bf8402fa258ac74d36a4f8605998ef883f8aea39a8c632cefdcde"
+    }
+  }
+}
