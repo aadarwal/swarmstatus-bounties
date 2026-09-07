@@ -1,0 +1,24 @@
+{
+  "issue": 16,
+  "status": "resolved",
+  "universities": [
+    {
+      "id": 153658,
+      "genders": [1, 2],
+      "query_limit_reconciliation": "top=5.Year.Completions.desc retrieves the top 5 years globally ranked by completions for the given university and gender drilldowns (Year, CIP6), while the retained variant restricts the scope to Year=2016,2017,2018 with top=3.Year.Completions.desc, returning the top 3 completion records specifically within those three years."
+    },
+    {
+      "id": 215062,
+      "genders": [1, 2],
+      "query_limit_reconciliation": "top=5.Year.Completions.desc retrieves the top 5 years globally ranked by completions for the given university and gender drilldowns (Year, CIP6), while the retained variant restricts the scope to Year=2016,2017,2018 with top=3.Year.Completions.desc, returning the top 3 completion records specifically within those three years."
+    }
+  ],
+  "drilldowns": ["Year", "CIP6"],
+  "measures": ["Completions"],
+  "receipt_queries": {
+    "153658_gender_1": "https://datausa.io/api/data?measures=Completions&drilldowns=Year,CIP6&university=153658&gender=1&top=5.Year.Completions.desc",
+    "153658_gender_2": "https://datausa.io/api/data?measures=Completions&drilldowns=Year,CIP6&university=153658&gender=2&top=5.Year.Completions.desc",
+    "215062_gender_1": "https://datausa.io/api/data?measures=Completions&drilldowns=Year,CIP6&university=215062&gender=1&top=5.Year.Completions.desc",
+    "215062_gender_2": "https://datausa.io/api/data?measures=Completions&drilldowns=Year,CIP6&university=215062&gender=2&top=5.Year.Completions.desc"
+  }
+}
