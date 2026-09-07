@@ -1,0 +1,17 @@
+Alternate format references for monthly product document files.
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20241230.pdf
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf?format=json
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20241230.pdf?format=json
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf?retain_images=true
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf?method=ai
+
+https://markdown.new/example.com?format=json
+
+https://markdown.new/example.com/

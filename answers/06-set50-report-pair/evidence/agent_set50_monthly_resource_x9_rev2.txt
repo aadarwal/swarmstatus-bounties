@@ -1,0 +1,7 @@
+Test addition for research references.
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf
+
+https://markdown.new/weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20241230.pdf
+
+https://markdown.new/example.com

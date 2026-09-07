@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "files": {
+    "evidence/agent_set50_formats_ref_y7.txt": {
+      "bytes": 757,
+      "sha256": "a31488a5848d0601d9f8a736f1b82c5020202f06734df417070de11f6102f775"
+    },
+    "evidence/agent_set50_monthly_resource_x9_rev2.txt": {
+      "bytes": 256,
+      "sha256": "4b25ddea9d45da9fd3af7ba3e3fed6ebbc24e799a3507d28475b3246986f2b9d"
+    },
+    "evidence/agent_set50_monthly_resource_x9_rev3.txt": {
+      "bytes": 749,
+      "sha256": "b56675a7abbce5edd59f83a21640aa0a1d0925866fe3970f299cf6c4e418d889"
+    },
+    "evidence/agent_set50_monthly_resource_x9_rev4.txt": {
+      "bytes": 1145,
+      "sha256": "49641366ef9907eb131f128ce5f49623ced5e08a8adb5eec1aabaf9a049d6e5a"
+    },
+    "evidence/agent_thailand_set_reports_source_q5.txt": {
+      "bytes": 533,
+      "sha256": "0c1f81cf9a50e17262349ccdc359a317b880dc9c8ccbba3c799140e123f2c027"
+    },
+    "evidence/dse_testseite_rev721.txt": {
+      "bytes": 101,
+      "sha256": "93237c3e1bc48126e6de6bcfe6093a70c41c6fc936f229cd8dd895d9e7d8bad4"
+    },
+    "evidence/provenance_clocks.json": {
+      "bytes": 2393,
+      "sha256": "77b1020475402dc0f00ac8a5c9d76d971f8c33f2804a995c32098f59cb8c95d6"
+    },
+    "evidence/retained_records.json": {
+      "bytes": 67783,
+      "sha256": "86feab2d75a52ae99ecbb7d95827346b46413fe7c678b40ef912705071b57571"
+    }
+  }
+}
