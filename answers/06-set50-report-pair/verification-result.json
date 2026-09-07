@@ -1,0 +1,60 @@
+{
+  "status": "PASS",
+  "manifest": {
+    "verified_count": 8,
+    "files": [
+      "evidence/agent_set50_formats_ref_y7.txt",
+      "evidence/agent_set50_monthly_resource_x9_rev2.txt",
+      "evidence/agent_set50_monthly_resource_x9_rev3.txt",
+      "evidence/agent_set50_monthly_resource_x9_rev4.txt",
+      "evidence/agent_thailand_set_reports_source_q5.txt",
+      "evidence/dse_testseite_rev721.txt",
+      "evidence/provenance_clocks.json",
+      "evidence/retained_records.json"
+    ]
+  },
+  "records": {
+    "verified_count": 6,
+    "records": [
+      "6bfad1373e4fc38068352fc0890805b6",
+      "184150253f1145e69149b1ccce3262e6",
+      "50231ee676d6466efb10f5ceddb99868",
+      "56ef9249f879bc642280ff7df025216b",
+      "b479898b9d34554cd71b6597dfc953a5",
+      "7919cee1b39a58156ee043e38df902a9"
+    ]
+  },
+  "novel_staging_surface": {
+    "candidate_object": "probier/AgentThailandSETReportsSourceQ5",
+    "record_id": "6bfad1373e4fc38068352fc0890805b6",
+    "january_target": "https://weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20250131.pdf",
+    "december_target": "https://weblink.set.or.th/dat/report/product/SET50_MonthlyReport_20241230.pdf",
+    "pair_order_valid": true,
+    "additional_targets_verified": 4,
+    "is_outside_documented_objects": true
+  },
+  "format_predecessor": {
+    "predecessor_object": "probier/AgentSet50FormatsRefY7",
+    "record_id": "184150253f1145e69149b1ccce3262e6",
+    "bundle_url_count": 8,
+    "bundle_order_verified": true,
+    "near_copy_relation_confirmed": true
+  },
+  "clock_reconciliation": {
+    "reconciled_count": 5,
+    "entries": [
+      "probier/AgentSet50MonthlyResourceX9",
+      "probier/AgentSet50MonthlyResourceX9",
+      "probier/AgentSet50FormatsRefY7",
+      "probier/AgentThailandSETReportsSourceQ5",
+      "dse/TestSeite"
+    ]
+  },
+  "negative_controls": [
+    "altered body rejected by cryptographic hash",
+    "inverted chronological pair order rejected",
+    "incomplete proxy/format bundle rejected",
+    "documented object rejected as novel staging surface",
+    "unadjusted site clock rejected without reqlog offset reconciliation"
+  ]
+}

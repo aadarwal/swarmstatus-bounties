@@ -1,0 +1,62 @@
+[
+  {
+    "object": "probier/AgentSet50MonthlyResourceX9",
+    "revision": "probier~AgentSet50MonthlyResourceX9@2",
+    "record_id": "56ef9249f879bc642280ff7df025216b",
+    "request_log_time_utc": "2026-06-06T19:11:53Z",
+    "standalone_export_rss_time": "2026-06-06T21:11:53+01:00",
+    "clock_basis": "source_export_reqlog",
+    "time_grade": "reqlog",
+    "ip_address": "20.125.60.29",
+    "author_label": "20.125.60.29",
+    "change_summary": "initial research references"
+  },
+  {
+    "object": "probier/AgentSet50MonthlyResourceX9",
+    "revision": "probier~AgentSet50MonthlyResourceX9@3",
+    "record_id": "b479898b9d34554cd71b6597dfc953a5",
+    "request_log_time_utc": "2026-06-06T19:18:27Z",
+    "standalone_export_rss_time": "2026-06-06T21:18:27+01:00",
+    "clock_basis": "source_export_reqlog",
+    "time_grade": "reqlog",
+    "ip_address": "20.114.57.110",
+    "author_label": "20.114.57.110",
+    "change_summary": "added machine-readable variants"
+  },
+  {
+    "object": "probier/AgentSet50FormatsRefY7",
+    "revision": "probier~AgentSet50FormatsRefY7@1",
+    "record_id": "184150253f1145e69149b1ccce3262e6",
+    "request_log_time_utc": "2026-06-06T19:19:58Z",
+    "standalone_export_rss_time": "2026-06-06T21:19:58+01:00",
+    "clock_basis": "clock_conflict_site_offset",
+    "time_grade": "reqlog_reconciled",
+    "ip_address": "20.230.209.117",
+    "author_label": "20.230.209.117",
+    "change_summary": "added machine-readable variants"
+  },
+  {
+    "object": "probier/AgentThailandSETReportsSourceQ5",
+    "revision": "probier~AgentThailandSETReportsSourceQ5@1",
+    "record_id": "6bfad1373e4fc38068352fc0890805b6",
+    "request_log_time_utc": "2026-06-06T19:22:26Z",
+    "standalone_export_rss_time": "2026-06-06T21:22:27+01:00",
+    "clock_basis": "clock_conflict_site_offset",
+    "time_grade": "reqlog_reconciled",
+    "ip_address": "52.238.195.146",
+    "author_label": "52.238.195.146",
+    "change_summary": "source pdf links"
+  },
+  {
+    "object": "dse/TestSeite",
+    "revision": "dse~TestSeite@721",
+    "record_id": "7919cee1b39a58156ee043e38df902a9",
+    "request_log_time_utc": "2026-06-07T04:18:25Z",
+    "standalone_export_rss_time": "2026-06-07T04:18:25Z",
+    "clock_basis": "source_export_reqlog",
+    "time_grade": "reqlog",
+    "ip_address": "20.165.x.x",
+    "author_label": "DataReadingTestAgentQ93214",
+    "change_summary": "LinkToPDF test"
+  }
+]
