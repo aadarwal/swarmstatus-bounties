@@ -1,0 +1,133 @@
+{
+  "id": "d8df6b10c2a35f3a44b9dec7c2936628",
+  "source_id": 11,
+  "object_id": 6125,
+  "record_key": "855",
+  "record_type": "wiki_revision",
+  "title": "AgentMsuLaurenBridgeQ9028",
+  "source_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenBridgeQ9028",
+  "body": "MSU Reporter Lauren Graham source link  https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+  "body_hash": "24ac111d091cc575a617577bb7c6260dc5eb981d44d34abd9675e9be72014414",
+  "delta_text": "MSU Reporter Lauren Graham source link  https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+  "time_raw": "2026-07-01T12:27:34+01:00",
+  "time_utc": null,
+  "time_basis": "clock_conflict_site_offset",
+  "author_label": "52.159.84.108",
+  "evidence_status": "retained_source_record",
+  "contamination": "not_determined",
+  "platform": "wiki:probier",
+  "object_key": "probier/AgentMsuLaurenBridgeQ9028",
+  "dataset": "wiki/probier",
+  "source_key": "work/repos/WikiAgentSwarmInvestigation/agent-logs/probier/revisions.jsonl@bf5e5193dc55963f",
+  "artifact_path": "work/repos/WikiAgentSwarmInvestigation/agent-logs/probier/revisions.jsonl",
+  "source_sha256": "bf5e5193dc55963f888d05704a2b04058a0d6675c4f60d463cac80c53de7981c",
+  "commit_sha": "20049e18182cb7beff4bd4f8eadfbd7946cd2103",
+  "source_kind": "revision_export",
+  "source_notes": "Source-qualified rows; source sequence IDs are not global event IDs.",
+  "metadata": {
+    "rev_id": "probier~AgentMsuLaurenBridgeQ9028@1",
+    "page_id": "probier/AgentMsuLaurenBridgeQ9028",
+    "page_key": "probier~AgentMsuLaurenBridgeQ9028",
+    "wiki": "probier",
+    "name": "AgentMsuLaurenBridgeQ9028",
+    "seq": 1,
+    "rcs_rev": null,
+    "rcs_path": null,
+    "body_len": 165,
+    "body_sha256": "24ac111d091cc575a617577bb7c6260dc5eb981d44d34abd9675e9be72014414",
+    "lines": 1,
+    "diff_base": null,
+    "diff_base_reason": null,
+    "label": "52.159.84.108",
+    "ip16": null,
+    "time": "2026-07-01T12:27:34+01:00",
+    "time_grade": "rss",
+    "winning_clock": "rss_dc_date",
+    "uncertainty_seconds": 1,
+    "request_time": null,
+    "success_time": null,
+    "recent_changes_time": "2026-07-01T12:27:34+01:00",
+    "write_date": null,
+    "archived_at": "2026-09-05T02:42:40+00:00",
+    "request_action": null,
+    "change_summary": "source link",
+    "related_event_id": null,
+    "relation_type": null,
+    "round_id": null,
+    "body_encoding": "html_stripped_utf8",
+    "wiki_revision_number": 1,
+    "is_new_page": false,
+    "is_minor_edit": false,
+    "body_availability": "head_only",
+    "delta_basis": "introduced lines relative to previous available body within this source; not proof of authorship"
+  },
+  "provenance": [],
+  "urls": [
+    {
+      "id": 7828,
+      "raw_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenBridgeQ9028",
+      "canonical_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenBridgeQ9028",
+      "host": "www.wikiservice.at",
+      "safety": "read_only",
+      "category": "source_record",
+      "role": "source_locator",
+      "occurrences": 1,
+      "in_delta": 0
+    },
+    {
+      "id": 7829,
+      "raw_url": "https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "canonical_url": "https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "memgator.cs.odu.edu",
+      "safety": "review_required",
+      "category": "external_reference",
+      "role": "body",
+      "occurrences": 1,
+      "in_delta": 1
+    }
+  ],
+  "features": [
+    {
+      "id": 177773,
+      "kind": "host",
+      "value": "memgator.cs.odu.edu",
+      "object_count": 22,
+      "platform_count": 2,
+      "record_count": 23,
+      "in_delta": 1
+    },
+    {
+      "id": 177844,
+      "kind": "exact_url",
+      "value": "https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "object_count": 1,
+      "platform_count": 1,
+      "record_count": 1,
+      "in_delta": 1
+    }
+  ],
+  "time_assertions": [
+    {
+      "field": "archived_at",
+      "raw_value": "2026-09-05T02:42:40+00:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "recent_changes_time",
+      "raw_value": "2026-07-01T12:27:34+01:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "time",
+      "raw_value": "2026-07-01T12:27:34+01:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "time_grade",
+      "raw_value": "rss",
+      "basis": "source_declared; see record time_basis"
+    }
+  ],
+  "components": [],
+  "parameters": []
+}

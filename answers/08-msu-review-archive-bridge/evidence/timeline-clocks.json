@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "description": "Chronological separation of publication, archive snapshot, staging, and deletion clocks",
+  "entities": {
+    "original_publication": {
+      "article_title": "Book review: Talking As Fast As I Can",
+      "author": "Lauren Graham",
+      "publisher": "The MSU Reporter (Minnesota State University, Mankato)",
+      "publication_date": "2018-06-06",
+      "clock_basis": "article_dateline",
+      "url": "https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/"
+    },
+    "archive_snapshots": {
+      "memento_20201020093440": {
+        "timestamp_raw": "20201020093440",
+        "timestamp_iso": "2020-10-20T09:34:40Z",
+        "archive_service": "MemGator (ODU) / Internet Archive",
+        "clock_basis": "memento_request_identifier",
+        "uri": "https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/"
+      },
+      "memento_20240623185914": {
+        "timestamp_raw": "20240623185914",
+        "timestamp_iso": "2024-06-23T18:59:14Z",
+        "archive_service": "Wayback Machine / MemGator (ODU)",
+        "clock_basis": "wayback_snapshot_identifier",
+        "uri_memgator": "https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+        "uri_wayback": "https://web.archive.org/web/20240623185914id_/https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/"
+      }
+    },
+    "staging_publications": [
+      {
+        "record_id": "7cf5549dddec014835e4ad964ebd0b28",
+        "wiki": "probier",
+        "object_key": "probier/AgentMsu[Person15]ArchiveX927",
+        "rev_id": "probier~AgentMsu~5bPerson15~5dArchiveX927@2",
+        "rcs_rev": "1.2",
+        "author_label": "20.165",
+        "time_raw": "2026-07-01T10:10:38Z",
+        "time_basis": "source_export_reqlog",
+        "change_summary": "archive link",
+        "staged_memento": "20201020093440",
+        "anonymized": true,
+        "anonymization_token": "[Person15]"
+      },
+      {
+        "record_id": "d8df6b10c2a35f3a44b9dec7c2936628",
+        "wiki": "probier",
+        "object_key": "probier/AgentMsuLaurenBridgeQ9028",
+        "rev_id": "probier~AgentMsuLaurenBridgeQ9028@1",
+        "rcs_rev": null,
+        "author_label": null,
+        "time_raw": "2026-07-01T12:27:34+01:00",
+        "time_basis": "clock_conflict_site_offset",
+        "time_grade": "rss",
+        "time_reqlog_utc": "2026-07-01T10:27:34Z",
+        "change_summary": null,
+        "staged_memento": "20240623185914"
+      },
+      {
+        "record_id": "27a68faa26d0c7ee19d5a8594eec7bb1",
+        "wiki": "dse",
+        "object_key": "dse/AgentMsuReporterArchiveLinkQ842",
+        "rev_id": "dse~AgentMsuReporterArchiveLinkQ842@1",
+        "rcs_rev": "1.1",
+        "author_label": null,
+        "time_raw": "2026-07-01T10:29:45Z",
+        "time_basis": "source_export_reqlog",
+        "change_summary": "research archive links",
+        "staged_memento": ["20201020093440", "20240623185914"]
+      },
+      {
+        "record_id": "fe42c43fcbe846cff3321d23053e9c75",
+        "wiki": "probier",
+        "object_key": "probier/AgentMsuLaurenGrahamArchiveX927",
+        "rev_id": "probier~AgentMsuLaurenGrahamArchiveX927@2",
+        "rcs_rev": null,
+        "author_label": "40.70.189.207",
+        "time_raw": "2026-07-01T12:32:10+01:00",
+        "time_basis": "clock_conflict_site_offset",
+        "time_grade": "rss",
+        "time_reqlog_utc": "2026-07-01T10:32:10Z",
+        "change_summary": "add browse bridge",
+        "staged_memento": "20201020093440",
+        "anonymized": false,
+        "unredacted_name": "Lauren Graham",
+        "counterpart_record_id": "7cf5549dddec014835e4ad964ebd0b28",
+        "underlying_page_relationship": "unredacted_standalone_counterpart_revision"
+      },
+      {
+        "record_id": null,
+        "wiki": "probier",
+        "object_key": "probier/AgentMsuLaurenArchiveX927",
+        "rev_id": "probier~AgentMsuLaurenArchiveX927@1",
+        "time_raw": "2026-07-01T10:32:53Z",
+        "time_basis": "source_export_reqlog",
+        "body_len": 27,
+        "note": "Empty stub page; no URLs staged"
+      }
+    ],
+    "administrative_event": {
+      "object_key": "dse/AgentMsuReporterArchiveLinkQ842",
+      "action": "deletion",
+      "operator": "MarkusLude",
+      "timestamp": "2026-07-13T23:41:00+01:00",
+      "clock_basis": "admin_log"
+    }
+  }
+}

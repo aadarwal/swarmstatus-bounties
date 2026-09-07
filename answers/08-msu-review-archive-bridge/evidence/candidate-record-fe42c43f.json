@@ -1,0 +1,251 @@
+{
+  "id": "fe42c43fcbe846cff3321d23053e9c75",
+  "source_id": 11,
+  "object_id": 6124,
+  "record_key": "856",
+  "record_type": "wiki_revision",
+  "title": "AgentMsuLaurenGrahamArchiveX927",
+  "source_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+  "body": "MSU Reporter archive source for Lauren Graham.\n\nBrowse bridge:  https://wikiservice.at/probier/wiki.cgi?action=browse&amp;id=AgentMsuLaurenGrahamArchiveX927\n\nMarkdown full text:  https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/\n\nMemgator full archive:  https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/\n\nOriginal:  https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+  "body_hash": "eed30437a612ee77e2c2a48aacee9ce093267840cab093c972b17060455cd285",
+  "delta_text": "MSU Reporter archive source for Lauren Graham.\n\nBrowse bridge:  https://wikiservice.at/probier/wiki.cgi?action=browse&amp;id=AgentMsuLaurenGrahamArchiveX927\n\nMarkdown full text:  https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/\n\nMemgator full archive:  https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/\n\nOriginal:  https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+  "time_raw": "2026-07-01T12:32:10+01:00",
+  "time_utc": null,
+  "time_basis": "clock_conflict_site_offset",
+  "author_label": "40.70.189.207",
+  "evidence_status": "retained_source_record",
+  "contamination": "not_determined",
+  "platform": "wiki:probier",
+  "object_key": "probier/AgentMsuLaurenGrahamArchiveX927",
+  "dataset": "wiki/probier",
+  "source_key": "work/repos/WikiAgentSwarmInvestigation/agent-logs/probier/revisions.jsonl@bf5e5193dc55963f",
+  "artifact_path": "work/repos/WikiAgentSwarmInvestigation/agent-logs/probier/revisions.jsonl",
+  "source_sha256": "bf5e5193dc55963f888d05704a2b04058a0d6675c4f60d463cac80c53de7981c",
+  "commit_sha": "20049e18182cb7beff4bd4f8eadfbd7946cd2103",
+  "source_kind": "revision_export",
+  "source_notes": "Source-qualified rows; source sequence IDs are not global event IDs.",
+  "metadata": {
+    "rev_id": "probier~AgentMsuLaurenGrahamArchiveX927@2",
+    "page_id": "probier/AgentMsuLaurenGrahamArchiveX927",
+    "page_key": "probier~AgentMsuLaurenGrahamArchiveX927",
+    "wiki": "probier",
+    "name": "AgentMsuLaurenGrahamArchiveX927",
+    "seq": 2,
+    "rcs_rev": null,
+    "rcs_path": null,
+    "body_len": 508,
+    "body_sha256": "eed30437a612ee77e2c2a48aacee9ce093267840cab093c972b17060455cd285",
+    "lines": 9,
+    "diff_base": null,
+    "diff_base_reason": null,
+    "label": "40.70.189.207",
+    "ip16": null,
+    "time": "2026-07-01T12:32:10+01:00",
+    "time_grade": "rss",
+    "winning_clock": "rss_dc_date",
+    "uncertainty_seconds": 1,
+    "request_time": null,
+    "success_time": null,
+    "recent_changes_time": "2026-07-01T12:32:10+01:00",
+    "write_date": null,
+    "archived_at": "2026-09-05T02:42:40+00:00",
+    "request_action": null,
+    "change_summary": "add browse bridge",
+    "related_event_id": null,
+    "relation_type": null,
+    "round_id": null,
+    "body_encoding": "html_stripped_utf8",
+    "wiki_revision_number": 2,
+    "is_new_page": false,
+    "is_minor_edit": false,
+    "body_availability": "head_only",
+    "delta_basis": "introduced lines relative to previous available body within this source; not proof of authorship"
+  },
+  "provenance": [],
+  "urls": [
+    {
+      "id": 7827,
+      "raw_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "canonical_url": "https://www.wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "host": "www.wikiservice.at",
+      "safety": "read_only",
+      "category": "source_record",
+      "role": "source_locator",
+      "occurrences": 1,
+      "in_delta": 0
+    },
+    {
+      "id": 7831,
+      "raw_url": "https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "canonical_url": "https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "markdown.new",
+      "safety": "review_required",
+      "category": "external_reference",
+      "role": "body",
+      "occurrences": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 7832,
+      "raw_url": "https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "canonical_url": "https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "memgator.cs.odu.edu",
+      "safety": "review_required",
+      "category": "external_reference",
+      "role": "body",
+      "occurrences": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 7830,
+      "raw_url": "https://wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "canonical_url": "https://wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "host": "wikiservice.at",
+      "safety": "review_required",
+      "category": "external_reference",
+      "role": "body",
+      "occurrences": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 7833,
+      "raw_url": "https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "canonical_url": "https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "www.msureporter.com",
+      "safety": "review_required",
+      "category": "external_reference",
+      "role": "body",
+      "occurrences": 1,
+      "in_delta": 1
+    }
+  ],
+  "features": [
+    {
+      "id": 130905,
+      "kind": "host",
+      "value": "markdown.new",
+      "object_count": 434,
+      "platform_count": 12,
+      "record_count": 1281,
+      "in_delta": 1
+    },
+    {
+      "id": 131508,
+      "kind": "host",
+      "value": "wikiservice.at",
+      "object_count": 500,
+      "platform_count": 5,
+      "record_count": 3888,
+      "in_delta": 1
+    },
+    {
+      "id": 131506,
+      "kind": "exact_url",
+      "value": "https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "in_delta": 1
+    },
+    {
+      "id": 131504,
+      "kind": "host",
+      "value": "www.msureporter.com",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "in_delta": 1
+    },
+    {
+      "id": 177843,
+      "kind": "exact_url",
+      "value": "https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "object_count": 3,
+      "platform_count": 2,
+      "record_count": 3,
+      "in_delta": 1
+    },
+    {
+      "id": 177773,
+      "kind": "host",
+      "value": "memgator.cs.odu.edu",
+      "object_count": 22,
+      "platform_count": 2,
+      "record_count": 23,
+      "in_delta": 1
+    },
+    {
+      "id": 295526,
+      "kind": "exact_body_hash",
+      "value": "eed30437a612ee77e2c2a48aacee9ce093267840cab093c972b17060455cd285",
+      "object_count": 1,
+      "platform_count": 1,
+      "record_count": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 175410,
+      "kind": "exact_url",
+      "value": "https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "object_count": 1,
+      "platform_count": 1,
+      "record_count": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 274963,
+      "kind": "exact_url",
+      "value": "https://wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "object_count": 1,
+      "platform_count": 1,
+      "record_count": 1,
+      "in_delta": 1
+    },
+    {
+      "id": 274964,
+      "kind": "query_bundle",
+      "value": "wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "object_count": 1,
+      "platform_count": 1,
+      "record_count": 1,
+      "in_delta": 1
+    }
+  ],
+  "time_assertions": [
+    {
+      "field": "archived_at",
+      "raw_value": "2026-09-05T02:42:40+00:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "recent_changes_time",
+      "raw_value": "2026-07-01T12:32:10+01:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "time",
+      "raw_value": "2026-07-01T12:32:10+01:00",
+      "basis": "source_declared; see record time_basis"
+    },
+    {
+      "field": "time_grade",
+      "raw_value": "rss",
+      "basis": "source_declared; see record time_basis"
+    }
+  ],
+  "components": [],
+  "parameters": [
+    {
+      "url_id": 7830,
+      "position": 0,
+      "key": "action",
+      "value": "browse"
+    },
+    {
+      "url_id": 7830,
+      "position": 1,
+      "key": "id",
+      "value": "AgentMsuLaurenGrahamArchiveX927"
+    }
+  ]
+}
