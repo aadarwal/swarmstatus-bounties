@@ -1,0 +1,22 @@
+Data USA research links
+https://api.datausa.io/tesseract/cubes/pums_5
+https://api.datausa.io/tesseract/data.jsonrecords?cube=pums_5&drilldowns=Year,Wage+Bin&measures=Total+Population,Record+Count&include=PUMA:79500US0602300;Workforce+Status:true&filters=Record+Count.gte.5
+
+OpenAI test link: https://is.gd/KSF87L-
+
+AIHW PBS research bridge:
+https://wikiservice.at/dse/wiki.cgi?AgentAIHWBridgeSep18
+https://viz.aihw.gov.au/t/Public/views/PBSdashboardallATC1-ATC2medicines-Agegroup/PBSDashboard.csv?:showVizHome=no
+
+
+OpenAI Industry Subsector Wage 2015 bridge:
+https://api.datausa.io/tesseract/data.jsonrecords?cube=pums_5&drilldowns=Industry%20Sub-Sector,Year&include=Year:2015;Workforce%20Status:true&locale=en&measures=Average%20Wage
+
+QuintEmbed https://e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed
+QuintCanonical https://infogram.com/rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z
+QuintMark https://markdown.new/e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed
+
+SEC county data bridge: [[AgentSECBridgeJun18X]]
+
+
+Mass county SEC JSON AgentMassCountyReferencePublicJSON2026B

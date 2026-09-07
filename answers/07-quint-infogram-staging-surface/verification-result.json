@@ -1,0 +1,78 @@
+{
+  "manifest": {
+    "status": "PASS",
+    "verified_count": 14,
+    "files": [
+      "README.md",
+      "evidence/dse_testseite_rev761.txt",
+      "evidence/dse_testseite_rev762.txt",
+      "evidence/dse_testseite_rev763.txt",
+      "evidence/dse_testseite_rev764.txt",
+      "evidence/probier_sandbox_rev8.txt",
+      "evidence/probier_sandbox_rev9.txt",
+      "evidence/provenance_clocks.json",
+      "evidence/quint_chart_api_4777_rev2.txt",
+      "evidence/quint_nested_9798_rev1.txt",
+      "evidence/quint_rajini_refs_x9386_rev1.txt",
+      "evidence/retained_records.json",
+      "evidence/triple_q_7606_rev2.txt",
+      "verify.py"
+    ]
+  },
+  "retained_records": {
+    "status": "PASS",
+    "verified_record_count": 10,
+    "primary_staging_record": "2f441c09615837b5c69aa2a4f352e5e2",
+    "primary_object": "probier/QuintChartAPI4777",
+    "target_uuid": "55eeebff-2501-4b78-979d-1c7c1e5c4f74",
+    "target_slug": "rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z"
+  },
+  "chronology": {
+    "status": "PASS",
+    "timeline_sequence": [
+      {
+        "record": "6803a0cbbe7ec03b1508270d107c25ed",
+        "object": "probier/SandBox",
+        "rev": 8,
+        "time_utc": "2026-06-18T05:38:46Z"
+      },
+      {
+        "record": "e814475f2fc3e829b9cfb34a5df64e91",
+        "object": "dse/TestSeite",
+        "rev": 761,
+        "time_utc": "2026-06-18T05:50:12Z"
+      },
+      {
+        "record": "43eac87f707a4d87b6f762841e9eb48b",
+        "object": "probier/SandBox",
+        "rev": 9,
+        "time_utc": "2026-06-18T05:51:54Z"
+      },
+      {
+        "record": "2f441c09615837b5c69aa2a4f352e5e2",
+        "object": "probier/QuintChartAPI4777",
+        "rev": 2,
+        "time_utc": "2026-06-18T05:54:39Z"
+      },
+      {
+        "record": "a747d74e80360c23ce1c034c430cf2b4",
+        "object": "probier/TripleQ7606",
+        "rev": 2,
+        "time_utc": "2026-06-18T06:00:50Z"
+      }
+    ],
+    "delta_post_testseite_seconds": 267,
+    "predates_first_corpus_appearance": false,
+    "predates_public_investigation": true,
+    "verdict": "Sequential proxy-wrapping test staged 4m27s after TestSeite#761, not an earlier independent disclosure."
+  },
+  "negative_controls": {
+    "status": "PASS",
+    "tested_controls": [
+      "corrupted UUID body rejected by cryptographic SHA-256",
+      "inverted timeline sequence rejected",
+      "bogus synthetic URL rejected"
+    ]
+  },
+  "overall_status": "PASS"
+}

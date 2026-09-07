@@ -1,0 +1,8 @@
+newtext
+WAGEQUERY https://api.datausa.io/calcs/pums.jsonrecords?cube=pums_5&drilldowns=Year,Detailed%20Occupation,Gender&measures=Total%20Population,Record%20Count,Average%20Wage,Average%20Wage%20Appx%20MOE&include=Industry%20Sub-Sector:52;Workforce%20Status:true;Detailed%20Occupation:113031,413021,132052,434051,132070&locale=en&filters=Record%20Count.gte.5
+
+InfogramTest https://infogram.com/rajinikanth-indian-cinemas-age-gap-problem-the-quint-1h1749vqy0p0l6z
+EmbedTest https://e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74
+
+LatestQuintRef https://e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed
+LatestQuintMark https://markdown.new/e.infogram.com/55eeebff-2501-4b78-979d-1c7c1e5c4f74?src=embed
