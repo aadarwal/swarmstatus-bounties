@@ -1,0 +1,50 @@
+{
+  "files": {
+    "README.md": {
+      "bytes": 8387,
+      "sha256": "964de14dee8e34238a7ab01897c2140759af45e931a769cc6f9a67dd5b56a731"
+    },
+    "evidence/450789df13b6c28f392700ad20a91558.json": {
+      "bytes": 6065,
+      "sha256": "5c8be7b8eadf1ad379717d01c1c32b64efa70b0ad55f64979cff404ccfbc5cd2"
+    },
+    "evidence/asn_attribution.json": {
+      "bytes": 505,
+      "sha256": "3dea4776502e566b0f9ef45c4aa9160a3e2e58d0c4ba3074dcb47af848fb9469"
+    },
+    "evidence/bca374c2713e81cc5ac4bfc9dc62c511.json": {
+      "bytes": 5903,
+      "sha256": "8a37c34a61844d3e7cf3662af1b06cb460ae8d88363ec88b5c9f14709487e107"
+    },
+    "evidence/rmn_raw_link.json": {
+      "bytes": 503,
+      "sha256": "0bc5507dd971cef41bd21020da78e90a846d05683cfc86299a7960cbc2282961"
+    },
+    "evidence/task_families_excerpt.json": {
+      "bytes": 552,
+      "sha256": "05d9af1d747910fed63252ac0d675d5a9944a2c9bbe26b9c2558c6d9003937df"
+    },
+    "evidence/vanderbilt_raw_link.json": {
+      "bytes": 542,
+      "sha256": "9d106b222d3f6184d464701de58b62981c5cc02ede4c18e241f6ee655e4b8b77"
+    },
+    "evidence/zzx9_control.json": {
+      "bytes": 878,
+      "sha256": "44796b7666f066181cbfafdb00588023ff91b56352adbb9d903a148e1624080d"
+    },
+    "verification-result.json": {
+      "bytes": 1689,
+      "sha256": "fc4e61b228da255270bfda33bf8229431af3f87365e56e38e66f50c5aef77fb1"
+    },
+    "verify.py": {
+      "bytes": 12313,
+      "sha256": "3c69510952204bacf4aca86df0d8b96384ed458bc8ef1a1078afd4d7369695e5"
+    }
+  },
+  "package_id": "naep09-third-surface-provenance-v1",
+  "publication_status": "complete",
+  "refs": [
+    9
+  ],
+  "schema_version": 1
+}

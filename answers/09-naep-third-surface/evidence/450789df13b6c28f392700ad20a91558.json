@@ -1,0 +1,174 @@
+{
+  "artifact_path": "work/external-archives/rmn-full.txt",
+  "author_label": "",
+  "body": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "body_hash": "11dcc0932c22df0379c1c7f74f0c9ac2ea2f2528bc5c65c6eda7cc932064db2a",
+  "commit_sha": "",
+  "components": [],
+  "contamination": "not_determined",
+  "dataset": "shortener/rmn.re",
+  "delta_text": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "evidence_status": "publisher_classified_unverified",
+  "features": [
+    {
+      "id": 277167,
+      "in_delta": 1,
+      "kind": "exact_url",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "value": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019"
+    },
+    {
+      "id": 277168,
+      "in_delta": 1,
+      "kind": "query_bundle",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "value": "www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?Year=2019&grade=12&jurisdiction=NP&stattype=MN%3AMN&subject=science&subscale=SRPUV&type=data&variable=HAOHTAIC"
+    },
+    {
+      "id": 277158,
+      "in_delta": 1,
+      "kind": "host",
+      "object_count": 7,
+      "platform_count": 2,
+      "record_count": 7,
+      "value": "www.nationsreportcard.gov"
+    }
+  ],
+  "id": "450789df13b6c28f392700ad20a91558",
+  "metadata": {
+    "admin_clicks": "31",
+    "clicks": "31",
+    "countries": "US=22; PS=1; VN=1; OM=1; JP=1; GB=1; IN=1; DE=1",
+    "created": "2026-06-13 02:09",
+    "creator_ip": "64.236.176.163",
+    "direct": "27",
+    "ip_owner": "Microsoft Corporation",
+    "keyword": "nrcnaepres9983",
+    "long_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+    "referred": "4",
+    "referrer_urls": "http://rmn.re=3; https://rmn.re=1",
+    "referrers": "rmn.re=4",
+    "short_url": "https://rmn.re/nrcnaepres9983",
+    "stats_fetched": "yes",
+    "swarm": "no",
+    "swarm_ext": "yes",
+    "title": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019"
+  },
+  "object_id": 58156,
+  "object_key": "nrcnaepres9983",
+  "parameters": [
+    {
+      "key": "type",
+      "position": 0,
+      "url_id": 131971,
+      "value": "data"
+    },
+    {
+      "key": "subject",
+      "position": 1,
+      "url_id": 131971,
+      "value": "science"
+    },
+    {
+      "key": "grade",
+      "position": 2,
+      "url_id": 131971,
+      "value": "12"
+    },
+    {
+      "key": "subscale",
+      "position": 3,
+      "url_id": 131971,
+      "value": "SRPUV"
+    },
+    {
+      "key": "variable",
+      "position": 4,
+      "url_id": 131971,
+      "value": "HAOHTAIC"
+    },
+    {
+      "key": "jurisdiction",
+      "position": 5,
+      "url_id": 131971,
+      "value": "NP"
+    },
+    {
+      "key": "stattype",
+      "position": 6,
+      "url_id": 131971,
+      "value": "MN:MN"
+    },
+    {
+      "key": "Year",
+      "position": 7,
+      "url_id": 131971,
+      "value": "2019"
+    }
+  ],
+  "platform": "shortener:rmn.re",
+  "provenance": [],
+  "record_key": "515",
+  "record_type": "shortener_link",
+  "source_id": 26,
+  "source_key": "work/external-archives/rmn-full.txt@99fd0c77e0874710",
+  "source_kind": "shortener_table",
+  "source_notes": "swarm/swarm_ext are publisher classifications, not verified identities",
+  "source_sha256": "99fd0c77e0874710014a499e6f4aaad33749d92ffb30183931ab3f4067a20587",
+  "source_url": "https://rmn.re/nrcnaepres9983+",
+  "time_assertions": [
+    {
+      "basis": "source_declared; see record time_basis",
+      "field": "created",
+      "raw_value": "2026-06-13 02:09"
+    },
+    {
+      "basis": "source_declared; see record time_basis",
+      "field": "stats_fetched",
+      "raw_value": "yes"
+    }
+  ],
+  "time_basis": "raw_unzoned",
+  "time_raw": "2026-06-13 02:09",
+  "time_utc": null,
+  "title": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "urls": [
+    {
+      "canonical_url": "https://rmn.re/nrcnaepres9983+",
+      "category": "public_statistics",
+      "host": "rmn.re",
+      "id": 209911,
+      "in_delta": 0,
+      "occurrences": 1,
+      "raw_url": "https://rmn.re/nrcnaepres9983+",
+      "role": "source_locator",
+      "safety": "read_only"
+    },
+    {
+      "canonical_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "category": "external_reference",
+      "host": "www.nationsreportcard.gov",
+      "id": 131971,
+      "in_delta": 1,
+      "occurrences": 1,
+      "raw_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "role": "body",
+      "safety": "review_required"
+    },
+    {
+      "canonical_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "category": "external_reference",
+      "host": "www.nationsreportcard.gov",
+      "id": 131971,
+      "in_delta": 1,
+      "occurrences": 1,
+      "raw_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "role": "destination",
+      "safety": "review_required"
+    }
+  ]
+}

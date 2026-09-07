@@ -1,0 +1,160 @@
+{
+  "artifact_path": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv",
+  "author_label": "",
+  "body": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "body_hash": "11dcc0932c22df0379c1c7f74f0c9ac2ea2f2528bc5c65c6eda7cc932064db2a",
+  "commit_sha": "9303bf8472714d678b7de19849825d763cfa138b",
+  "components": [],
+  "contamination": "not_determined",
+  "dataset": "shortener/vanderbi.lt",
+  "delta_text": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "evidence_status": "public_table_unattributed",
+  "features": [
+    {
+      "id": 277167,
+      "in_delta": 1,
+      "kind": "exact_url",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "value": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019"
+    },
+    {
+      "id": 277168,
+      "in_delta": 1,
+      "kind": "query_bundle",
+      "object_count": 2,
+      "platform_count": 2,
+      "record_count": 2,
+      "value": "www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?Year=2019&grade=12&jurisdiction=NP&stattype=MN%3AMN&subject=science&subscale=SRPUV&type=data&variable=HAOHTAIC"
+    },
+    {
+      "id": 277158,
+      "in_delta": 1,
+      "kind": "host",
+      "object_count": 7,
+      "platform_count": 2,
+      "record_count": 7,
+      "value": "www.nationsreportcard.gov"
+    }
+  ],
+  "id": "bca374c2713e81cc5ac4bfc9dc62c511",
+  "metadata": {
+    "alias": "nrcnaepres9983",
+    "clicks": "1",
+    "ip": "135.119.61.210",
+    "record_semantics": "alias registration record; URL occurrence is not successful fetch",
+    "shorturl": "http://vanderbi.lt/nrcnaepres9983",
+    "timestamp": "2026-06-12 17:09:31",
+    "title": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+    "url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019"
+  },
+  "object_id": 51700,
+  "object_key": "nrcnaepres9983",
+  "parameters": [
+    {
+      "key": "type",
+      "position": 0,
+      "url_id": 131971,
+      "value": "data"
+    },
+    {
+      "key": "subject",
+      "position": 1,
+      "url_id": 131971,
+      "value": "science"
+    },
+    {
+      "key": "grade",
+      "position": 2,
+      "url_id": 131971,
+      "value": "12"
+    },
+    {
+      "key": "subscale",
+      "position": 3,
+      "url_id": 131971,
+      "value": "SRPUV"
+    },
+    {
+      "key": "variable",
+      "position": 4,
+      "url_id": 131971,
+      "value": "HAOHTAIC"
+    },
+    {
+      "key": "jurisdiction",
+      "position": 5,
+      "url_id": 131971,
+      "value": "NP"
+    },
+    {
+      "key": "stattype",
+      "position": 6,
+      "url_id": 131971,
+      "value": "MN:MN"
+    },
+    {
+      "key": "Year",
+      "position": 7,
+      "url_id": 131971,
+      "value": "2019"
+    }
+  ],
+  "platform": "shortener:vanderbi.lt",
+  "provenance": [],
+  "record_key": "45187",
+  "record_type": "shortener_link",
+  "source_id": 20,
+  "source_key": "work/repos/collusion-wiki-link-shorteners/raw_artifacts/shorteners/vanderbi.lt/links.csv@cb5a906455bc952d",
+  "source_kind": "shortener_table",
+  "source_notes": "Alias creation metadata; archived capture timestamps can be inherited/misleading. No destination replay.",
+  "source_sha256": "cb5a906455bc952d39702243a9bf3fa450933a1c51c6d60ee625a17b64e5bd53",
+  "source_url": "https://vanderbi.lt/nrcnaepres9983+",
+  "time_assertions": [
+    {
+      "basis": "source_declared; see record time_basis",
+      "field": "timestamp",
+      "raw_value": "2026-06-12 17:09:31"
+    }
+  ],
+  "time_basis": "raw_unzoned",
+  "time_raw": "2026-06-12 17:09:31",
+  "time_utc": null,
+  "title": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+  "urls": [
+    {
+      "canonical_url": "https://vanderbi.lt/nrcnaepres9983+",
+      "category": "public_statistics",
+      "host": "vanderbi.lt",
+      "id": 131970,
+      "in_delta": 0,
+      "occurrences": 1,
+      "raw_url": "https://vanderbi.lt/nrcnaepres9983+",
+      "role": "source_locator",
+      "safety": "read_only"
+    },
+    {
+      "canonical_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "category": "external_reference",
+      "host": "www.nationsreportcard.gov",
+      "id": 131971,
+      "in_delta": 1,
+      "occurrences": 1,
+      "raw_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "role": "body",
+      "safety": "review_required"
+    },
+    {
+      "canonical_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "category": "external_reference",
+      "host": "www.nationsreportcard.gov",
+      "id": 131971,
+      "in_delta": 1,
+      "occurrences": 1,
+      "raw_url": "https://www.nationsreportcard.gov/Dataservice/GetAdhocData.aspx?type=data&subject=science&grade=12&subscale=SRPUV&variable=HAOHTAIC&jurisdiction=NP&stattype=MN:MN&Year=2019",
+      "role": "destination",
+      "safety": "review_required"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "alias": "zzx9",
+  "clock_offset_hours": 5,
+  "observed_clock_delta_seconds": 17999,
+  "rmn": {
+    "asn": 8075,
+    "asn_org": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US",
+    "clicks": 33,
+    "creator_ip": "20.171.136.159",
+    "normalized_utc": "2026-06-18 16:38:07",
+    "platform": "shortener:rmn.re",
+    "raw_timestamp": "2026-06-18 16:38:07",
+    "target": "https://example.org/agtest",
+    "timezone_basis": "UTC (UTC+0)"
+  },
+  "true_temporal_separation_seconds": 1,
+  "vanderbilt": {
+    "asn": 8075,
+    "asn_org": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US",
+    "clicks": 0,
+    "creator_ip": "20.29.91.46",
+    "normalized_utc": "2026-06-18 16:38:08",
+    "platform": "shortener:vanderbi.lt",
+    "raw_timestamp": "2026-06-18 11:38:08",
+    "target": "https://example.org/agtest",
+    "timezone_basis": "US/Central (UTC-5)"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "refs": [
+    9
+  ],
+  "verdict": "Exhaustive bounding refutes third surface recurrence; entries are concurrent separate registrations from distinct Azure IPs (delta 6s)",
+  "evidence_files_verified": 7,
+  "digests": {
+    "450789df13b6c28f392700ad20a91558.json": "5c8be7b8eadf1ad379717d01c1c32b64efa70b0ad55f64979cff404ccfbc5cd2",
+    "bca374c2713e81cc5ac4bfc9dc62c511.json": "8a37c34a61844d3e7cf3662af1b06cb460ae8d88363ec88b5c9f14709487e107",
+    "rmn_raw_link.json": "0bc5507dd971cef41bd21020da78e90a846d05683cfc86299a7960cbc2282961",
+    "vanderbilt_raw_link.json": "9d106b222d3f6184d464701de58b62981c5cc02ede4c18e241f6ee655e4b8b77",
+    "zzx9_control.json": "44796b7666f066181cbfafdb00588023ff91b56352adbb9d903a148e1624080d",
+    "asn_attribution.json": "3dea4776502e566b0f9ef45c4aa9160a3e2e58d0c4ba3074dcb47af848fb9469",
+    "task_families_excerpt.json": "05d9af1d747910fed63252ac0d675d5a9944a2c9bbe26b9c2558c6d9003937df"
+  },
+  "shared_alias": "nrcnaepres9983",
+  "target_query_matched": true,
+  "target_parameters_verified": 8,
+  "creator_ip_vanderbilt": "135.119.61.210",
+  "creator_ip_rmn": "64.236.176.163",
+  "infrastructure_asn": 8075,
+  "distinct_creator_ips_verified": true,
+  "database_import_hypothesis_refuted": true,
+  "server_clock_offset_hours": 5,
+  "true_concurrency_delta_seconds": 6,
+  "corpus_surfaces_count": 2,
+  "wiki_database_occurrences": 0,
+  "negative_controls_passed": [
+    "reject_mismatched_naep_variable_b034602",
+    "reject_generic_homepage_as_staging_surface",
+    "reject_database_dump_identical_ip_assumption",
+    "reject_unzoned_difference_as_publication_latency",
+    "reject_unsubstantiated_third_surface_claim"
+  ]
+}

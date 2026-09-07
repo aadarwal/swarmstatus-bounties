@@ -1,0 +1,20 @@
+{
+  "135.119.61.210": {
+    "allocated": "1996-04-30",
+    "asn": 8075,
+    "country": "GB",
+    "org": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US",
+    "prefix": "135.119.0.0/16",
+    "registry": "ripencc",
+    "service": "vanderbi.lt"
+  },
+  "64.236.176.163": {
+    "allocated": "2000-02-02",
+    "asn": 8075,
+    "country": "GB",
+    "org": "MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation, US",
+    "prefix": "64.236.0.0/16",
+    "registry": "ripencc",
+    "service": "rmn.re"
+  }
+}
