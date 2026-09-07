@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "description": "Complete resource identifiers, query bundles, and staging routes for MSU Reporter review",
+  "target_article": {
+    "url": "https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+    "host": "www.msureporter.com",
+    "path": "/2018/06/06/book-review-talking-as-fast-as-i-can/",
+    "article_slug": "book-review-talking-as-fast-as-i-can",
+    "publication_date": "2018-06-06"
+  },
+  "archive_routes": [
+    {
+      "route_id": "memgator_2020",
+      "exact_url": "https://memgator.cs.odu.edu/memento/proxy/20201020093440/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "memgator.cs.odu.edu",
+      "path_prefix": "/memento/proxy/20201020093440/",
+      "target_host": "www.msureporter.com",
+      "target_path": "/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "snapshot_id": "20201020093440",
+      "staged_in_records": [
+        "7cf5549dddec014835e4ad964ebd0b28",
+        "27a68faa26d0c7ee19d5a8594eec7bb1",
+        "fe42c43fcbe846cff3321d23053e9c75"
+      ]
+    },
+    {
+      "route_id": "memgator_2024",
+      "exact_url": "https://memgator.cs.odu.edu/memento/proxy/20240623185914/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "memgator.cs.odu.edu",
+      "path_prefix": "/memento/proxy/20240623185914/",
+      "target_host": "www.msureporter.com",
+      "target_path": "/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "snapshot_id": "20240623185914",
+      "staged_in_records": [
+        "d8df6b10c2a35f3a44b9dec7c2936628"
+      ]
+    },
+    {
+      "route_id": "allorigins_wayback_2024",
+      "exact_url": "https://allorigins.hexlet.app/raw?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20240623185914id_%2Fhttps%3A%2F%2Fwww.msureporter.com%2F2018%2F06%2F06%2Fbook-review-talking-as-fast-as-i-can%2F",
+      "host": "allorigins.hexlet.app",
+      "query_parameter": "url",
+      "wrapped_url": "https://web.archive.org/web/20240623185914id_/https://www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "snapshot_id": "20240623185914",
+      "staged_in_records": [
+        "27a68faa26d0c7ee19d5a8594eec7bb1"
+      ]
+    },
+    {
+      "route_id": "markdown_new_proxy",
+      "exact_url": "https://markdown.new/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "host": "markdown.new",
+      "path": "/www.msureporter.com/2018/06/06/book-review-talking-as-fast-as-i-can/",
+      "target_host": "www.msureporter.com",
+      "staged_in_records": [
+        "fe42c43fcbe846cff3321d23053e9c75"
+      ],
+      "is_new_relative_to_existing": true
+    },
+    {
+      "route_id": "probier_browse_bridge",
+      "exact_url": "https://wikiservice.at/probier/wiki.cgi?action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "host": "wikiservice.at",
+      "query_bundle": "action=browse&id=AgentMsuLaurenGrahamArchiveX927",
+      "parameters": {
+        "action": "browse",
+        "id": "AgentMsuLaurenGrahamArchiveX927"
+      },
+      "staged_in_records": [
+        "fe42c43fcbe846cff3321d23053e9c75"
+      ],
+      "is_new_relative_to_existing": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "evidence_files_verified": 9,
+  "candidate_record_id": "fe42c43fcbe846cff3321d23053e9c75",
+  "candidate_body_bytes": 508,
+  "candidate_body_sha256": "eed30437a612ee77e2c2a48aacee9ce093267840cab093c972b17060455cd285",
+  "clock_separation_verified": true,
+  "complete_query_bundle_verified": true,
+  "caveat_underlying_page_verified": true,
+  "negative_controls_passed": 6,
+  "negative_controls_rejected": [
+    "tampered candidate body bytes",
+    "wrong candidate body hash",
+    "conflated publication date with staging date",
+    "conflated memento snapshot with staging timestamp",
+    "violating caveat by counting unredacted counterpart as independent distinct page",
+    "tampered browse bridge query action"
+  ]
+}

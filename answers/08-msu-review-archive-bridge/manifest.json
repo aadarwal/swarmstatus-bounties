@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "package_id": "msu8-review-archive-bridge-v1",
+  "refs": [
+    8
+  ],
+  "publication_status": "complete",
+  "files": {
+    "README.md": {
+      "bytes": 12719,
+      "sha256": "db9b2e1e9366f2c608202870b5f89daf7e5b56b4e4c51a6c647b60fb66ee8fd4"
+    },
+    "evidence/candidate-body.txt": {
+      "bytes": 508,
+      "sha256": "eed30437a612ee77e2c2a48aacee9ce093267840cab093c972b17060455cd285"
+    },
+    "evidence/candidate-record-fe42c43f.json": {
+      "bytes": 9048,
+      "sha256": "9f86547d123988ce449ed2ba26c19559200edf8f1f1af3b548efbad7b63d528f"
+    },
+    "evidence/existing-record-27a68faa.json": {
+      "bytes": 8702,
+      "sha256": "5c9c297bb5e905b7f691be19df57a7e62abd63629284139dbf9165fc61043635"
+    },
+    "evidence/existing-record-7cf5549d.json": {
+      "bytes": 5234,
+      "sha256": "ecf92d26c5d85909ad94827ad26923c1fab9b655f89e5e6d4a144204c88ab9f8"
+    },
+    "evidence/existing-record-d8df6b10.json": {
+      "bytes": 4937,
+      "sha256": "39f4a9ed173d6ff89f07c418ae98555ab78da91cd652797997b461637f8cf70a"
+    },
+    "evidence/locators-and-routes.json": {
+      "bytes": 3172,
+      "sha256": "827b6f50ba3e10f97b3f1314610f4eea892d967c919d2aa451c8fd9696606df8"
+    },
+    "evidence/timeline-clocks.json": {
+      "bytes": 4480,
+      "sha256": "b82726de0da0ec4fb81efcdc8f7843035f6300a2d6734d3c2dce64606912d86f"
+    },
+    "verify.py": {
+      "bytes": 9389,
+      "sha256": "17c15371dd4b7d8b5934f30ffd5b49e60f6fbc39d49316ee1f06667eae894f02"
+    }
+  }
+}
