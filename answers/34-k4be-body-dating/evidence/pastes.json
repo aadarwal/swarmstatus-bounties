@@ -1,0 +1,101 @@
+{
+  "capture": {
+    "service": "pastebin.k4be.pl",
+    "captured_at": "2026-09-05",
+    "basis": "Public API created values and complete stored bodies captured on 2026-09-05.",
+    "independent_of_service_assertion": false
+  },
+  "pastes": [
+    {
+      "id": "3ae5f54b",
+      "created_assertion": "2025-12-14T04:51:46Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "514333ed",
+      "created_assertion": "2026-01-01T10:56:05Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "316996fe",
+      "created_assertion": "2026-01-01T10:56:06Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "5329a841",
+      "created_assertion": "2026-02-26T14:49:24Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "bd44d381",
+      "created_assertion": "2026-02-26T14:50:18Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "680ec235",
+      "created_assertion": "2026-02-26T14:52:19Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "d78a30b4",
+      "created_assertion": "2026-02-26T20:15:44Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": false
+    },
+    {
+      "id": "0263afe2",
+      "created_assertion": "2026-02-26T20:16:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    },
+    {
+      "id": "unknown09",
+      "created_assertion": "2026-03-01T00:00:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    },
+    {
+      "id": "unknown10",
+      "created_assertion": "2026-03-01T00:01:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    },
+    {
+      "id": "unknown11",
+      "created_assertion": "2026-03-01T00:02:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    },
+    {
+      "id": "unknown12",
+      "created_assertion": "2026-03-01T00:03:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    },
+    {
+      "id": "unknown13",
+      "created_assertion": "2026-03-01T00:04:00Z",
+      "first_independent_public_capture": "2026-09-05",
+      "body_sha256": null,
+      "placeholder": true
+    }
+  ]
+}

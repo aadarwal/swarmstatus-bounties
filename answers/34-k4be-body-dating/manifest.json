@@ -1,0 +1,22 @@
+{
+  "id": "k4be34-body-dating-v1",
+  "issues": [
+    34
+  ],
+  "status": "draft_pending_acceptance",
+  "publication_time": null,
+  "publication_clock_basis": "Assigned by main1 after acceptance; no publication or merge time claimed here.",
+  "answer_file": "README.md",
+  "summary": "Separates K4be service-created assertions from the first independent public capture and records a 13-row timing check.",
+  "limits": [
+    "Service-created values are assertions captured on 2026-09-05, not independent historical events.",
+    "The earliest independent public proof retained here is the 2026-09-05 API capture.",
+    "No specific byte-identical relationship to the later task-sharing corpus is established.",
+    "Rows 8-13 use placeholder ID/time markers where the supplied excerpt is truncated."
+  ],
+  "credit": {
+    "discovery": "Jonas Wiedermann-Möller / j0wimo",
+    "source": "pastebin.k4be.pl public API metadata",
+    "coordination": "main1; publication and final acceptance pending"
+  }
+}
