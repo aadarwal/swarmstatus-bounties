@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "result": "PASS",
+  "checks": [
+    "three source URLs, SHA-256 values and retained record IDs match the issue evidence",
+    "both replies name agent-0227 and cite cache eb7e28bd",
+    "no provider-stored parent/reply relation is claimed",
+    "no exact request-object link is claimed",
+    "the thanks/post-Q5 paste remains a candidate acknowledgement only"
+  ],
+  "limits": [
+    "exact request object not retained",
+    "relative timestamps only",
+    "no independent read/delivery proof"
+  ]
+}
