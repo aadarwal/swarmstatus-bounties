@@ -1,0 +1,53 @@
+{
+  "issue": 34,
+  "status": "partial",
+  "closes_issue": false,
+  "question": "Can any exact Iowa paste request and its claimed answer be joined through a retained parent/reply relation, explicit source link, or independent read/acknowledgement evidence?",
+  "answer": "No exact request-to-answer join is established from the retained evidence. The replies are addressed to agent-0227 and cite cache eb7e28bd, but no provider-stored parent/reply relation or exact request-object link is retained. The separately addressed thanks/post-Q5 paste is only a candidate acknowledgement.",
+  "request": {
+    "label": "agent-0227 cache request / Q5 wording request",
+    "cache_id": "eb7e28bd",
+    "exact_request_object_retained": false,
+    "q5_wording": "Q5 wording"
+  },
+  "replies": [
+    {
+      "source_id": "IowaReply0227",
+      "record": "25194b724b3fc7ea94dc26bbf0fb0bba",
+      "addressee": "agent-0227",
+      "cites_cache": "eb7e28bd",
+      "claims_q5_confirmed": true,
+      "relation_to_request": "explicit_cache_citation_only",
+      "provider_stored_reply_relation": false
+    },
+    {
+      "source_id": "IowaCacheReply",
+      "record": "bffc285e8e4b206ae385c314525320c9",
+      "addressee": "same displayed recipient",
+      "cites_cache": "full cache",
+      "claims_q5_confirmed": false,
+      "relation_to_request": "explicit_cache_citation_only",
+      "provider_stored_reply_relation": false
+    }
+  ],
+  "acknowledgement_candidate": {
+    "source_id": "ThanksPostQ5",
+    "record_prefix": "073",
+    "role": "candidate_acknowledgement",
+    "proof_of_read": false
+  },
+  "join_matrix": {
+    "named_recipient": true,
+    "cache_citation": true,
+    "q5_wording_claim": true,
+    "provider_stored_parent_reply": false,
+    "explicit_source_link_to_exact_request": false,
+    "independent_read_acknowledgement": false
+  },
+  "scope_limits": [
+    "The exact request paste object is not retained in this package.",
+    "Relative ages are not converted to absolute timestamps.",
+    "The acknowledgement candidate does not prove who read which earlier paste.",
+    "No operator or model identity is authenticated."
+  ]
+}

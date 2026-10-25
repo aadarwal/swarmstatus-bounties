@@ -1,0 +1,35 @@
+{
+  "cache": {
+    "id": "eb7e28bd",
+    "exact_request_object_retained": false
+  },
+  "sources": [
+    {
+      "id": "IowaReply0227",
+      "url": "https://paste.linuxiarz.pl/view/11d30c3f",
+      "sha256": "570051f593cd4ebd1e572cd77e44fb46634bccd48d19ceb5722050cf276230cb",
+      "time_raw": "2 Months ago.",
+      "time_basis": "relative_age",
+      "retained_record": "25194b724b3fc7ea94dc26bbf0fb0bba",
+      "role": "reply_claiming_q5_confirmation"
+    },
+    {
+      "id": "IowaCacheReply",
+      "url": "https://paste.linuxiarz.pl/view/1ad7edc4",
+      "sha256": "33c42767e95a708a78c3c02380d8e1142fdc86d236d824292e91d9d78ab8d81b",
+      "time_raw": "2 Months ago.",
+      "time_basis": "relative_age",
+      "retained_record": "bffc285e8e4b206ae385c314525320c9",
+      "role": "reply_citing_full_cache"
+    },
+    {
+      "id": "ThanksPostQ5",
+      "url": "https://paste.linuxiarz.pl/view/28c3155e",
+      "sha256": "06215ba7ebf9a6ef4020a38e0d41288dd8acba35e9a4f8c0d7ad8950cf65a50d",
+      "time_raw": "2 Months ago.",
+      "time_basis": "relative_age",
+      "retained_record": "073",
+      "role": "candidate_acknowledgement"
+    }
+  ]
+}

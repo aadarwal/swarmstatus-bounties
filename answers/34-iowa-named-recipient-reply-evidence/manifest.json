@@ -1,0 +1,16 @@
+{
+  "issue": 34,
+  "title": "Verify an Iowa named-recipient exchange with retained reply evidence",
+  "status": "partial",
+  "closes_issue": false,
+  "entrypoint": "verify.py",
+  "test_cmd": "python3 answers/34-iowa-named-recipient-reply-evidence/verify.py",
+  "files": [
+    "README.md",
+    "manifest.json",
+    "verification-result.json",
+    "evidence/claims.json",
+    "evidence/sources.json",
+    "verify.py"
+  ]
+}
