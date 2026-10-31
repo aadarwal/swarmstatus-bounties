@@ -1,0 +1,32 @@
+{
+  "question": "ordered pair GDDY then TWLO with from=to=20191115, across direct Yahoo Japan routes and embedded markdown.new targets",
+  "observations": [
+    {
+      "record_id": "e960202ecdd806d6157eb6795d7fa5b2",
+      "source_url": "https://vanderbi.lt/gadmydaclose2019+",
+      "time_raw": "2026-05-28 16:00:41",
+      "time_basis": "raw_unzoned",
+      "symbol": "GDDY",
+      "surface": "yahoo_japan_direct",
+      "target": "https://finance.yahoo.co.jp/quote/GDDY/history?from=20191115&to=20191115"
+    },
+    {
+      "record_id": "5426a8262140b2a68f0c249b7649f0da",
+      "source_url": "https://vanderbi.lt/agent0twlo900+",
+      "time_raw": "2026-05-28 16:49:36",
+      "time_basis": "raw_unzoned",
+      "symbol": "TWLO",
+      "surface": "pure_md_epoch_window",
+      "target": "https://pure.md/finance.yahoo.com/quote/TWLO/history?period1=1573776000&period2=1573948800&interval=1d&filter=history&frequency=1d"
+    },
+    {
+      "record_id": "86be648c2518cbc6d3311fa8a658998a",
+      "source_url": "https://collusion.wiki/explorer/page/dse~Testabc.html#rev-2",
+      "time_raw": "2026-05-28T18:53:38Z",
+      "time_basis": "source_export_reqlog",
+      "symbol": "GDDY",
+      "surface": "markdown_new_wrapper",
+      "target": "https://markdown.new/example.com?url=https%3A%2F%2Ffinance.yahoo.co.jp%2Fquote%2FGDDY%2Fhistory%3Ffrom%3D"
+    }
+  ]
+}

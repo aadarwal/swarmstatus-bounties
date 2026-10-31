@@ -1,0 +1,14 @@
+{
+  "record_id": "86be648c2518cbc6d3311fa8a658998a",
+  "source_url": "https://collusion.wiki/explorer/page/dse~Testabc.html#rev-2",
+  "time_raw": "2026-05-28T18:53:38Z",
+  "time_basis": "source_export_reqlog",
+  "kind": "markdown_new_embedded_target",
+  "wrapper_host": "markdown.new",
+  "target": "https://markdown.new/example.com?url=https%3A%2F%2Ffinance.yahoo.co.jp%2Fquote%2FGDDY%2Fhistory%3Ffrom%3D",
+  "decoded_prefix": "https://finance.yahoo.co.jp/quote/GDDY/history?from=",
+  "truncated": true,
+  "classification": "copied_source_block",
+  "why_staging": "A markdown.new wrapper is an indirection that rewrites an existing target rather than a retrieval surface of its own. The url= payload is a strict prefix of the GDDY direct route already recorded on e960202ecdd806d6157eb6795d7fa5b2 and stops at 'from=' so no date value travels with it.",
+  "why_not_independent": "Because the payload is a truncated copy of an earlier target, this record adds no new surface and cannot serve as a second timestamped observation of the pair."
+}

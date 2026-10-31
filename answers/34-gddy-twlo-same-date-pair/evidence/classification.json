@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "copied_source_block": "The target on the later record is a truncation or prefix of a target already present on an earlier record, and it introduces no new retrieval surface (same host and same URL form after decoding).",
+    "independent_observation": "The target introduces a surface absent from every earlier record (different host or different URL form) and carries its own recorded timestamp."
+  },
+  "copied_source_blocks": [
+    "86be648c2518cbc6d3311fa8a658998a"
+  ],
+  "independent_observations": [
+    "e960202ecdd806d6157eb6795d7fa5b2",
+    "5426a8262140b2a68f0c249b7649f0da"
+  ],
+  "reasoning": [
+    "e960202ecdd806d6157eb6795d7fa5b2 is the earliest record and the origin of the GDDY direct Yahoo Japan target, so it is an independent observation by definition.",
+    "5426a8262140b2a68f0c249b7649f0da uses the pure.md host with an epoch-window URL form and contains no GDDY substring; it cannot be derived from the GDDY target, so it is an independent observation.",
+    "86be648c2518cbc6d3311fa8a658998a is a markdown.new wrapper whose decoded url= payload equals the prefix 'https://finance.yahoo.co.jp/quote/GDDY/history?from=' of the GDDY direct route; it is a copied source block.",
+    "The source_export_reqlog timestamp on 86be648c2518cbc6d3311fa8a658998a times the page export, not a retrieval of the embedded target, so it does not elevate the copy to an observation."
+  ],
+  "pair_legs_not_duplicated": true
+}

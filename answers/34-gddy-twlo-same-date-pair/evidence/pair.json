@@ -1,0 +1,26 @@
+{
+  "question": "ordered pair GDDY then TWLO with from=to=20191115",
+  "ordered_pair": [
+    "GDDY",
+    "TWLO"
+  ],
+  "date": "20191115",
+  "from": "20191115",
+  "to": "20191115",
+  "first_record_id": "e960202ecdd806d6157eb6795d7fa5b2",
+  "second_record_id": "5426a8262140b2a68f0c249b7649f0da",
+  "first_surface": "yahoo_japan_direct",
+  "second_surface": "pure_md_epoch_window",
+  "date_encoding": {
+    "first": "calendar parameters from=20191115 and to=20191115 (single day, inclusive bounds equal)",
+    "second": "epoch window period1=1573776000 .. period2=1573948800; the window opens on 2019-11-15"
+  },
+  "epoch": {
+    "period1": 1573776000,
+    "period1_utc": "2019-11-15T00:00:00Z",
+    "period2": 1573948800,
+    "period2_utc": "2019-11-17T00:00:00Z",
+    "window_seconds": 172800
+  },
+  "equivalence_note": "The two legs agree on the start date 20191115 but not on URL form or host; the TWLO window is two days wide, so the match is on the from-date only."
+}
