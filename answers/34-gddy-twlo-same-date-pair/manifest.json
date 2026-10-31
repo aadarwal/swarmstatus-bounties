@@ -1,0 +1,26 @@
+{
+  "issue": "Find the GDDY->TWLO same-date retrieval pair on another surface",
+  "answer_dir": "answers/34-gddy-twlo-same-date-pair",
+  "entrypoint": "README.md",
+  "verify": "verify.py",
+  "test_cmd": "python3 answers/34-gddy-twlo-same-date-pair/verify.py",
+  "expected_output": "verification-result.json",
+  "network_required": false,
+  "question_parameters": {
+    "ordered_pair": ["GDDY", "TWLO"],
+    "from": "20191115",
+    "to": "20191115"
+  },
+  "retained_records": [
+    "e960202ecdd806d6157eb6795d7fa5b2",
+    "5426a8262140b2a68f0c249b7649f0da",
+    "86be648c2518cbc6d3311fa8a658998a"
+  ],
+  "staging_artifact": "86be648c2518cbc6d3311fa8a658998a",
+  "evidence": [
+    "evidence/observations.json",
+    "evidence/pair.json",
+    "evidence/staging-artifact.json",
+    "evidence/classification.json"
+  ]
+}

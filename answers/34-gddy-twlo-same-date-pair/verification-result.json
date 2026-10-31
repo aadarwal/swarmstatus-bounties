@@ -1,0 +1,61 @@
+{
+  "issue": "gddy-twlo-same-date-pair",
+  "status": "pass",
+  "ordered_pair": [
+    "GDDY",
+    "TWLO"
+  ],
+  "date": "20191115",
+  "staging_artifact": "86be648c2518cbc6d3311fa8a658998a",
+  "classification": {
+    "copied_source_blocks": [
+      "86be648c2518cbc6d3311fa8a658998a"
+    ],
+    "independent_observations": [
+      "e960202ecdd806d6157eb6795d7fa5b2",
+      "5426a8262140b2a68f0c249b7649f0da"
+    ]
+  },
+  "checks": [
+    {
+      "id": "C1",
+      "ok": true,
+      "detail": "three retained records with distinct record ids"
+    },
+    {
+      "id": "C2",
+      "ok": true,
+      "detail": "ordered pair GDDY then TWLO carries from=to=20191115"
+    },
+    {
+      "id": "C3",
+      "ok": true,
+      "detail": "GDDY leg is a direct Yahoo Japan route with from=to=20191115"
+    },
+    {
+      "id": "C4",
+      "ok": true,
+      "detail": "TWLO leg encodes the same date as a period1/period2 epoch window starting 2019-11-15"
+    },
+    {
+      "id": "C5",
+      "ok": true,
+      "detail": "additional staging artifact is a markdown.new wrapper holding a truncated copy of the GDDY route"
+    },
+    {
+      "id": "C6",
+      "ok": true,
+      "detail": "TWLO leg is an independent observation: different surface, no GDDY substring"
+    },
+    {
+      "id": "C7",
+      "ok": true,
+      "detail": "classification separates the copied markdown.new block from the independent observations"
+    },
+    {
+      "id": "C8",
+      "ok": true,
+      "detail": "the two independent observations carry distinct raw timestamps"
+    }
+  ]
+}

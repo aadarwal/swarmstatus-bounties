@@ -1,0 +1,51 @@
+{
+  "definition": "A staging artifact is a retained surface that re-serves another surface's retrieval target instead of recording an independent retrieval of its own.",
+  "additional_artifact_id": "sa-01",
+  "artifacts": [
+    {
+      "id": "sa-01",
+      "record_id": "86be648c2518cbc6d3311fa8a658998a",
+      "surface": "https://collusion.wiki/explorer/page/dse~Testabc.html#rev-2",
+      "kind": "embedded_markdown_new_wrapper",
+      "wrapper": "markdown.new",
+      "embedded_target_prefix": "https://finance.yahoo.co.jp/quote/GDDY/history?from=",
+      "truncated_at": "from=",
+      "covers_symbol": "GDDY",
+      "additional_vs_issue_evidence": true,
+      "same_date_witness": false,
+      "classification": "copied_source_block",
+      "why": "The stored target is a markdown.new wrapper whose decoded url= parameter is a prefix of the GDDY Yahoo Japan history route, cut off at '?from='; it carries no to= value and no TWLO string, so it can only be a copy of the GDDY block already seen on the earlier surface."
+    },
+    {
+      "id": "sa-02",
+      "record_id": "5426a8262140b2a68f0c249b7649f0da",
+      "surface": "https://vanderbi.lt/agent0twlo900+",
+      "kind": "proxy_wrapper_route",
+      "wrapper": "pure.md",
+      "embedded_target_prefix": "https://finance.yahoo.com/quote/TWLO/history?period1=1573776000&period2=1573948800&interval=1d&filter=history&frequency=1d",
+      "covers_symbol": "TWLO",
+      "additional_vs_issue_evidence": false,
+      "same_date_witness": false,
+      "classification": "independent_timestamped_observation",
+      "why": "The observation carries its own raw_unzoned timestamp on its own primary source and is 48 minutes 55 seconds later than the GDDY observation; it is not a re-serve of the GDDY block, even though its route is proxy-wrapped and its date window is 48 hours rather than a single day."
+    }
+  ],
+  "search_log": [
+    {
+      "surface": "https://vanderbi.lt/gadmydaclose2019+",
+      "found": "GDDY direct Yahoo Japan same-date route"
+    },
+    {
+      "surface": "https://vanderbi.lt/agent0twlo900+",
+      "found": "TWLO pure.md-wrapped finance.yahoo.com 48h window route"
+    },
+    {
+      "surface": "https://collusion.wiki/explorer/page/dse~Testabc.html#rev-2",
+      "found": "additional staging artifact: markdown.new embed of the GDDY prefix"
+    },
+    {
+      "surface": "https://swarmstatus.com/api/record",
+      "found": "three retained records listed above; no fourth surface with a TWLO from=to=20191115 route in the retained corpus"
+    }
+  ]
+}
